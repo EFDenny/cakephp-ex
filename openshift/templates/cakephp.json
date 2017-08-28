@@ -2,10 +2,10 @@
   "kind": "Template",
   "apiVersion": "v1",
   "metadata": {
-    "name": "cakephp-example",
+    "name": "cpl",
     "annotations": {
-      "openshift.io/display-name": "CakePHP",
-      "description": "An example CakePHP application with no database. For more information about using this template, including OpenShift considerations, see https://github.com/openshift/cake-ex/blob/master/README.md.",
+      "openshift.io/display-name": "Canterberry Poker League",
+      "description": "Since 2008",
       "tags": "quickstart,php,cakephp",
       "iconClass": "icon-php",
       "template.openshift.io/long-description": "This template defines resources needed to develop a CakePHP application, including a build configuration and application deployment configuration.  It does not include a database.",
@@ -16,7 +16,7 @@
   },
   "message": "The following service(s) have been created in your project: ${NAME}.\n\nFor more information about using this template, including OpenShift considerations, see https://github.com/openshift/cake-ex/blob/master/README.md.",
   "labels": {
-    "template": "cakephp-example"
+    "template": "cpl"
   },
   "objects": [
     {
@@ -260,7 +260,7 @@
       "displayName": "Name",
       "description": "The name assigned to all of the frontend objects defined in this template.",
       "required": true,
-      "value": "cakephp-example"
+      "value": "cpl"
     },
     {
       "name": "NAMESPACE",
