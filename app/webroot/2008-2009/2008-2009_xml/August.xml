@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2008-2009" Name="August League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2008-08-09 19:41:38" TournamentEndDate="2008-08-10 00:12:12" TournamentComments="">
+ <Players>
+  <Player Name="Chris J." FirstName="Chris" LastName="Johnson" Rank="3" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="35" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2008-08-10 00:06:56"/>
+  <Player Name="Chris H." FirstName="Chris" LastName="Huey" Rank="11" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="4" TimeOut="2008-08-09 21:00:42"/>
+  <Player Name="Dan" FirstName="Dan" LastName="Myers" Rank="6" TournamentPts="6" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2008-08-09 22:50:57"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="7" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2008-08-09 22:39:42"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="8" TournamentPts="4" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="6" TimeOut="2008-08-09 21:43:45"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="4" TournamentPts="8" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2008-08-09 23:28:50"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="5" TournamentPts="8" Buyin="20" Rebuy="0" Addon="0" Payout="20" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2008-08-09 23:56:47"/>
+  <Player Name="Mike S." FirstName="Mike" LastName="Short" Rank="2" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="60" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2008-08-10 00:12:12"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="9" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="5" TimeOut="2008-08-09 21:17:48"/>
+  <Player Name="Tom W." FirstName="Tom" LastName="Wiegel" Rank="10" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="5" TimeOut="2008-08-09 21:08:59"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="1" TournamentPts="17" Buyin="20" Rebuy="0" Addon="0" Payout="105" Knockouts="5" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2008-08-09 19:00:00" Summary="Tournament started"/>
+  <History Timestamp="2008-08-09 21:00:42" Summary="Chris H. busted out of the tournament (Table 1, Seat 2) by Chris J. (Table 1, Seat 3)"/>
+  <History Timestamp="2008-08-09 21:08:59" Summary="Tom W. busted out of the tournament (Table 1, Seat 9) by Rick (Table 1, Seat 5)"/>
+  <History Timestamp="2008-08-09 21:17:48" Summary="Mandy busted out of the tournament (Table 1, Seat 10) by Chris J. (Table 1, Seat 3)"/>
+  <History Timestamp="2008-08-09 21:43:45" Summary="Lee busted out of the tournament (Table 1, Seat 4) by Warren (Table 1, Seat 8)"/>
+  <History Timestamp="2008-08-09 22:39:42" Summary="Eric busted out of the tournament (Table 1, Seat 1) by Rick (Table 1, Seat 5)"/>
+  <History Timestamp="2008-08-09 22:50:57" Summary="Dan busted out of the tournament (Table 1, Seat 11) by Warren (Table 1, Seat 8)"/>
+  <History Timestamp="2008-08-09 23:28:50" Summary="Rick busted out of the tournament (Table 1, Seat 7) by Mike C. (Table 1, Seat 5)"/>
+  <History Timestamp="2008-08-09 23:56:47" Summary="Mike C. busted out of the tournament (Table 1, Seat 5) by Warren (Table 1, Seat 8)"/>
+  <History Timestamp="2008-08-10 00:06:56" Summary="Chris J. busted out of the tournament (Table 1, Seat 3) by Warren (Table 1, Seat 8)"/>
+  <History Timestamp="2008-08-10 00:12:12" Summary="Mike S. busted out of the tournament (Table 1, Seat 6) by Warren (Table 1, Seat 8)"/>
+  <History Timestamp="2008-08-10 00:12:12" Summary="Warren won the tournament"/>
+  <History Timestamp="2008-08-10 00:12:12" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

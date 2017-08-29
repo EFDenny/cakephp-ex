@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2009-2010" Name="October League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2009-10-16 19:12:30" TournamentEndDate="2009-10-16 23:14:19" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="1" TournamentPts="29" Buyin="20" Rebuy="0" Addon="0" Payout="130" Knockouts="7" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="6" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2009-10-16 22:30:36"/>
+  <Player Name="Josh" FirstName="Josh" LastName="Reel" Rank="11" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2009-10-16 21:53:12"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="8" TournamentPts="8" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2009-10-16 22:26:16"/>
+  <Player Name="Charlie D." FirstName="Charlie" LastName="Drotar" Rank="5" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="20" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2009-10-16 22:33:29"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="9" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2009-10-16 22:20:16"/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="14" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2009-10-16 21:33:54"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="9" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2009-10-16 22:20:16"/>
+  <Player Name="Kjell" FirstName="Kjell" LastName="Wygant" Rank="4" TournamentPts="14" Buyin="20" Rebuy="0" Addon="0" Payout="30" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2009-10-16 22:58:59"/>
+  <Player Name="Jason" FirstName="Jason" LastName="Baker" Rank="12" TournamentPts="6" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2009-10-16 21:50:14"/>
+  <Player Name="Steve" FirstName="Steve" LastName="Drown" Rank="6" TournamentPts="12" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2009-10-16 22:30:36"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="15" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="7" TimeOut="2009-10-16 21:22:46"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="13" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2009-10-16 21:39:28"/>
+  <Player Name="Mike McEvoy" FirstName="Mike" LastName="McEvoy" Rank="3" TournamentPts="19" Buyin="20" Rebuy="0" Addon="0" Payout="45" Knockouts="3" KnockoutRevenue="0" BountyCost="0" RoundOut="13" TimeOut="2009-10-16 23:05:34"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="2" TournamentPts="16" Buyin="20" Rebuy="0" Addon="0" Payout="75" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="13" TimeOut="2009-10-16 23:14:19"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2009-10-16 19:12:30" Summary="Tournament started"/>
+  <History Timestamp="2009-10-16 21:22:46" Summary="Rick busted out of the tournament (Blue, Seat 1) by Kjell (Blue, Seat 4)"/>
+  <History Timestamp="2009-10-16 21:33:54" Summary="Tom B. busted out of the tournament (Blue, Seat 6) by Steve (Blue, Seat 2)"/>
+  <History Timestamp="2009-10-16 21:39:28" Summary="Warren busted out of the tournament (Red, Seat 7) by Jason (Red, Seat 3)"/>
+  <History Timestamp="2009-10-16 21:50:14" Summary="Jason busted out of the tournament (Red, Seat 3) by Eric (Red, Seat 1)"/>
+  <History Timestamp="2009-10-16 21:53:12" Summary="Josh busted out of the tournament (Red, Seat 5) by Lee (Red, Seat 4)"/>
+  <History Timestamp="2009-10-16 22:20:16" Summary="Mike C. busted out of the tournament (Red, Seat 5) by Eric (Red, Seat 10)"/>
+  <History Timestamp="2009-10-16 22:20:16" Summary="David D. busted out of the tournament (Red, Seat 6) by Eric (Red, Seat 10)"/>
+  <History Timestamp="2009-10-16 22:26:16" Summary="Mandy busted out of the tournament (Red, Seat 4) by Mike McEvoy (Red, Seat 7)"/>
+  <History Timestamp="2009-10-16 22:30:36" Summary="Dawn busted out of the tournament (Red, Seat 1) by Eric (Red, Seat 10)"/>
+  <History Timestamp="2009-10-16 22:30:36" Summary="Steve busted out of the tournament (Red, Seat 3) by Eric (Red, Seat 10)"/>
+  <History Timestamp="2009-10-16 22:33:29" Summary="Charlie D. busted out of the tournament (Red, Seat 9) by Mike McEvoy (Red, Seat 7)"/>
+  <History Timestamp="2009-10-16 22:58:59" Summary="Kjell busted out of the tournament (Red, Seat 8) by Mike McEvoy (Red, Seat 7)"/>
+  <History Timestamp="2009-10-16 23:05:34" Summary="Mike McEvoy busted out of the tournament (Red, Seat 7) by Eric (Red, Seat 10)"/>
+  <History Timestamp="2009-10-16 23:14:19" Summary="Lee busted out of the tournament (Red, Seat 2) by Eric (Red, Seat 10)"/>
+  <History Timestamp="2009-10-16 23:14:19" Summary="Eric won the tournament"/>
+  <History Timestamp="2009-10-16 23:14:19" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

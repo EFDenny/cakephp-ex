@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2009-2010" Name="April League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2010-04-16 19:10:07" TournamentEndDate="2010-04-16 23:45:06" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="1" TournamentPts="26" Buyin="20" Rebuy="0" Addon="0" Payout="155" Knockouts="5" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="3" TournamentPts="18" Buyin="20" Rebuy="0" Addon="0" Payout="50" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="13" TimeOut="2010-04-16 23:26:25"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="14" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2010-04-16 21:33:42"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="13" TournamentPts="4" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2010-04-16 21:40:59"/>
+  <Player Name="Charlie D." FirstName="Charlie" LastName="Drotar" Rank="5" TournamentPts="12" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2010-04-16 22:59:14"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="9" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2010-04-16 22:28:39"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="7" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2010-04-16 22:40:37"/>
+  <Player Name="Mike Murphy" FirstName="Mike" LastName="Murphy" Rank="11" TournamentPts="6" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-04-16 21:50:41"/>
+  <Player Name="Josh" FirstName="" LastName="" Rank="2" TournamentPts="19" Buyin="20" Rebuy="0" Addon="0" Payout="85" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="15" TimeOut="2010-04-16 23:45:06"/>
+  <Player Name="Brian S." FirstName="Brian" LastName="Schraymeyer" Rank="15" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2010-04-16 21:32:04"/>
+  <Player Name="Dan" FirstName="Dan" LastName="Myers" Rank="10" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-04-16 22:05:41"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="6" TournamentPts="13" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2010-04-16 22:56:49"/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="12" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2010-04-16 21:43:55"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="4" TournamentPts="19" Buyin="20" Rebuy="0" Addon="0" Payout="30" Knockouts="3" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2010-04-16 23:01:35"/>
+  <Player Name="Mike S." FirstName="Mike" LastName="Short" Rank="8" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2010-04-16 22:35:07"/>
+  <Player Name="Paul" FirstName="Paul" LastName="Denny" Rank="16" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="7" TimeOut="2010-04-16 21:23:34"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2010-04-16 21:23:34" Summary="Paul busted out of the tournament (Black, Seat 6) by Warren (Black, Seat 3)"/>
+  <History Timestamp="2010-04-16 21:32:04" Summary="Brian S. busted out of the tournament (Black, Seat 1) by Lee (Black, Seat 2)"/>
+  <History Timestamp="2010-04-16 21:33:42" Summary="Rick busted out of the tournament (Blue, Seat 3) by Mike S. (Blue, Seat 7)"/>
+  <History Timestamp="2010-04-16 21:40:59" Summary="Mike C. busted out of the tournament (Blue, Seat 6) by Eric (Blue, Seat 5)"/>
+  <History Timestamp="2010-04-16 21:43:55" Summary="Rick Mickaliger busted out of the tournament (Black, Seat 4) by Warren (Black, Seat 3)"/>
+  <History Timestamp="2010-04-16 21:50:41" Summary="Mike Murphy busted out of the tournament (Black, Seat 7) by David D. (Black, Seat 8)"/>
+  <History Timestamp="2010-04-16 22:05:41" Summary="Dan busted out of the tournament (Black, Seat 1) by Eric (Black, Seat 9)"/>
+  <History Timestamp="2010-04-16 22:28:39" Summary="David D. busted out of the tournament (Black, Seat 8) by Warren (Black, Seat 5)"/>
+  <History Timestamp="2010-04-16 22:35:07" Summary="Mike S. busted out of the tournament (Black, Seat 3) by Josh (Black, Seat 4)"/>
+  <History Timestamp="2010-04-16 22:40:37" Summary="Mandy busted out of the tournament (Black, Seat 6) by Tom B. (Black, Seat 10)"/>
+  <History Timestamp="2010-04-16 22:56:49" Summary="Lee busted out of the tournament (Black, Seat 7) by Eric (Black, Seat 9)"/>
+  <History Timestamp="2010-04-16 22:59:14" Summary="Charlie D. busted out of the tournament (Black, Seat 2) by Tom B. (Black, Seat 10)"/>
+  <History Timestamp="2010-04-16 23:01:35" Summary="Warren busted out of the tournament (Black, Seat 5) by Josh (Black, Seat 4)"/>
+  <History Timestamp="2010-04-16 23:26:25" Summary="Tom B. busted out of the tournament (Black, Seat 10) by Eric (Black, Seat 9)"/>
+  <History Timestamp="2010-04-16 23:45:06" Summary="Josh busted out of the tournament (Black, Seat 4) by Eric (Black, Seat 9)"/>
+  <History Timestamp="2010-04-16 23:45:06" Summary="Eric won the tournament"/>
+  <History Timestamp="2010-04-16 23:45:06" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

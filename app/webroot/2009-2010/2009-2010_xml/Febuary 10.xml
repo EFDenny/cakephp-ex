@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2009-2010" Name="February League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2010-02-12 19:15:34" TournamentEndDate="2010-02-12 23:09:01" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="2" TournamentPts="14" Buyin="20" Rebuy="0" Addon="0" Payout="70" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="13" TimeOut="2010-02-12 23:09:01"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="6" TournamentPts="8" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-02-12 22:00:00"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="1" TournamentPts="17" Buyin="20" Rebuy="0" Addon="0" Payout="125" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="9" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-02-12 21:54:02"/>
+  <Player Name="Brian S." FirstName="Brian" LastName="Schraymeyer" Rank="11" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="7" TimeOut="2010-02-12 21:32:32"/>
+  <Player Name="Josh" FirstName="" LastName="" Rank="3" TournamentPts="13" Buyin="20" Rebuy="0" Addon="0" Payout="40" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2010-02-12 22:56:19"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="12" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="3" TimeOut="2010-02-12 20:03:22"/>
+  <Player Name="Duane" FirstName="Duane" LastName="Barone" Rank="7" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-02-12 21:57:09"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="5" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-02-12 22:03:46"/>
+  <Player Name="Mike McEvoy" FirstName="Mike" LastName="McEvoy" Rank="7" TournamentPts="9" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2010-02-12 21:57:09"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="13" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="3" TimeOut="2010-02-12 19:52:21"/>
+  <Player Name="Mike S." FirstName="Mike" LastName="Short" Rank="10" TournamentPts="4" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2010-02-12 21:51:12"/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="4" TournamentPts="22" Buyin="20" Rebuy="0" Addon="0" Payout="25" Knockouts="6" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2010-02-12 22:48:43"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2010-02-12 19:15:34" Summary="Tournament started"/>
+
+  <History Timestamp="2010-02-12 19:52:21" Summary="Lee busted out of the tournament (Blue, Seat 3) by Mike C. (Blue, Seat 2)"/>
+  <History Timestamp="2010-02-12 20:03:22" Summary="Rick busted out of the tournament (Burgundy, Seat 6) by Mike McEvoy (Burgundy, Seat 5)"/>
+  <History Timestamp="2010-02-12 21:32:32" Summary="Brian S. busted out of the tournament (Burgundy, Seat 2) by Rick Mickaliger (Burgundy, Seat 7)"/>
+  <History Timestamp="2010-02-12 21:51:12" Summary="Mike S. busted out of the tournament (Blue, Seat 6) by Rick Mickaliger (Blue, Seat 3)"/>
+  <History Timestamp="2010-02-12 21:54:02" Summary="Tom B. busted out of the tournament (Blue, Seat 8) by Rick Mickaliger (Blue, Seat 3)"/>
+  <History Timestamp="2010-02-12 21:57:09" Summary="Mike McEvoy busted out of the tournament (Blue, Seat 5) by Rick Mickaliger (Blue, Seat 3)"/>
+  <History Timestamp="2010-02-12 21:57:09" Summary="Duane busted out of the tournament (Blue, Seat 7) by Rick Mickaliger (Blue, Seat 3)"/>
+  <History Timestamp="2010-02-12 22:00:00" Summary="Warren busted out of the tournament (Blue, Seat 1) by Rick Mickaliger (Blue, Seat 3)"/>
+  <History Timestamp="2010-02-12 22:03:46" Summary="Mike C. busted out of the tournament (Blue, Seat 4) by Josh (Blue, Seat 2)"/>
+  <History Timestamp="2010-02-12 22:48:43" Summary="Rick Mickaliger busted out of the tournament (Blue, Seat 3) by Eric (Blue, Seat 10)"/>
+  <History Timestamp="2010-02-12 22:56:19" Summary="Josh busted out of the tournament (Blue, Seat 2) by Dawn (Blue, Seat 9)"/>
+  <History Timestamp="2010-02-12 23:09:01" Summary="Eric busted out of the tournament (Blue, Seat 10) by Dawn (Blue, Seat 9)"/>
+  <History Timestamp="2010-02-12 23:09:01" Summary="Dawn won the tournament"/>
+  <History Timestamp="2010-02-12 23:09:01" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

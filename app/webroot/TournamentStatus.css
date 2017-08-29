@@ -1,0 +1,50 @@
+
+body, td, div, button, input
+{
+  font-family: Tahoma;
+  font-size: 10pt;
+}
+
+div.label, div.value
+{
+  font-family: Tahoma;
+  font-size: 18pt;
+  color: green;
+  padding: 3px;
+  padding-right: 5px;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+div.value
+{
+  color: black;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+
+div.space
+{
+  display: block;
+}
+
+#main
+{
+  text-align: center;
+  position: relative;
+}
+
+#clock
+{
+  font-size: 48px;
+}
+
+#timeout
+{
+  display: none;
+}
+
+#lastupdated, #label_lastupdated
+{
+  font-size: 10pt;
+}

@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pXML>
+ <MessageInfo>
+  <Version>1.0</Version>
+  <DocumentType>PokerDIY_Game</DocumentType>
+  <Source>TD</Source>
+  <SourceVersion>3.4.b2</SourceVersion>
+  <SourceDate>2017-01-07 08:15:03</SourceDate>
+ </MessageInfo>
+ <Games>
+  <Game>
+   <League>
+    <LeagueID></LeagueID>
+    <ExternalLeagueID>db6e3eb0-e990-11dc-055a-6703352678ad</ExternalLeagueID>
+    <LeagueName>Canterberry Poker League</LeagueName>
+    <Season>
+     <SeasonID></SeasonID>
+     <ExternalSeasonID>cf68650d-8640-46bc-bd44-53cb3836576e</ExternalSeasonID>
+     <SeasonName>2016-2017</SeasonName>
+    </Season>
+   </League>
+   <GameID></GameID>
+   <ExternalGameID>4d4513a2-8e63-4720-aa6d-110ba7e3d01f</ExternalGameID>
+   <GameName>#81</GameName>
+   <GameDescription>6/10/2016 - June 2016 League Tourney</GameDescription>
+   <GameComments></GameComments>
+   <GameStartDate>2016-06-10 13:11:53</GameStartDate>
+   <GameEndDate>2016-06-10 18:03:22</GameEndDate>
+   <GameTypeID>2</GameTypeID>
+   <CurrencySymbol>$</CurrencySymbol>
+   <TotalPrizePool>210</TotalPrizePool>
+   <GameBuyIn>20</GameBuyIn>
+   <RebuyAmount>0</RebuyAmount>
+   <AllowRebuys>0</AllowRebuys>
+   <AddOnAmount>5</AddOnAmount>
+   <AllowAddOns>0</AllowAddOns>
+   <BountiesAllowed>1</BountiesAllowed>
+   <Players>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>c859b300-70ca-11de-2303-b39081595ee2</ExternalPlayerID>
+     <PlayerName>Charlie D.</PlayerName>
+     <FirstName>Charlie</FirstName>
+     <LastName>Drotar</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>11</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>6</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>ec315778-4ad2-4bf4-8bc6-8e7fbb1dc4ab</HitmanID>
+     <TimeOutDate>2016-06-10 15:12:01</TimeOutDate>
+     <RoundOut>8</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>0b0e9500-afd9-11da-055a-163116454522738</ExternalPlayerID>
+     <PlayerName>Eric</PlayerName>
+     <FirstName>Eric</FirstName>
+     <LastName>Denny</LastName>
+     <Email>efdenny@gmail.com</Email>
+     <Email2></Email2>
+     <Rank>4</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>30</TotalWinnings>
+     <Payout>45</Payout>
+     <Points>16</Points>
+     <Knockouts>3</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>15</KnockoutRevenue>
+     <HitmanID>b2bc5f70-9319-11e0-147c-16a5912f1d14</HitmanID>
+     <TimeOutDate>2016-06-10 17:17:32</TimeOutDate>
+     <RoundOut>14</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>3</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>5513ae50-47c8-11e1-0053-a1dda0054890</ExternalPlayerID>
+     <PlayerName>Josh R.</PlayerName>
+     <FirstName>Josh</FirstName>
+     <LastName>Reel</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>8</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>9</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>931b1760-7a52-11e3-0053-916ffaa5462b</HitmanID>
+     <TimeOutDate>2016-06-10 16:15:46</TimeOutDate>
+     <RoundOut>11</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>18839680-fb1a-11db-055a-108298695629687</ExternalPlayerID>
+     <PlayerName>Lee</PlayerName>
+     <FirstName>Lee</FirstName>
+     <LastName>Ugarte</LastName>
+     <Email>leeugarte@gmail.com</Email>
+     <Email2></Email2>
+     <Rank>3</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>30</TotalWinnings>
+     <Payout>45</Payout>
+     <Points>19</Points>
+     <Knockouts>3</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>15</KnockoutRevenue>
+     <HitmanID>b2bc5f70-9319-11e0-147c-16a5912f1d14</HitmanID>
+     <TimeOutDate>2016-06-10 17:47:02</TimeOutDate>
+     <RoundOut>16</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>3</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>b2bc5f70-9319-11e0-147c-16a5912f1d14</ExternalPlayerID>
+     <PlayerName>Mac</PlayerName>
+     <FirstName>Steve</FirstName>
+     <LastName>McLean</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>1</Rank>
+     <BuyIn>0</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>0</TotalRake>
+     <TotalCost>0</TotalCost>
+     <TotalWinnings>80</TotalWinnings>
+     <Payout>100</Payout>
+     <Points>26</Points>
+     <Knockouts>4</Knockouts>
+     <BountyCost>0</BountyCost>
+     <KnockoutRevenue>20</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>4</BountiesWon>
+     <TotalBuyInRake>0</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>7e9f3f20-e374-11dd-055a-5e42f83aa35b</ExternalPlayerID>
+     <PlayerName>Mike M.</PlayerName>
+     <FirstName>Mike</FirstName>
+     <LastName>McEvoy</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>2</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>45</TotalWinnings>
+     <Payout>45</Payout>
+     <Points>22</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>b2bc5f70-9319-11e0-147c-16a5912f1d14</HitmanID>
+     <TimeOutDate>2016-06-10 18:03:22</TimeOutDate>
+     <RoundOut>17</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>62fb8cd0-b607-11da-055a-266026356344702</ExternalPlayerID>
+     <PlayerName>Rick Mazza</PlayerName>
+     <FirstName>Rick</FirstName>
+     <LastName>Mazza</LastName>
+     <Email>rick_mazza@yahoo.com</Email>
+     <Email2></Email2>
+     <Rank>14</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>3</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>ec315778-4ad2-4bf4-8bc6-8e7fbb1dc4ab</HitmanID>
+     <TimeOutDate>2016-06-10 14:11:30</TimeOutDate>
+     <RoundOut>4</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>02e97c4f-a041-4a27-a489-e107d08b1e9e</ExternalPlayerID>
+     <PlayerName>Ang</PlayerName>
+     <FirstName>Angela</FirstName>
+     <LastName>Denhof</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>12</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>5</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>b2bc5f70-9319-11e0-147c-16a5912f1d14</HitmanID>
+     <TimeOutDate>2016-06-10 14:54:08</TimeOutDate>
+     <RoundOut>7</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>e144e690-2bde-11e3-0053-073434867f7e</ExternalPlayerID>
+     <PlayerName>Jeff S.</PlayerName>
+     <FirstName>Jeff</FirstName>
+     <LastName>Schliem</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>16</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>1</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>18839680-fb1a-11db-055a-108298695629687</HitmanID>
+     <TimeOutDate>2016-06-10 13:49:13</TimeOutDate>
+     <RoundOut>3</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>6ad5d1b0-97b5-11e4-0053-8fb476630103</ExternalPlayerID>
+     <PlayerName>Andrew</PlayerName>
+     <FirstName>Andrew</FirstName>
+     <LastName>Shier</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>10</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>7</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>62d967b0-afd9-11da-055a-132752729751160</HitmanID>
+     <TimeOutDate>2016-06-10 15:27:44</TimeOutDate>
+     <RoundOut>8</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>931b1760-7a52-11e3-0053-916ffaa5462b</ExternalPlayerID>
+     <PlayerName>Paul C.</PlayerName>
+     <FirstName>Paul</FirstName>
+     <LastName>Coffman</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>6</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>5</Payout>
+     <Points>11</Points>
+     <Knockouts>1</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>5</KnockoutRevenue>
+     <HitmanID>18839680-fb1a-11db-055a-108298695629687</HitmanID>
+     <TimeOutDate>2016-06-10 16:37:30</TimeOutDate>
+     <RoundOut>12</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>1</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>6caf6b50-e374-11dd-055a-165ad7ac3465</ExternalPlayerID>
+     <PlayerName>Steve</PlayerName>
+     <FirstName>Steve</FirstName>
+     <LastName>Drown</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>13</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>4</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>0b0e9500-afd9-11da-055a-163116454522738</HitmanID>
+     <TimeOutDate>2016-06-10 14:35:16</TimeOutDate>
+     <RoundOut>5</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>ec315778-4ad2-4bf4-8bc6-8e7fbb1dc4ab</ExternalPlayerID>
+     <PlayerName>Jeff H.</PlayerName>
+     <FirstName>Jeff Holderman</FirstName>
+     <LastName></LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>5</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>25</TotalWinnings>
+     <Payout>35</Payout>
+     <Points>13</Points>
+     <Knockouts>2</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>0b0e9500-afd9-11da-055a-163116454522738</HitmanID>
+     <TimeOutDate>2016-06-10 16:59:27</TimeOutDate>
+     <RoundOut>13</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>2</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>62d967b0-afd9-11da-055a-132752729751160</ExternalPlayerID>
+     <PlayerName>Mandy</PlayerName>
+     <FirstName>Mandy</FirstName>
+     <LastName>Denny</LastName>
+     <Email>madenny@gmail.com</Email>
+     <Email2></Email2>
+     <Rank>9</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>10</Payout>
+     <Points>8</Points>
+     <Knockouts>2</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>0b0e9500-afd9-11da-055a-163116454522738</HitmanID>
+     <TimeOutDate>2016-06-10 15:53:01</TimeOutDate>
+     <RoundOut>9</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>2</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>422afc42-cac6-494f-9404-df6f1300917e</ExternalPlayerID>
+     <PlayerName>Lance</PlayerName>
+     <FirstName>Lance</FirstName>
+     <LastName>Cain</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>15</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>2</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>62d967b0-afd9-11da-055a-132752729751160</HitmanID>
+     <TimeOutDate>2016-06-10 13:59:24</TimeOutDate>
+     <RoundOut>4</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>8d9edd80-2cd4-11dc-055a-05538bc12429</ExternalPlayerID>
+     <PlayerName>Duane</PlayerName>
+     <FirstName>Duane</FirstName>
+     <LastName>Barone</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>7</Rank>
+     <BuyIn>20</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>5</TotalRake>
+     <TotalCost>20</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>10</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>5</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>18839680-fb1a-11db-055a-108298695629687</HitmanID>
+     <TimeOutDate>2016-06-10 16:37:22</TimeOutDate>
+     <RoundOut>12</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>5</TotalBuyInRake>
+     <BuyInChips>10000</BuyInChips>
+    </Player>
+   </Players>
+   <GameHistory>
+    <History>
+     <TimeStamp>2016-06-09 12:59:24</TimeStamp>
+     <Summary>Undo buy-in for Rick Mickaliger (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0, Bounty Chip: $5.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:07:09</TimeStamp>
+     <Summary>Undo buy-in for Mac (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0, Bounty Chip: $5.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Tournament started</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 1: Josh R.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 2: Ang</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 3: Eric</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 4: Jeff S.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 5: Mandy</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 6: Steve</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 7: Lee</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Blue, Seat 8: Lance</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 2: Andrew</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 3: Charlie D.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 4: Mike M.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 5: Jeff H.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 6: Duane</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 7: Paul C.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:11:53</TimeStamp>
+     <Summary>Red, Seat 8: Rick Mazza</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:26:53</TimeStamp>
+     <Summary>End of round 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:26:57</TimeStamp>
+     <Summary>Start of round 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:41:57</TimeStamp>
+     <Summary>End of round 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:42:01</TimeStamp>
+     <Summary>Start of round 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:49:13</TimeStamp>
+     <Summary>Jeff S. busted out of the tournament (Blue, Seat 4) by Lee (Blue, Seat 7)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:57:01</TimeStamp>
+     <Summary>End of round 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:57:05</TimeStamp>
+     <Summary>Start of round 4</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 13:59:24</TimeStamp>
+     <Summary>Lance busted out of the tournament (Blue, Seat 8) by Mandy (Blue, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:00:43</TimeStamp>
+     <Summary>Mac bought-in (Fee: $0.00, Rake: $5.00, Chips: 10,000, Points: 0, Bounty Chip: $5.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:11:30</TimeStamp>
+     <Summary>Rick Mazza busted out of the tournament (Red, Seat 8) by Jeff H. (Red, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:12:05</TimeStamp>
+     <Summary>End of round 4</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:12:09</TimeStamp>
+     <Summary>Start of break 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:14:11</TimeStamp>
+     <Summary>Undo buy-in for Mac (Fee: $0.00, Rake: $5.00, Chips: 10,000, Points: 0, Bounty Chip: $5.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:14:29</TimeStamp>
+     <Summary>Mac bought-in (Fee: $0.00, Rake: $0.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:22:09</TimeStamp>
+     <Summary>End of break 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:22:14</TimeStamp>
+     <Summary>Start of round 5</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:35:16</TimeStamp>
+     <Summary>Steve busted out of the tournament (Blue, Seat 6) by Eric (Blue, Seat 3)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:38:03</TimeStamp>
+     <Summary>End of round 5</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:38:07</TimeStamp>
+     <Summary>Start of round 6</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:53:07</TimeStamp>
+     <Summary>End of round 6</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:53:11</TimeStamp>
+     <Summary>Start of round 7</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 14:54:08</TimeStamp>
+     <Summary>Ang busted out of the tournament (Blue, Seat 2) by Mac (Blue, Seat 9)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:08:11</TimeStamp>
+     <Summary>End of round 7</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:08:15</TimeStamp>
+     <Summary>Start of round 8</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:12:01</TimeStamp>
+     <Summary>Charlie D. busted out of the tournament (Red, Seat 3) by Jeff H. (Red, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:27:44</TimeStamp>
+     <Summary>Andrew busted out of the tournament (Blue, Seat 9) by Mandy (Blue, Seat 2)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:28:13</TimeStamp>
+     <Summary>End of round 8</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:28:17</TimeStamp>
+     <Summary>Start of break 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:38:17</TimeStamp>
+     <Summary>End of break 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:38:21</TimeStamp>
+     <Summary>Start of round 9</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:53:01</TimeStamp>
+     <Summary>Mandy busted out of the tournament (Blue, Seat 2) by Eric (Blue, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:53:21</TimeStamp>
+     <Summary>End of round 9</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 15:53:26</TimeStamp>
+     <Summary>Start of round 10</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:08:25</TimeStamp>
+     <Summary>End of round 10</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:08:29</TimeStamp>
+     <Summary>Start of round 11</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:15:46</TimeStamp>
+     <Summary>Josh R. busted out of the tournament (Blue, Seat 5) by Paul C. (Blue, Seat 8)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:23:29</TimeStamp>
+     <Summary>End of round 11</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:23:33</TimeStamp>
+     <Summary>Start of round 12</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:37:22</TimeStamp>
+     <Summary>Duane busted out of the tournament (Blue, Seat 3) by Lee (Blue, Seat 7)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:37:30</TimeStamp>
+     <Summary>Paul C. busted out of the tournament (Blue, Seat 8) by Lee (Blue, Seat 7)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:42:02</TimeStamp>
+     <Summary>End of round 12</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:42:07</TimeStamp>
+     <Summary>Start of round 13</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:57:06</TimeStamp>
+     <Summary>End of round 13</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:57:11</TimeStamp>
+     <Summary>Start of break 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 16:59:27</TimeStamp>
+     <Summary>Jeff H. busted out of the tournament (Blue, Seat 6) by Eric (Blue, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:12:06</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:12:06</TimeStamp>
+     <Summary>Start of round 14</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:17:32</TimeStamp>
+     <Summary>Eric busted out of the tournament (Blue, Seat 1) by Mac (Blue, Seat 10)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:27:12</TimeStamp>
+     <Summary>End of round 14</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:27:16</TimeStamp>
+     <Summary>Start of round 15</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:42:16</TimeStamp>
+     <Summary>End of round 15</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:42:20</TimeStamp>
+     <Summary>Start of round 16</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:47:02</TimeStamp>
+     <Summary>Lee busted out of the tournament (Blue, Seat 7) by Mac (Blue, Seat 10)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:57:20</TimeStamp>
+     <Summary>End of round 16</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 17:57:24</TimeStamp>
+     <Summary>Start of round 17</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 18:03:22</TimeStamp>
+     <Summary>Mike M. busted out of the tournament (Blue, Seat 4) by Mac (Blue, Seat 10)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 18:03:22</TimeStamp>
+     <Summary>Mac won the tournament</Summary>
+    </History>
+    <History>
+     <TimeStamp>2016-06-10 18:03:22</TimeStamp>
+     <Summary>Tournament ended</Summary>
+    </History>
+   </GameHistory>
+  </Game>
+ </Games>
+</pXML>

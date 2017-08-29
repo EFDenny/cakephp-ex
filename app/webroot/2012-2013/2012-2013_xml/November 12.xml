@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2012-2013" Name="November 2012 League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="5" AllowAddOns="-1" BountiesAllowed="0" TournamentStartDate="2012-11-09 19:07:33" TournamentEndDate="2012-11-09 23:00:30" TournamentComments="">
+ <Players>
+  <Player Name="Charlie D." FirstName="Charlie" LastName="Drotar" Rank="4" TournamentPts="11.4" Buyin="20" Rebuy="0" Addon="5" Payout="30" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="13" TimeOut="2012-11-09 22:46:29"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="16" TournamentPts="1.8" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="6" TimeOut="2012-11-09 20:52:54"/>
+  <Player Name="Duane" FirstName="Duane" LastName="Barone" Rank="17" TournamentPts="1" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="5" TimeOut="2012-11-09 20:35:22"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="14" TournamentPts="3.4" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="8" TimeOut="2012-11-09 21:33:24"/>
+  <Player Name="Erik" FirstName="Erik" LastName="Treiber" Rank="12" TournamentPts="5" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2012-11-09 21:39:51"/>
+  <Player Name="Josh" FirstName="Josh" LastName="Reel" Rank="6" TournamentPts="10.8" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2012-11-09 22:41:29"/>
+  <Player Name="Kelly" FirstName="Kelly" LastName="Kruegel" Rank="8" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="10" TimeOut="2012-11-09 22:02:02"/>
+  <Player Name="Mac" FirstName="Steve" LastName="Mclean" Rank="1" TournamentPts="20.8" Buyin="20" Rebuy="0" Addon="5" Payout="150" Knockouts="7" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="" TimeOut=""/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="7" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2012-11-09 22:32:35"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="2" TournamentPts="16" Buyin="20" Rebuy="0" Addon="5" Payout="80" Knockouts="3" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="13" TimeOut="2012-11-09 23:00:29"/>
+  <Player Name="Rick Mazza" FirstName="Rick" LastName="Mazza" Rank="3" TournamentPts="15.2" Buyin="20" Rebuy="0" Addon="5" Payout="55" Knockouts="3" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="13" TimeOut="2012-11-09 22:53:15"/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="11" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2012-11-09 21:43:46"/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="9" TournamentPts="7.4" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2012-11-09 21:57:36"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="10" TournamentPts="6.6" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2012-11-09 21:52:08"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="5" TournamentPts="10.6" Buyin="20" Rebuy="0" Addon="5" Payout="25" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2012-11-09 22:45:35"/>
+  <Player Name="Scott" FirstName="Scott" LastName="Dishong" Rank="15" TournamentPts="2.6" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="8" TimeOut="2012-11-09 21:27:27"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="13" TournamentPts="6.2" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="2" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2012-11-09 21:39:25"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Charlie D. bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="David D. bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Dawn bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Duane bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Eric bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Erik bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Josh bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Kelly bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Mac bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Mandy bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Mike C. bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Rick Mazza bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Rick Mickaliger bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Tom B. bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 16:50:07" Summary="Warren bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 17:35:17" Summary="Scott bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 18:41:48" Summary="Lee bought-in (Fee: $20.00, Rake: $0.00, Chips: $4,000, Points: 1.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Charlie D. added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="David D. added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Dawn added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Duane added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Eric added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Erik added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Josh added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Lee added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Mac added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Mike C. added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Rick Mazza added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Scott added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Tom B. added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:05:32" Summary="Warren added-on (Fee: $5.00, Rake: $5.00, Chips: $1,000, Points: 0.0)"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Tournament started"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 1: Eric"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 2: Mike C."/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 3: Charlie D."/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 4: Mandy"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 5: Dawn"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 6: Mac"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 7: Josh"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 8: Scott"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Burgundy, Seat 9: Lee"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 1: Rick Mickaliger"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 2: David D."/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 3: Kelly"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 4: Tom B."/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 5: Erik"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 6: Duane"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 7: Warren"/>
+  <History Timestamp="2012-11-09 19:07:33" Summary="Red, Seat 8: Rick Mazza"/>
+  <History Timestamp="2012-11-09 19:22:33" Summary="End of round 1"/>
+  <History Timestamp="2012-11-09 19:22:37" Summary="Start of round 2"/>
+  <History Timestamp="2012-11-09 19:37:36" Summary="End of round 2"/>
+  <History Timestamp="2012-11-09 19:37:41" Summary="Start of round 3"/>
+  <History Timestamp="2012-11-09 19:52:41" Summary="End of round 3"/>
+  <History Timestamp="2012-11-09 19:52:45" Summary="Start of break 1"/>
+  <History Timestamp="2012-11-09 20:06:05" Summary="User initiated next round"/>
+  <History Timestamp="2012-11-09 20:06:05" Summary="Start of round 4"/>
+  <History Timestamp="2012-11-09 20:22:15" Summary="End of round 4"/>
+  <History Timestamp="2012-11-09 20:22:19" Summary="Start of round 5"/>
+  <History Timestamp="2012-11-09 20:35:22" Summary="Duane busted out of the tournament (Red, Seat 6) by Rick Mazza (Red, Seat 8)"/>
+  <History Timestamp="2012-11-09 20:37:19" Summary="End of round 5"/>
+  <History Timestamp="2012-11-09 20:37:23" Summary="Start of round 6"/>
+  <History Timestamp="2012-11-09 20:52:23" Summary="End of round 6"/>
+  <History Timestamp="2012-11-09 20:52:29" Summary="Start of break 2"/>
+  <History Timestamp="2012-11-09 20:52:54" Summary="David D. busted out of the tournament (Red, Seat 2) by Rick Mazza (Red, Seat 8)"/>
+  <History Timestamp="2012-11-09 21:07:07" Summary="User initiated next round"/>
+  <History Timestamp="2012-11-09 21:07:07" Summary="Start of round 7"/>
+  <History Timestamp="2012-11-09 21:22:47" Summary="End of round 7"/>
+  <History Timestamp="2012-11-09 21:22:56" Summary="Start of round 8"/>
+  <History Timestamp="2012-11-09 21:27:27" Summary="Scott busted out of the tournament (Burgundy, Seat 8) by Lee (Burgundy, Seat 9)"/>
+  <History Timestamp="2012-11-09 21:33:24" Summary="Eric busted out of the tournament (Burgundy, Seat 1) by Lee (Burgundy, Seat 9)"/>
+  <History Timestamp="2012-11-09 21:37:55" Summary="End of round 8"/>
+  <History Timestamp="2012-11-09 21:38:02" Summary="Start of round 9"/>
+  <History Timestamp="2012-11-09 21:39:25" Summary="Lee busted out of the tournament (Burgundy, Seat 9) by Josh (Burgundy, Seat 7)"/>
+  <History Timestamp="2012-11-09 21:39:51" Summary="Erik busted out of the tournament (Red, Seat 5) by Mac (Red, Seat 9)"/>
+  <History Timestamp="2012-11-09 21:43:46" Summary="Rick Mickaliger busted out of the tournament (Red, Seat 1) by Mac (Red, Seat 9)"/>
+  <History Timestamp="2012-11-09 21:52:08" Summary="Warren busted out of the tournament (Burgundy, Seat 8) by Mike C. (Burgundy, Seat 3)"/>
+  <History Timestamp="2012-11-09 21:57:36" Summary="Tom B. busted out of the tournament (Burgundy, Seat 6) by Mac (Burgundy, Seat 10)"/>
+  <History Timestamp="2012-11-09 21:58:07" Summary="End of round 9"/>
+  <History Timestamp="2012-11-09 21:58:17" Summary="Start of break 3"/>
+  <History Timestamp="2012-11-09 21:59:42" Summary="User initiated next round"/>
+  <History Timestamp="2012-11-09 21:59:42" Summary="Start of round 10"/>
+  <History Timestamp="2012-11-09 22:02:02" Summary="Kelly busted out of the tournament (Burgundy, Seat 2) by Mac (Burgundy, Seat 10)"/>
+  <History Timestamp="2012-11-09 22:14:44" Summary="End of round 10"/>
+  <History Timestamp="2012-11-09 22:14:55" Summary="Start of round 11"/>
+  <History Timestamp="2012-11-09 22:29:52" Summary="End of round 11"/>
+  <History Timestamp="2012-11-09 22:30:06" Summary="Start of round 12"/>
+  <History Timestamp="2012-11-09 22:32:35" Summary="Mandy busted out of the tournament (Burgundy, Seat 7) by Mac (Burgundy, Seat 10)"/>
+  <History Timestamp="2012-11-09 22:41:29" Summary="Josh busted out of the tournament (Burgundy, Seat 4) by Rick Mazza (Burgundy, Seat 5)"/>
+  <History Timestamp="2012-11-09 22:45:04" Summary="End of round 12"/>
+  <History Timestamp="2012-11-09 22:45:17" Summary="Start of break 4"/>
+  <History Timestamp="2012-11-09 22:45:35" Summary="Dawn busted out of the tournament (Burgundy, Seat 9) by Mike C. (Burgundy, Seat 3)"/>
+  <History Timestamp="2012-11-09 22:45:50" Summary="User initiated next round"/>
+  <History Timestamp="2012-11-09 22:45:50" Summary="Start of round 13"/>
+  <History Timestamp="2012-11-09 22:46:29" Summary="Charlie D. busted out of the tournament (Burgundy, Seat 1) by Mike C. (Burgundy, Seat 3)"/>
+  <History Timestamp="2012-11-09 22:53:15" Summary="Rick Mazza busted out of the tournament (Burgundy, Seat 5) by Mac (Burgundy, Seat 10)"/>
+  <History Timestamp="2012-11-09 23:00:29" Summary="Mike C. busted out of the tournament (Burgundy, Seat 3) by Mac (Burgundy, Seat 10)"/>
+  <History Timestamp="2012-11-09 23:00:30" Summary="Mac won the tournament"/>
+  <History Timestamp="2012-11-09 23:00:30" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

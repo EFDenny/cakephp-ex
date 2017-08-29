@@ -1,0 +1,141 @@
+/* CSS Document */
+
+body{
+padding:0px;
+margin:0px;
+font:12px/15px Arial, Helvetica, sans-serif;
+color:#DFDFDF;
+background:#323532 ;
+}
+
+td{
+font:12px/15px  Arial, Helvetica, sans-serif;
+color:#DFDFDF;
+font-weight:normal;
+}
+
+div, h1, h2, h3, h4, p, img, ul, ol, li, form, input, textarea{
+	padding : 0;
+	margin : 0;
+	}
+p{
+	padding : 0 0 8px 0;
+	margin : 0;
+	}
+ul {
+	list-style : none;
+	}
+img {
+	outline : none;
+	border : none;
+	}
+a {
+	outline : none;
+	text-decoration : none;
+	}
+
+
+
+/*-------------------       Layout      --------------*/
+.fontSize18{ font-size:18px; line-height:24px;}
+.fontSize30{ font-size:30px; line-height:36px;}
+.blueText{ color:#118CD1;}
+.whiteText{ color:#fff;}
+.yellowLink{ color:#D39F17; text-decoration:underline; font-weight:bold;}
+.yellowLink:hover{ color:#fff; text-decoration:underline; font-weight:bold;}
+
+.whiteLink{ color:#fff; text-decoration:underline; font-weight:bold;}
+.whiteink:hover{ color:#D39F17; text-decoration:none; font-weight:bold;} 
+
+.grayText{ color:#383838;}
+.grayLink{ color:#484848; text-decoration:underline; font-weight:bold; font-size:11px;}
+.grayLink:hover{ color:#000; text-decoration:none; font-weight:bold;} 
+
+#topmenu{ height:47px;}
+#topmenu td{
+border-left:#B3B3B3 1px solid;
+border-right:#fff 1px solid;
+}
+#topmenu a{
+display:block;
+font-weight:bold;
+font-size:12px;
+color:#414541;
+height:1%;
+padding:16px 10px 16px 10px;
+background:url(images/menu-bg.gif) top left repeat-x;
+}
+
+#topmenu a:hover, #topmenu a.active{ color:#fff; background:url(images/menu-bg.gif) bottom left repeat-x;}
+#centerCol{
+padding:20px;
+background:#3B3E3B url(images/body-bg.gif) top left repeat-x;
+}
+
+.leftBoxHeading{
+color:#fff;
+ padding:7px 0 7px 15px;
+ font-size:18px;
+line-height:22px;
+background:#232523 url(images/heading-bg.gif) top left repeat-x;
+}
+.leftMenu{ padding:13px 0 25px 15px;  
+background:#2C2E2C url(images/left-box-bg.gif) top left repeat-x; 
+margin-bottom:8px;
+}
+.leftMenu li{
+display:block; 
+padding:4px 0 5px 20px;
+background:url(images/arrow.gif) center left no-repeat; 
+}
+
+.leftMenu li a{ color:#D39F17; text-decoration:underline;}
+.leftMenu li a:hover{ color:#fff; text-decoration:none;}
+
+.heading1{
+	display:block;
+	color:#fff;
+	font-size:18px;
+	font-weight:normal;
+ 	padding:0 0 20px 0 
+	}
+
+ .heading2{
+color:#fff;
+font-size:18px;
+line-height:22px;
+text-transform:uppercase;
+padding:9px 0 9px 20px;
+font-weight:bold;
+background:#6D5118 url(images/heading-bg2.gif) top left repeat-x;
+}
+.box{
+padding:20px;
+background:#434643 url(images/box-bg.gif) top left repeat-x;
+}	
+
+.chart{ border:#DFDFDF 3px solid;}
+.chart td{
+	padding:4px 8px 4px 8px;
+	color:#FFFFFF;
+	background:#3B3E3B;
+	font-weight:bold;
+	border-bottom:#434643 1px solid;
+	}
+.chart a{ 
+	text-decoration:underline;
+	}
+.chart a:hover{ text-decoration:none;}
+  .chart .heading td{ 
+	color:#505450;
+	padding:9px 8px 9px 8px;	 
+	background:#fff url(images/chart-heading-bg.gif) bottom left repeat-x;
+	}
+ 
+/*--------------------  footer ------------------------------*/
+
+#footer{color:#737D73; padding:25px 0 8px 0;}
+#footer a{ color:#737D73; font-size:11px; padding:0 4px 0 4px;}
+#footer a:hover{ color:#fff; text-decoration:underline;}
+
+ 

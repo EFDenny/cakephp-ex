@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="Denny Annual Poker Tournament" Name="Denny 3rd Annual Poker Tournament" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="50" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2009-05-09 14:08:08" TournamentEndDate="2009-05-09 23:05:26" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="6" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="20" TimeOut="2009-05-09 21:28:25"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="7" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="19" TimeOut="2009-05-09 21:07:28"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="8" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="18" TimeOut="2009-05-09 20:47:22"/>
+  <Player Name="Joe J." FirstName="Joe" LastName="Johnson" Rank="1" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="350" Knockouts="6" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Dan" FirstName="Dan" LastName="Myers" Rank="2" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="200" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="26" TimeOut="2009-05-09 23:05:26"/>
+  <Player Name="Mike S." FirstName="Mike" LastName="Short" Rank="14" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="16" TimeOut="2009-05-09 20:01:37"/>
+  <Player Name="Brian A." FirstName="Brian" LastName="Albers" Rank="10" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="18" TimeOut="2009-05-09 20:37:23"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="15" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="15" TimeOut="2009-05-09 19:31:33"/>
+  <Player Name="Matt" FirstName="Matt" LastName="Moriarty" Rank="13" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="16" TimeOut="2009-05-09 20:08:45"/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="5" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="50" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="21" TimeOut="2009-05-09 21:39:26"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="11" TournamentPts="0" Buyin="0" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="18" TimeOut="2009-05-09 20:35:27"/>
+  <Player Name="Josh" FirstName="Josh" LastName="Reel" Rank="3" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="125" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="25" TimeOut="2009-05-09 22:56:31"/>
+  <Player Name="Chris J." FirstName="Chris" LastName="Johnson" Rank="4" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="75" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="23" TimeOut="2009-05-09 22:23:36"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="12" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="17" TimeOut="2009-05-09 20:23:08"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="9" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="18" TimeOut="2009-05-09 20:42:28"/>
+  <Player Name="Dave G." FirstName="Dave" LastName="Grewe" Rank="16" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2009-05-09 18:33:50"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2009-05-09 14:08:08" Summary="Tournament started"/>
+  <History Timestamp="2009-05-09 18:33:50" Summary="Dave G. busted out of the tournament (Red, Seat 2) by Dan (Red, Seat 8)"/>
+  <History Timestamp="2009-05-09 19:31:33" Summary="Dawn busted out of the tournament (Blue, Seat 6) by Joe J. (Blue, Seat 8)"/>
+  <History Timestamp="2009-05-09 20:01:37" Summary="Mike S. busted out of the tournament (Red, Seat 3) by Rick (Red, Seat 7)"/>
+  <History Timestamp="2009-05-09 20:08:45" Summary="Matt busted out of the tournament (Red, Seat 5) by Rick (Red, Seat 7)"/>
+  <History Timestamp="2009-05-09 20:23:08" Summary="Mike C. busted out of the tournament (Blue, Seat 1) by Joe J. (Blue, Seat 8)"/>
+  <History Timestamp="2009-05-09 20:35:27" Summary="Warren busted out of the tournament (Red, Seat 6) by Eric (Red, Seat 1)"/>
+  <History Timestamp="2009-05-09 20:37:23" Summary="Brian A. busted out of the tournament (Blue, Seat 2) by Chris J. (Blue, Seat 4)"/>
+  <History Timestamp="2009-05-09 20:42:28" Summary="David D. busted out of the tournament (Red, Seat 1) by Dan (Red, Seat 5)"/>
+  <History Timestamp="2009-05-09 20:47:22" Summary="Rick busted out of the tournament (Red, Seat 7) by Josh (Red, Seat 8)"/>
+  <History Timestamp="2009-05-09 21:07:28" Summary="Mandy busted out of the tournament (Red, Seat 2) by Joe J. (Red, Seat 3)"/>
+  <History Timestamp="2009-05-09 21:28:25" Summary="Eric busted out of the tournament (Red, Seat 9) by Tom B. (Red, Seat 4)"/>
+  <History Timestamp="2009-05-09 21:39:26" Summary="Tom B. busted out of the tournament (Red, Seat 4) by Josh (Red, Seat 8)"/>
+  <History Timestamp="2009-05-09 22:23:36" Summary="Chris J. busted out of the tournament (Red, Seat 6) by Joe J. (Red, Seat 3)"/>
+  <History Timestamp="2009-05-09 22:56:31" Summary="Josh busted out of the tournament (Red, Seat 8) by Joe J. (Red, Seat 3)"/>
+  <History Timestamp="2009-05-09 23:05:26" Summary="Dan busted out of the tournament (Red, Seat 5) by Joe J. (Red, Seat 3)"/>
+  <History Timestamp="2009-05-09 23:05:26" Summary="Joe J. won the tournament"/>
+  <History Timestamp="2009-05-09 23:05:26" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

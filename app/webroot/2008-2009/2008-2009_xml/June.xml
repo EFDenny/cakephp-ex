@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2008-2009" Name="June League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2008-06-21 19:27:16" TournamentEndDate="2008-06-21 23:16:26" TournamentComments="">
+ <Players>
+  <Player Name="Chris J." FirstName="Chris" LastName="Johnson" Rank="3" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2008-06-21 23:12:29"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="2" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="40" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2008-06-21 23:16:25"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="5" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2008-06-21 22:45:18"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="1" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="80" Knockouts="4" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="4" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2008-06-21 22:50:30"/>
+  <Player Name="Brian A." FirstName="Brian" LastName="Albers" Rank="6" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="7" TimeOut="2008-06-21 22:06:27"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2008-06-21 22:06:27" Summary="Brian A. busted out of the tournament (Table 1, Seat 2) by Mike C. (Table 1, Seat 4)"/>
+  <History Timestamp="2008-06-21 22:45:18" Summary="Mandy busted out of the tournament (Table 1, Seat 3) by Chris J. (Table 1, Seat 6)"/>
+  <History Timestamp="2008-06-21 22:50:30" Summary="Warren busted out of the tournament (Table 1, Seat 5) by Mike C. (Table 1, Seat 4)"/>
+  <History Timestamp="2008-06-21 23:12:29" Summary="Chris J. busted out of the tournament (Table 1, Seat 6) by Mike C. (Table 1, Seat 4)"/>
+  <History Timestamp="2008-06-21 23:16:25" Summary="Eric busted out of the tournament (Table 1, Seat 1) by Mike C. (Table 1, Seat 4)"/>
+  <History Timestamp="2008-06-21 23:16:26" Summary="Mike C. won the tournament"/>
+  <History Timestamp="2008-06-21 23:16:26" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

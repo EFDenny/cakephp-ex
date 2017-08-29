@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Tournament Director tournament status</title>
+  </head>
+
+  <link rel="stylesheet" type="text/css" href="TournamentStatus.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="TournamentStatus.js" type="text/javascript"></script>
+
+  <body onLoad="TDStatus.init()">
+    <div id="main">
+      <div id="header"></div>
+      <div class="label" id="label_clock">Clock:</div>
+      <div class="value" id="clock">&nbsp;</div>
+      <div class="space" id="space_clock"></div>
+      <div class="label" id="label_round">Round:</div>
+      <div class="value" id="round">&nbsp;</div>
+      <div class="space" id="space_round"></div>
+      <div class="label" id="label_blinds">Blinds:</div>
+      <div class="value" id="blinds">&nbsp;</div>
+      <div class="space" id="space_blinds"></div>
+      <div class="label" id="label_ante">Ante:</div>
+      <div class="value" id="ante">&nbsp;</div>
+      <div class="space" id="space_ante"></div>
+      <div class="label" id="label_players">Players:</div>
+      <div class="value" id="players">&nbsp;</div>
+      <div class="space" id="space_players"></div>
+      <div class="label" id="label_averagestack">Average Stack:</div>
+      <div class="value" id="averagestack">&nbsp;</div>
+      <div class="space" id="space_averagestack"></div>
+      <div class="label" id="label_pot">Pot:</div>
+      <div class="value" id="pot">&nbsp;</div>
+      <div class="space" id="space_pot"></div>
+      <div class="label" id="label_lastupdated">Last updated:</div>
+      <div class="value" id="lastupdated">&nbsp;</div>
+      <div class="space" id="space_lastupdated"></div>
+    </div>
+
+    <div id="timeout">
+      <table border=0>
+        <tr>
+          <td>Refresh rate:</td>
+          <td><input type=text id=refreshRate size=1></td>
+          <td>(seconds)</td>
+          <td><button id=buttonSetRefreshRate>Set</button></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
