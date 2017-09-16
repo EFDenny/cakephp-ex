@@ -1,0 +1,15 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+1,Eric,20,20,135,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,4000,0,0,0,0,0,0,0,0,20,0,4000,,,,6,0,0,135,115,4000
+11,Charlie D.,3,20,0,Charlie,Drotar,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,9:46:20 pm,9,Rick Mazza,0,0,0,0,-25,5000
+5,David D.,11,20,0,David,Doole,,,,,,,,,,2011-2012 League Champion,true,0,0,4000,0,0,0,0,0,0,0,0,20,0,4000,10:37:34 pm,11,Eric,1,0,0,0,-20,4000
+2,Dawn,11,20,70,Dawn,Buzbee,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,11:09:44 pm,13,Eric,0,0,0,70,45,5000
+4,Duane,13,20,30,Duane,Barone,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,10:49:08 pm,12,Eric,4,0,0,30,5,5000
+10,Lee,4,20,0,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,9:47:14 pm,9,David D.,0,0,0,0,-25,5000
+9,Mandy,6,20,0,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,4000,0,0,0,0,0,0,0,0,20,0,4000,10:14:08 pm,10,Mac,0,0,0,0,-20,4000
+7,Mike C.,7,20,0,Mike,Conner,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,10:19:39 pm,10,Eric,0,0,0,0,-25,5000
+6,Rick Mazza,8,20,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,10:25:00 pm,10,Duane,1,0,0,0,-25,5000
+13,Rick Mickaliger,2,20,0,Rick,Mickaliger,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,9:36:51 pm,8,Duane,0,0,0,0,-25,5000
+12,Skippy,3,20,0,Scott,Dishong,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,9:43:33 pm,9,Eric,0,0,0,0,-25,5000
+8,Tom B.,6,20,0,Tom,Buzbee,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,10:16:29 pm,10,Duane,0,0,0,0,-25,5000
+13,Warren,2,20,0,Warren,Mervin,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,9:36:51 pm,8,Duane,0,0,0,0,-25,5000
+3,Mac,11,20,45,Steve,McLean,,,,,,,,,,,true,0,0,4000,0,0,0,0,1,5,5,1000,25,5,5000,11:08:06 pm,13,Eric,1,0,0,45,20,5000

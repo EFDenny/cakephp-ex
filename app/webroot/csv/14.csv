@@ -1,0 +1,11 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+1,Eric,20,20,90,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,,,,5,0,0,90,70,3450
+2,Dan,9,20,55,Dan,Myers,heyred65@msn.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:45:16 pm,12,Eric,0,0,0,55,35,3450
+8,Rick Mazza,3,20,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:49:23 pm,9,Eric,0,0,0,0,-20,3450
+7,Dawn,4,20,0,Dawn,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:53:42 pm,9,Warren,0,0,0,0,-20,3450
+9,Mandy,2,20,0,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:28:33 pm,8,Josh R.,0,0,0,0,-20,3450
+10,Tom B.,1,20,0,Tom,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:14:34 pm,6,Josh R.,0,0,0,0,-20,3450
+5,Charlie D.,6,20,0,Charlie,Drotar,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:22:50 pm,10,Eric,0,0,0,0,-20,3450
+6,Mike C.,5,20,0,Mike,Conner,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:56:25 pm,9,Josh R.,0,0,0,0,-20,3450
+3,Josh R.,14,20,35,Josh,Reel,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:43:38 pm,12,Eric,3,0,0,35,15,3450
+4,Warren,9,20,20,Warren,Mervin,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:33:27 pm,11,Eric,1,0,0,20,0,3450

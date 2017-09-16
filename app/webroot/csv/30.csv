@@ -1,0 +1,12 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+1,Eric,21,20,100,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,,,,5,0,0,100,80,3450
+2,Mandy,12,20,60,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,12:10:07 am,13,Eric,1,0,0,60,40,3450
+4,Rick Mazza,10,20,20,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:01:33 pm,10,Eric,1,0,0,20,0,3450
+9,Kjell,3,20,0,Kjell,Wygant,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:33:14 pm,6,Lee,0,0,0,0,-20,3450
+3,Dawn,11,20,40,Dawn,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:42:16 pm,11,Mandy,1,0,0,40,20,3450
+7,Charlie D.,5,20,0,Charlie,Drotar,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:21:10 pm,8,Eric,0,0,0,0,-20,3450
+6,Lee,8,20,0,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:24:46 pm,8,David D.,1,0,0,0,-20,3450
+5,David D.,11,20,0,David,Doole,,,,,,,,,,2011-2012 League Champion,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:35:27 pm,9,Rick Mazza,2,0,0,0,-20,3450
+7,Ashley,5,20,0,Ashley,Ugarte,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:21:10 pm,8,Eric,0,0,0,0,-20,3450
+11,Kelly,1,20,0,Kelly,Kruegel,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,8:47:12 pm,4,"David D.,Dawn",0,0,0,0,-20,3450
+10,Galia,2,20,0,Galia,Heidemann,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:13:35 pm,5,Eric,0,0,0,0,-20,3450

@@ -1,0 +1,15 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+13,Eric,2,20,0,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:56:33 pm,8,Brian S.,0,0,0,0,-20,3450
+1,Rick Mazza,28,20,135,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,,,,7,0,0,135,115,3450
+9,Dawn,6,20,0,Dawn,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:56:19 pm,11,Mandy,0,0,0,0,-20,3450
+3,Mandy,14,20,45,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:31:01 pm,13,Rick Mazza,1,0,0,45,25,3450
+12,Tom B.,3,20,0,Tom,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:11:01 pm,9,Matt,0,0,0,0,-20,3450
+6,Charlie D.,9,20,0,Charlie,Drotar,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:17:28 pm,12,Matt,0,0,0,0,-20,3450
+14,Joe J.,1,20,0,Joe,Johnson,outlawcowboy1@msn.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:16:37 pm,6,Brian S.,0,0,0,0,-20,3450
+2,Mike M.,13,20,75,Mike,McEvoy,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:44:09 pm,14,Rick Mazza,0,0,0,75,55,3450
+11,Mike C.,4,20,0,Mike,Conner,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:39:53 pm,10,Rick Mazza,0,0,0,0,-20,3450
+10,Lee,5,20,0,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:53:43 pm,10,Warren,0,0,0,0,-20,3450
+4,Matt,15,20,25,Matt,Moriarty,moriartymatt@gmail.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:26:02 pm,12,Rick Mazza,2,0,0,25,5,3450
+7,Warren,10,20,0,Warren,Mervin,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:08:36 pm,11,Rick Mazza,1,0,0,0,-20,3450
+8,Brian S.,11,20,0,Brian,Schrameyer,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:08:26 pm,11,Rick Mazza,2,0,0,0,-20,3450
+5,Josh R.,10,20,0,Josh,Reel,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:20:59 pm,12,Rick Mazza,0,0,0,0,-20,3450

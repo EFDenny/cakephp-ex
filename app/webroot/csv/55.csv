@@ -1,0 +1,12 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+7,Dawn,5,25,0,Dawn,Buzbee,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:43:03 pm,9,Lee,0,0,0,0,-25,4500
+11,Eric,1,25,0,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,8:08:46 pm,4,Josh R.,0,0,0,0,-25,4500
+10,Rick Mazza,2,25,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,8:59:29 pm,7,Lee,0,0,0,0,-25,4500
+5,Lori,7,25,0,Lori,Mazza,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:53:13 pm,10,David D.,0,0,0,0,-25,4500
+4,Lee,10,25,25,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,10:12:39 pm,11,Josh R.,2,0,0,25,0,4500
+8,Mac,4,25,0,Steve,McLean,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:13:35 pm,8,David D.,0,0,0,0,-25,4500
+9,Mandy,3,25,0,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:01:45 pm,7,David D.,0,0,0,0,-25,4500
+3,Charlie D.,9,25,35,Charlie,Drotar,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,10:23:29 pm,12,Josh R.,0,0,0,35,10,4500
+1,Josh R.,15,25,105,Josh,Reel,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,,,,4,0,0,105,80,4500
+6,Kelly,6,25,0,Kelly,Kruegel,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:50:40 pm,9,David D.,0,0,0,0,-25,4500
+2,David D.,14,25,55,David,Doole,,,,,,,,,,2011-2012 League Champion,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,11:00:28 pm,14,Josh R.,4,0,0,55,30,4500

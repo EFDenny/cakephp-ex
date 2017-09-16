@@ -1,0 +1,15 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+1,Dawn,17,25,140,Dawn,Buzbee,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,,,,3,0,0,140,115,4500
+5,Eric,13,25,0,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,11:02:57 pm,13,Rick Mazza,3,0,0,0,-25,4500
+2,Rick Mazza,18,25,57.5,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,11:22:19 pm,15,Dawn,5,0,0,57.5,32.5,4500
+7,Lori,9,25,0,Lori,Mazza,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,10:18:08 pm,11,Rick Mazza,1,0,0,0,-25,4500
+13,Kenny,2,25,0,Kenny,Jones,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:02:26 pm,7,Rick Mazza,0,0,0,0,-25,4500
+11,Lee,4,25,0,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:05:11 pm,7,Rick Mazza,0,0,0,0,-25,4500
+14,Rick Mickaliger,1,25,0,Rick,Mickaliger,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,8:44:28 pm,6,Eric,0,0,0,0,-25,4500
+10,Skippy,5,25,0,Scott,Dishong,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:38:36 pm,9,Eric,0,0,0,0,-25,4500
+12,Charlie D.,3,25,0,Charlie,Drotar,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:02:45 pm,7,Lori,0,0,0,0,-25,4500
+8,Josh R.,7,25,0,Josh,Reel,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:52:43 pm,9,Rick Mazza,0,0,0,0,-25,4500
+4,Mac,11,25,25,Steve,McLean,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,11:06:28 pm,13,Dawn,0,0,0,25,0,4500
+9,Mandy,6,25,0,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,9:38:54 pm,9,Mike C.,0,0,0,0,-25,4500
+6,Mike C.,10,25,0,Mike,Conner,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,10:26:47 pm,12,Eric,1,0,0,0,-25,4500
+2,Erik T.,13,25,57.5,Erik,Treiber,,,,,,,,,,,true,0,5,4500,0,0,0,0,0,0,0,0,25,5,4500,11:22:19 pm,15,Dawn,0,0,0,57.5,32.5,4500

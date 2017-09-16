@@ -1,0 +1,14 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+1,Dawn,19,20,125,Dawn,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,,,,3,0,0,125,105,3450
+10,Eric,4,20,0,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:41:45 pm,8,Kjell,0,0,0,0,-20,3450
+5,Lee,11,20,0,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:55:14 pm,12,Dawn,1,0,0,0,-20,3450
+6,Mike C.,10,20,0,Mike,Conner,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:47:15 pm,11,Kjell,1,0,0,0,-20,3450
+13,Rick Mazza,1,20,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:25:17 pm,7,Kjell,0,0,0,0,-20,3450
+12,Warren,2,20,0,Warren,Mervin,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:31:14 pm,7,Kelly,0,0,0,0,-20,3450
+11,Bill,3,20,0,Bill,Mell,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,9:39:16 pm,8,Jeff,0,0,0,0,-20,3450
+9,Kelly,7,20,0,Kelly,Kruegel,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:07:22 pm,9,Lee,1,0,0,0,-20,3450
+2,Kjell,22,20,70,Kjell,Wygant,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:25:37 pm,13,Dawn,5,0,0,70,50,3450
+3,Ashley,11,20,40,Ashley,Ugarte,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:25:31 pm,13,Dawn,0,0,0,40,20,3450
+4,Tom B.,10,20,25,Tom,Buzbee,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,11:17:23 pm,13,Kjell,0,0,0,25,5,3450
+7,Jeff,9,20,0,Jeff,,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:35:51 pm,11,Kjell,1,0,0,0,-20,3450
+8,Josh R.,6,20,0,Josh,Reel,,,,,,,,,,,true,0,0,3450,0,0,0,0,0,0,0,0,20,0,3450,10:28:05 pm,10,Mike C.,0,0,0,0,-20,3450

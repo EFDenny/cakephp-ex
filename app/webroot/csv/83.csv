@@ -1,0 +1,14 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+9,Eric,5,20,0,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:37:48 pm,9,Lance,0,0,0,0,-25,10000
+4,Andrew,13,20,25,Andrew,Shier,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:07:23 pm,14,Duane,1,1,5,25,0,10000
+5,Charlie D.,10,20,0,Charlie,Drotar,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:06:57 pm,14,Mac,0,0,0,0,-25,10000
+8,David D.,6,20,0,David,Doole,,,,,,,,,,2011-2012 League Champion,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:37:59 pm,9,Lance,0,0,0,0,-25,10000
+11,Greg,3,20,0,Greg,Howell,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:50:13 pm,7,Mac,0,0,0,0,-25,10000
+3,Mac,16,20,40,Steve,McLean,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:10:48 pm,14,Paul C.,2,2,10,40,15,10000
+1,Paul C.,23,20,105,Paul,Coffman,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,,,,3,3,15,105,80,10000
+10,Rick Mazza,4,20,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:25:03 pm,8,Lee,0,0,0,0,-25,10000
+7,Lee,7,20,10,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:34:30 pm,12,Paul C.,2,2,10,10,-15,10000
+13,Rick Mickaliger,1,20,0,Rick,Mickaliger,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:39:58 pm,6,Lee,0,0,0,0,-25,10000
+2,Duane,19,20,70,Duane,Barone,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:30:09 pm,15,Paul C.,2,2,10,70,45,10000
+6,Lance,8,20,10,Lance,Cain,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:39:24 pm,12,Andrew,2,2,10,10,-15,10000
+12,Jeff H.,2,20,0,Jeff Holderman,,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:49:33 pm,7,Duane,0,0,0,0,-25,10000

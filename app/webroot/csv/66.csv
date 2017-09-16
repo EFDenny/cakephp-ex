@@ -1,0 +1,14 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+12,Clay,3,20,0,Clay,Yawn,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:42:37 pm,6,Eric,0,0,0,0,-25,10000
+6,Duane,23,20,5,Duane,Barone,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:38:54 pm,12,Pat,1,1,5,5,-20,10000
+3,Eric,30,20,35,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:25:56 pm,15,Skippy,1,1,5,35,10,10000
+5,Josh R.,25,20,0,Josh,Reel,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:53:01 pm,13,Pat,0,0,0,0,-25,10000
+9,Lee,15,20,0,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:33:05 pm,9,Mac,0,0,0,0,-25,10000
+7,Lori,20,20,0,Lori,Mazza,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:19:06 pm,11,Skippy,0,0,0,0,-25,10000
+8,Mac,18,20,10,Steve,McLean,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:18:46 pm,11,Skippy,2,2,10,10,-15,10000
+11,Mike C.,5.5,20,0,Mike,Conner,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:43:17 pm,6,Skippy,0,0,0,0,-25,10000
+10,Paul C.,10,20,0,Paul,Coffman,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:19:27 pm,8,Duane,0,0,0,0,-25,10000
+13,Rick Mazza,3,20,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:27:27 pm,5,Mac,0,0,0,0,-25,10000
+4,Rick Mickaliger,28,20,15,Rick,Mickaliger,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:02:15 pm,14,Skippy,0,0,0,15,-10,10000
+1,Skippy,50,20,125,Scott,Dishong,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,,,,6,6,30,125,100,10000
+2,Pat,38,20,70,Patrick,Mckim,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:32:28 pm,15,Skippy,2,2,10,70,45,10000
