@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="" Season="" Name="Denny 2nd Annual Poker Tournament" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="50" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2008-05-10 15:12:35" TournamentEndDate="2008-05-10 21:55:26" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="7" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="13" TimeOut="2008-05-10 20:46:53"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="8" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2008-05-10 19:32:31"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="4" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="14" TimeOut="2008-05-10 21:17:35"/>
+  <Player Name="Joe J." FirstName="Joe" LastName="Johnson" Rank="1" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="225" Knockouts="3" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Dan" FirstName="Dan" LastName="Myers" Rank="3" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="90" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="15" TimeOut="2008-05-10 21:21:59"/>
+  <Player Name="Mike S." FirstName="Mike" LastName="Short" Rank="9" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2008-05-10 18:34:22"/>
+  <Player Name="Chris J." FirstName="Chris" LastName="Johnson" Rank="2" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="135" Knockouts="3" KnockoutRevenue="0" BountyCost="0" RoundOut="16" TimeOut="2008-05-10 21:55:26"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="6" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="14" TimeOut="2008-05-10 21:01:29"/>
+  <Player Name="Joe S." FirstName="Joe" LastName="Sanchez" Rank="5" TournamentPts="0" Buyin="50" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="14" TimeOut="2008-05-10 21:05:27"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2008-05-10 15:12:35" Summary="Tournament started"/>
+  <History Timestamp="2008-05-10 18:34:22" Summary="Mike S. busted out of the tournament (Table 1, Seat 6) by Chris J. (Table 1, Seat 5)"/>
+  <History Timestamp="2008-05-10 19:32:31" Summary="Mandy busted out of the tournament (Table 1, Seat 8) by Dan (Table 1, Seat 3)"/>
+  <History Timestamp="2008-05-10 20:46:53" Summary="Eric busted out of the tournament (Table 1, Seat 1) by Warren (Table 1, Seat 9)"/>
+  <History Timestamp="2008-05-10 21:01:29" Summary="Warren busted out of the tournament (Table 1, Seat 9) by Chris J. (Table 1, Seat 5)"/>
+  <History Timestamp="2008-05-10 21:05:27" Summary="Joe S. busted out of the tournament (Table 1, Seat 4) by Joe J. (Table 1, Seat 7)"/>
+  <History Timestamp="2008-05-10 21:17:35" Summary="Rick busted out of the tournament (Table 1, Seat 2) by Joe J. (Table 1, Seat 7)"/>
+  <History Timestamp="2008-05-10 21:21:59" Summary="Dan busted out of the tournament (Table 1, Seat 3) by Chris J. (Table 1, Seat 5)"/>
+  <History Timestamp="2008-05-10 21:55:26" Summary="Chris J. busted out of the tournament (Table 1, Seat 5) by Joe J. (Table 1, Seat 7)"/>
+  <History Timestamp="2008-05-10 21:55:26" Summary="Joe J. won the tournament"/>
+  <History Timestamp="2008-05-10 21:55:26" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2010-2011" Name="January League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2011-01-14 19:14:34" TournamentEndDate="2011-01-15 00:06:05" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="2" TournamentPts="25" Buyin="20" Rebuy="0" Addon="0" Payout="100" Knockouts="3" KnockoutRevenue="0" BountyCost="0" RoundOut="15" TimeOut="2011-01-15 00:06:05"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="6" TournamentPts="15" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-01-14 23:14:51"/>
+  <Player Name="Kelly" FirstName="Kelly" LastName="Kruegel" Rank="18" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="7" TimeOut="2011-01-14 21:36:07"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="9" TournamentPts="18" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="3" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2011-01-14 22:57:11"/>
+  <Player Name="Kjell" FirstName="Kjell" LastName="Wygant" Rank="19" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="5" TimeOut="2011-01-14 20:43:35"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="7" TournamentPts="14" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-01-14 23:11:20"/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="20" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="4" TimeOut="2011-01-14 20:27:49"/>
+  <Player Name="Dan" FirstName="Dan" LastName="Myers" Rank="5" TournamentPts="16" Buyin="20" Rebuy="0" Addon="0" Payout="30" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2011-01-14 23:22:02"/>
+  <Player Name="Charlie D." FirstName="Charlie" LastName="Drotar" Rank="12" TournamentPts="9" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-01-14 22:19:00"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="10" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="10" TimeOut="2011-01-14 22:46:28"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="1" TournamentPts="36" Buyin="20" Rebuy="0" Addon="0" Payout="170" Knockouts="8" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="4" TournamentPts="21" Buyin="20" Rebuy="0" Addon="0" Payout="40" Knockouts="2" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2011-01-14 23:24:50"/>
+  <Player Name="Josh" FirstName="" LastName="" Rank="15" TournamentPts="6" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-01-14 22:09:39"/>
+  <Player Name="Mike McEvoy" FirstName="Mike" LastName="McEvoy" Rank="17" TournamentPts="4" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2011-01-14 21:49:17"/>
+  <Player Name="Mike S." FirstName="Mike" LastName="Short" Rank="14" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-01-14 22:13:03"/>
+  <Player Name="Steve" FirstName="Steve" LastName="Drown" Rank="11" TournamentPts="12" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-01-14 22:27:23"/>
+  <Player Name="Bill" FirstName="Bill" LastName="Mell" Rank="8" TournamentPts="13" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-01-14 23:06:32"/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="16" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-01-14 22:07:35"/>
+  <Player Name="Ashley" FirstName="Ashley" LastName="Ugarte" Rank="13" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-01-14 22:18:19"/>
+  <Player Name="Brian S." FirstName="Brian" LastName="Schraymeyer" Rank="3" TournamentPts="20" Buyin="20" Rebuy="0" Addon="0" Payout="60" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2011-01-14 23:28:42"/>
+ </Players>
+ <TournamentHistory>
+
+  <History Timestamp="2011-01-14 20:27:49" Summary="Tom B. busted out of the tournament (Main, Seat 8) by Eric (Main, Seat 1)"/>
+  <History Timestamp="2011-01-14 20:43:35" Summary="Kjell busted out of the tournament (Main, Seat 2) by Rick (Main, Seat 9)"/>
+  <History Timestamp="2011-01-14 21:36:07" Summary="Kelly busted out of the tournament (Kids, Seat 4) by Steve (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-14 21:49:17" Summary="Mike McEvoy busted out of the tournament (Kids, Seat 2) by Ashley (Kids, Seat 10)"/>
+  <History Timestamp="2011-01-14 22:07:35" Summary="Rick Mickaliger busted out of the tournament (Main, Seat 2) by Brian S. (Main, Seat 6)"/>
+  <History Timestamp="2011-01-14 22:09:39" Summary="Josh busted out of the tournament (Main, Seat 5) by Eric (Main, Seat 1)"/>
+  <History Timestamp="2011-01-14 22:13:03" Summary="Mike S. busted out of the tournament (Main, Seat 4) by Rick (Main, Seat 9)"/>
+  <History Timestamp="2011-01-14 22:18:19" Summary="Ashley busted out of the tournament (Main, Seat 2) by Warren (Main, Seat 3)"/>
+  <History Timestamp="2011-01-14 22:19:00" Summary="Charlie D. busted out of the tournament (Kids, Seat 1) by Lee (Kids, Seat 2)"/>
+  <History Timestamp="2011-01-14 22:27:23" Summary="Steve busted out of the tournament (Kids, Seat 8) by Lee (Kids, Seat 2)"/>
+  <History Timestamp="2011-01-14 22:46:28" Summary="Mike C. busted out of the tournament (Kids, Seat 7) by Eric (Kids, Seat 10)"/>
+  <History Timestamp="2011-01-14 22:57:11" Summary="Bill busted out of the tournament (Kids, Seat 1) by Rick (Kids, Seat 9)"/>
+  <History Timestamp="2011-01-14 23:06:32" Summary="Rick busted out of the tournament (Kids, Seat 9) by Lee (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-14 23:11:20" Summary="Dawn busted out of the tournament (Kids, Seat 3) by Lee (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-14 23:14:51" Summary="Mandy busted out of the tournament (Kids, Seat 2) by Lee (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-14 23:22:02" Summary="Dan busted out of the tournament (Kids, Seat 4) by Warren (Kids, Seat 5)"/>
+  <History Timestamp="2011-01-14 23:24:50" Summary="Warren busted out of the tournament (Kids, Seat 5) by Lee (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-14 23:28:42" Summary="Brian S. busted out of the tournament (Kids, Seat 6) by Lee (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-15 00:06:05" Summary="Eric busted out of the tournament (Kids, Seat 10) by Lee (Kids, Seat 8)"/>
+  <History Timestamp="2011-01-15 00:06:05" Summary="Lee won the tournament"/>
+  <History Timestamp="2011-01-15 00:06:05" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

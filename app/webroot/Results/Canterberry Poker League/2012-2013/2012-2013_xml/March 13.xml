@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2012-2013" Name="March 2013 League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="5" AllowAddOns="-1" BountiesAllowed="0" TournamentStartDate="2013-03-08 18:25:57" TournamentEndDate="2013-03-08 23:43:23" TournamentComments="">
+ <Players>
+  <Player Name="Brian A." FirstName="Brian" LastName="Albers" Rank="4" TournamentPts="12.6" Buyin="20" Rebuy="0" Addon="5" Payout="30" Knockouts="2" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="13" TimeOut="2013-03-08 23:20:04"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="12" TournamentPts="4.2" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="8" TimeOut="2013-03-08 21:50:59"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="13" TournamentPts="3.4" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="8" TimeOut="2013-03-08 21:49:25"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="9" TournamentPts="6.6" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-03-08 22:48:04"/>
+  <Player Name="Erik" FirstName="Erik" LastName="Treiber" Rank="1" TournamentPts="18" Buyin="20" Rebuy="0" Addon="5" Payout="140" Knockouts="5" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="" TimeOut=""/>
+  <Player Name="Josh" FirstName="Josh" LastName="Reel" Rank="5" TournamentPts="9.8" Buyin="20" Rebuy="0" Addon="5" Payout="25" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2013-03-08 23:00:27"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="10" TournamentPts="5.8" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-03-08 22:43:53"/>
+  <Player Name="Mac" FirstName="Steve" LastName="Mclean" Rank="7" TournamentPts="8.2" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-03-08 22:51:37"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="11" TournamentPts="5" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2013-03-08 22:08:24"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="2" TournamentPts="17.2" Buyin="20" Rebuy="0" Addon="5" Payout="75" Knockouts="5" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="14" TimeOut="2013-03-08 23:43:23"/>
+  <Player Name="Mike McEvoy" FirstName="Mike" LastName="McEvoy" Rank="15" TournamentPts="1.8" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="7" TimeOut="2013-03-08 21:26:50"/>
+  <Player Name="Rick Mazza" FirstName="Rick" LastName="Mazza" Rank="16" TournamentPts="1" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="6" TimeOut="2013-03-08 20:54:45"/>
+  <Player Name="Skippy" FirstName="Scott" LastName="Dishong" Rank="3" TournamentPts="13.4" Buyin="20" Rebuy="0" Addon="5" Payout="50" Knockouts="2" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="14" TimeOut="2013-03-08 23:34:30"/>
+  <Player Name="Steve" FirstName="Steve" LastName="Drown" Rank="7" TournamentPts="9.2" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-03-08 22:51:37"/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="6" TournamentPts="9" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-03-08 22:55:17"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="14" TournamentPts="2.6" Buyin="20" Rebuy="0" Addon="5" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="8" TimeOut="2013-03-08 21:37:16"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Tournament started"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 1: Eric"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 2: Mac"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 3: Mike McEvoy"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 4: David D."/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 5: Lee"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 6: Mandy"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 7: Brian A."/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Burgundy, Seat 8: Erik"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 1: Rick Mazza"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 2: Skippy"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 3: Josh"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 4: Steve"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 5: Tom B."/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 6: Dawn"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 7: Warren"/>
+  <History Timestamp="2013-03-08 18:25:57" Summary="Red, Seat 8: Mike C."/>
+  <History Timestamp="2013-03-08 18:28:13" Summary="Eric added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:28:13" Summary="Mandy added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:35:30" Summary="Lee added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:35:30" Summary="Rick Mazza added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:53:29" Summary="Skippy added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:53:29" Summary="Steve added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:54:01" Summary="Dawn added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:54:01" Summary="Tom B. added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:58:06" Summary="Josh added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 18:58:06" Summary="Warren added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:04:36" Summary="Brian A. added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:04:36" Summary="David D. added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:04:36" Summary="Mac added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:08:44" Summary="Erik added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:08:44" Summary="Mike C. added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:09:58" Summary="Mike McEvoy added-on (Fee: $5.00, Rake: $5.00, Chips: $2,000, Points: 0.00, Profile: Master)"/>
+  <History Timestamp="2013-03-08 19:28:46" Summary="End of round 1"/>
+  <History Timestamp="2013-03-08 19:28:50" Summary="Start of round 2"/>
+  <History Timestamp="2013-03-08 19:43:49" Summary="End of round 2"/>
+  <History Timestamp="2013-03-08 19:43:53" Summary="Start of round 3"/>
+  <History Timestamp="2013-03-08 19:58:53" Summary="End of round 3"/>
+  <History Timestamp="2013-03-08 19:58:57" Summary="Start of break 1"/>
+  <History Timestamp="2013-03-08 20:17:17" Summary="End of break 1"/>
+  <History Timestamp="2013-03-08 20:17:21" Summary="Start of round 4"/>
+  <History Timestamp="2013-03-08 20:32:21" Summary="End of round 4"/>
+  <History Timestamp="2013-03-08 20:32:25" Summary="Start of round 5"/>
+  <History Timestamp="2013-03-08 20:47:25" Summary="End of round 5"/>
+  <History Timestamp="2013-03-08 20:47:29" Summary="Start of round 6"/>
+  <History Timestamp="2013-03-08 20:54:45" Summary="Rick Mazza busted out of the tournament (Red, Seat 1) by Skippy (Red, Seat 2)"/>
+  <History Timestamp="2013-03-08 21:02:29" Summary="End of round 6"/>
+  <History Timestamp="2013-03-08 21:02:33" Summary="Start of break 2"/>
+  <History Timestamp="2013-03-08 21:13:19" Summary="User initiated next round"/>
+  <History Timestamp="2013-03-08 21:13:19" Summary="Start of round 7"/>
+  <History Timestamp="2013-03-08 21:26:50" Summary="Mike McEvoy busted out of the tournament (Burgundy, Seat 3) by Erik (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-03-08 21:36:57" Summary="End of round 7"/>
+  <History Timestamp="2013-03-08 21:37:01" Summary="Start of round 8"/>
+  <History Timestamp="2013-03-08 21:37:16" Summary="Warren busted out of the tournament (Red, Seat 7) by Mike C. (Red, Seat 8)"/>
+  <History Timestamp="2013-03-08 21:49:25" Summary="Dawn busted out of the tournament (Red, Seat 6) by Mike C. (Red, Seat 8)"/>
+  <History Timestamp="2013-03-08 21:50:59" Summary="David D. busted out of the tournament (Red, Seat 6) by Erik (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-03-08 21:53:28" Summary="End of round 8"/>
+  <History Timestamp="2013-03-08 21:53:33" Summary="Start of round 9"/>
+  <History Timestamp="2013-03-08 22:08:24" Summary="Mandy busted out of the tournament (Burgundy, Seat 6) by Brian A. (Burgundy, Seat 7)"/>
+  <History Timestamp="2013-03-08 22:08:32" Summary="End of round 9"/>
+  <History Timestamp="2013-03-08 22:08:37" Summary="Start of break 3"/>
+  <History Timestamp="2013-03-08 22:25:43" Summary="User initiated next round"/>
+  <History Timestamp="2013-03-08 22:25:43" Summary="Start of round 10"/>
+  <History Timestamp="2013-03-08 22:40:46" Summary="End of round 10"/>
+  <History Timestamp="2013-03-08 22:40:52" Summary="Start of round 11"/>
+  <History Timestamp="2013-03-08 22:43:53" Summary="Lee busted out of the tournament (Burgundy, Seat 3) by Brian A. (Burgundy, Seat 9)"/>
+  <History Timestamp="2013-03-08 22:48:04" Summary="Eric busted out of the tournament (Burgundy, Seat 2) by Steve (Burgundy, Seat 7)"/>
+  <History Timestamp="2013-03-08 22:51:37" Summary="Steve busted out of the tournament (Burgundy, Seat 7) by Mike C. (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-03-08 22:51:37" Summary="Mac busted out of the tournament (Burgundy, Seat 1) by Mike C. (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-03-08 22:55:17" Summary="Tom B. busted out of the tournament (Burgundy, Seat 5) by Erik (Burgundy, Seat 10)"/>
+  <History Timestamp="2013-03-08 22:55:51" Summary="End of round 11"/>
+  <History Timestamp="2013-03-08 22:55:58" Summary="Start of round 12"/>
+  <History Timestamp="2013-03-08 23:00:27" Summary="Josh busted out of the tournament (Burgundy, Seat 4) by Skippy (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-03-08 23:10:58" Summary="End of round 12"/>
+  <History Timestamp="2013-03-08 23:11:07" Summary="Start of break 4"/>
+  <History Timestamp="2013-03-08 23:15:05" Summary="User initiated next round"/>
+  <History Timestamp="2013-03-08 23:15:06" Summary="Start of round 13"/>
+  <History Timestamp="2013-03-08 23:20:04" Summary="Brian A. busted out of the tournament (Burgundy, Seat 9) by Mike C. (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-03-08 23:30:08" Summary="End of round 13"/>
+  <History Timestamp="2013-03-08 23:30:21" Summary="Start of round 14"/>
+  <History Timestamp="2013-03-08 23:34:30" Summary="Skippy busted out of the tournament (Burgundy, Seat 6) by Erik (Burgundy, Seat 10)"/>
+  <History Timestamp="2013-03-08 23:43:23" Summary="Mike C. busted out of the tournament (Burgundy, Seat 8) by Erik (Burgundy, Seat 10)"/>
+  <History Timestamp="2013-03-08 23:43:23" Summary="Erik won the tournament"/>
+  <History Timestamp="2013-03-08 23:43:23" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

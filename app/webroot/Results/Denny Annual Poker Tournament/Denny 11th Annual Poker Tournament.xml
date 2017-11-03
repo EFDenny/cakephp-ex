@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pXML>
+ <MessageInfo>
+  <Version>1.0</Version>
+  <DocumentType>PokerDIY_Game</DocumentType>
+  <Source>TD</Source>
+  <SourceVersion>3.4.b3</SourceVersion>
+  <SourceDate>2017-05-07 04:59:16</SourceDate>
+ </MessageInfo>
+ <Games>
+  <Game>
+   <League>
+    <LeagueID></LeagueID>
+    <ExternalLeagueID>db6e3eb0-e990-11dc-055a-6703352678ad</ExternalLeagueID>
+    <LeagueName>Canterberry Poker League</LeagueName>
+    <Season>
+     <SeasonID></SeasonID>
+     <ExternalSeasonID>14cd6390-2c64-11de-2303-05d1be1f616f</ExternalSeasonID>
+     <SeasonName>Denny Annual Poker Tournament</SeasonName>
+    </Season>
+   </League>
+   <GameID></GameID>
+   <ExternalGameID>b1562bc0-c48a-4428-b593-9a11e5247fdc</ExternalGameID>
+   <GameName>Denny 11th Annual Poker Tournament</GameName>
+   <GameDescription>5/6/2017</GameDescription>
+   <GameComments></GameComments>
+   <GameStartDate>2017-05-06 07:06:52</GameStartDate>
+   <GameEndDate>2017-05-06 17:50:02</GameEndDate>
+   <GameTypeID>2</GameTypeID>
+   <CurrencySymbol>$</CurrencySymbol>
+   <TotalPrizePool>2860</TotalPrizePool>
+   <GameBuyIn>90</GameBuyIn>
+   <RebuyAmount>90</RebuyAmount>
+   <AllowRebuys>1</AllowRebuys>
+   <AddOnAmount>25</AddOnAmount>
+   <AllowAddOns>1</AllowAddOns>
+   <BountiesAllowed>1</BountiesAllowed>
+   <Players>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>0b0e9500-afd9-11da-055a-163116454522738</ExternalPlayerID>
+     <PlayerName>Eric</PlayerName>
+     <FirstName>Eric</FirstName>
+     <LastName>Denny</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>20</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>2</Rebuys>
+     <RebuysCost>180</RebuysCost>
+     <RebuysChips>60000</RebuysChips>
+     <TotalRebuysRake>20</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>20</TotalAddOnsRake>
+     <TotalRake>30</TotalRake>
+     <TotalCost>270</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>30</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>b2bc5f70-9319-11e0-147c-16a5912f1d14</HitmanID>
+     <TimeOutDate>2017-05-06 13:09:21</TimeOutDate>
+     <RoundOut>13</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>62fb8cd0-b607-11da-055a-266026356344702</ExternalPlayerID>
+     <PlayerName>Rick Mazza</PlayerName>
+     <FirstName>Rick</FirstName>
+     <LastName>Mazza</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>13</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>90</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>c67d29c0-ff33-11de-14a1-a6f5e48dedd0</HitmanID>
+     <TimeOutDate>2017-05-06 13:57:28</TimeOutDate>
+     <RoundOut>15</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>5513ae50-47c8-11e1-0053-a1dda0054890</ExternalPlayerID>
+     <PlayerName>Josh R.</PlayerName>
+     <FirstName>Josh</FirstName>
+     <LastName>Reel</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>1</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>90</TotalCost>
+     <TotalWinnings>1010</TotalWinnings>
+     <Payout>1080</Payout>
+     <Points>0</Points>
+     <Knockouts>6</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>60</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>6</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>8819da10-e374-11dd-055a-b6ae22c6e3b2</ExternalPlayerID>
+     <PlayerName>David D.</PlayerName>
+     <FirstName>David</FirstName>
+     <LastName>Doole</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>7</Rank>
+     <BuyIn>0</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>90</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>30</Payout>
+     <Points>0</Points>
+     <Knockouts>3</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>30</KnockoutRevenue>
+     <HitmanID>5513ae50-47c8-11e1-0053-a1dda0054890</HitmanID>
+     <TimeOutDate>2017-05-06 14:48:24</TimeOutDate>
+     <RoundOut>17</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>3</BountiesWon>
+     <TotalBuyInRake>0</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>18839680-fb1a-11db-055a-108298695629687</ExternalPlayerID>
+     <PlayerName>Lee</PlayerName>
+     <FirstName>Lee</FirstName>
+     <LastName>Ugarte</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>15</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>2</Rebuys>
+     <RebuysCost>180</RebuysCost>
+     <RebuysChips>60000</RebuysChips>
+     <TotalRebuysRake>20</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>20</TotalAddOnsRake>
+     <TotalRake>35</TotalRake>
+     <TotalCost>295</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>20</Payout>
+     <Points>0</Points>
+     <Knockouts>2</Knockouts>
+     <BountyCost>30</BountyCost>
+     <KnockoutRevenue>20</KnockoutRevenue>
+     <HitmanID>4d11a5be-53d0-42cd-afcc-a8e70efa4074</HitmanID>
+     <TimeOutDate>2017-05-06 13:27:37</TimeOutDate>
+     <RoundOut>14</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>2</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>b2bc5f70-9319-11e0-147c-16a5912f1d14</ExternalPlayerID>
+     <PlayerName>Mac</PlayerName>
+     <FirstName>Steve</FirstName>
+     <LastName>McLean</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>9</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>90</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>30</Payout>
+     <Points>0</Points>
+     <Knockouts>3</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>30</KnockoutRevenue>
+     <HitmanID>496f53f0-b607-11da-055a-278866711693344</HitmanID>
+     <TimeOutDate>2017-05-06 14:35:23</TimeOutDate>
+     <RoundOut>17</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>3</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>931b1760-7a52-11e3-0053-916ffaa5462b</ExternalPlayerID>
+     <PlayerName>Paul C.</PlayerName>
+     <FirstName>Paul</FirstName>
+     <LastName>Coffman</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>17</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>8819da10-e374-11dd-055a-b6ae22c6e3b2</HitmanID>
+     <TimeOutDate>2017-05-06 13:23:47</TimeOutDate>
+     <RoundOut>14</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>496f53f0-b607-11da-055a-278866711693344</ExternalPlayerID>
+     <PlayerName>Warren</PlayerName>
+     <FirstName>Warren</FirstName>
+     <LastName>Mervin</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>4</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>360</TotalWinnings>
+     <Payout>400</Payout>
+     <Points>0</Points>
+     <Knockouts>5</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>40</KnockoutRevenue>
+     <HitmanID>df43e4e8-acdb-482d-ad06-85211f181e32</HitmanID>
+     <TimeOutDate>2017-05-06 16:05:52</TimeOutDate>
+     <RoundOut>21</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>4</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>4d11a5be-53d0-42cd-afcc-a8e70efa4074</ExternalPlayerID>
+     <PlayerName>Greg</PlayerName>
+     <FirstName>Greg</FirstName>
+     <LastName>Howell</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>8</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>10</Payout>
+     <Points>0</Points>
+     <Knockouts>1</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>496f53f0-b607-11da-055a-278866711693344</HitmanID>
+     <TimeOutDate>2017-05-06 14:37:27</TimeOutDate>
+     <RoundOut>17</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>1</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>72a11c5d-263b-4f1e-8928-4ecc301a4916</ExternalPlayerID>
+     <PlayerName>Josh M.</PlayerName>
+     <FirstName>Josh</FirstName>
+     <LastName>Martin</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>6</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>90</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>20</Payout>
+     <Points>0</Points>
+     <Knockouts>2</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>20</KnockoutRevenue>
+     <HitmanID>5513ae50-47c8-11e1-0053-a1dda0054890</HitmanID>
+     <TimeOutDate>2017-05-06 15:01:47</TimeOutDate>
+     <RoundOut>18</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>2</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>422afc42-cac6-494f-9404-df6f1300917e</ExternalPlayerID>
+     <PlayerName>Lance</PlayerName>
+     <FirstName>Lance</FirstName>
+     <LastName>Cain</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>21</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>90</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>18839680-fb1a-11db-055a-108298695629687</HitmanID>
+     <TimeOutDate>2017-05-06 12:10:14</TimeOutDate>
+     <RoundOut>11</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>2d0b86f0-e230-11dc-055a-f2c7bf789532</ExternalPlayerID>
+     <PlayerName>Mike C.</PlayerName>
+     <FirstName>Mike</FirstName>
+     <LastName>Conner</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>10</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>8819da10-e374-11dd-055a-b6ae22c6e3b2</HitmanID>
+     <TimeOutDate>2017-05-06 14:21:55</TimeOutDate>
+     <RoundOut>16</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>df43e4e8-acdb-482d-ad06-85211f181e32</ExternalPlayerID>
+     <PlayerName>Brig</PlayerName>
+     <FirstName>Brig</FirstName>
+     <LastName>Coupe</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>2</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>710</TotalWinnings>
+     <Payout>740</Payout>
+     <Points>0</Points>
+     <Knockouts>3</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>30</KnockoutRevenue>
+     <HitmanID>5513ae50-47c8-11e1-0053-a1dda0054890</HitmanID>
+     <TimeOutDate>2017-05-06 17:50:02</TimeOutDate>
+     <RoundOut>26</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>3</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>6caf6b50-e374-11dd-055a-165ad7ac3465</ExternalPlayerID>
+     <PlayerName>Steve</PlayerName>
+     <FirstName>Steve</FirstName>
+     <LastName>Drown</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>18</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>20</TotalRake>
+     <TotalCost>180</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>10</Payout>
+     <Points>0</Points>
+     <Knockouts>1</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>8819da10-e374-11dd-055a-b6ae22c6e3b2</HitmanID>
+     <TimeOutDate>2017-05-06 13:23:42</TimeOutDate>
+     <RoundOut>14</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>1</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>6ad5d1b0-97b5-11e4-0053-8fb476630103</ExternalPlayerID>
+     <PlayerName>Andrew</PlayerName>
+     <FirstName>Andrew</FirstName>
+     <LastName>Shier</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>14</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>10</Payout>
+     <Points>0</Points>
+     <Knockouts>1</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>496f53f0-b607-11da-055a-278866711693344</HitmanID>
+     <TimeOutDate>2017-05-06 13:53:58</TimeOutDate>
+     <RoundOut>15</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>1</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>c859b300-70ca-11de-2303-b39081595ee2</ExternalPlayerID>
+     <PlayerName>Charlie D.</PlayerName>
+     <FirstName>Charlie</FirstName>
+     <LastName>Drotar</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>11</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>15</TotalRake>
+     <TotalCost>115</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>10</Payout>
+     <Points>0</Points>
+     <Knockouts>1</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>8d9edd80-2cd4-11dc-055a-05538bc12429</HitmanID>
+     <TimeOutDate>2017-05-06 14:14:56</TimeOutDate>
+     <RoundOut>16</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>1</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>8d9edd80-2cd4-11dc-055a-05538bc12429</ExternalPlayerID>
+     <PlayerName>Duane</PlayerName>
+     <FirstName>Duane</FirstName>
+     <LastName>Barone</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>5</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>15</TotalRake>
+     <TotalCost>115</TotalCost>
+     <TotalWinnings>285</TotalWinnings>
+     <Payout>295</Payout>
+     <Points>0</Points>
+     <Knockouts>1</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>10</KnockoutRevenue>
+     <HitmanID>c67d29c0-ff33-11de-14a1-a6f5e48dedd0</HitmanID>
+     <TimeOutDate>2017-05-06 15:55:45</TimeOutDate>
+     <RoundOut>20</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>1</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>7e9f3f20-e374-11dd-055a-5e42f83aa35b</ExternalPlayerID>
+     <PlayerName>Mike M.</PlayerName>
+     <FirstName>Mike</FirstName>
+     <LastName>McEvoy</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>19</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>20</TotalRake>
+     <TotalCost>180</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>6ad5d1b0-97b5-11e4-0053-8fb476630103</HitmanID>
+     <TimeOutDate>2017-05-06 13:13:21</TimeOutDate>
+     <RoundOut>13</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>c67d29c0-ff33-11de-14a1-a6f5e48dedd0</ExternalPlayerID>
+     <PlayerName>Rick Mickaliger</PlayerName>
+     <FirstName>Rick</FirstName>
+     <LastName>Mickaliger</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>3</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>15</TotalRake>
+     <TotalCost>115</TotalCost>
+     <TotalWinnings>495</TotalWinnings>
+     <Payout>545</Payout>
+     <Points>0</Points>
+     <Knockouts>6</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>50</KnockoutRevenue>
+     <HitmanID>df43e4e8-acdb-482d-ad06-85211f181e32</HitmanID>
+     <TimeOutDate>2017-05-06 16:50:19</TimeOutDate>
+     <RoundOut>23</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>5</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>fece4dbc-33bf-489d-9e96-59cc8fc1ae55</ExternalPlayerID>
+     <PlayerName>Jeff F.</PlayerName>
+     <FirstName>Jeff</FirstName>
+     <LastName>Ferguson</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>12</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>1</Rebuys>
+     <RebuysCost>90</RebuysCost>
+     <RebuysChips>30000</RebuysChips>
+     <TotalRebuysRake>10</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>10</TotalAddOnsRake>
+     <TotalRake>25</TotalRake>
+     <TotalCost>205</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>20</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>496f53f0-b607-11da-055a-278866711693344</HitmanID>
+     <TimeOutDate>2017-05-06 13:59:53</TimeOutDate>
+     <RoundOut>15</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>c323cb40-736c-11e0-34a3-66580591abca</ExternalPlayerID>
+     <PlayerName>Erik T.</PlayerName>
+     <FirstName>Erik</FirstName>
+     <LastName>Treiber</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>16</Rank>
+     <BuyIn>90</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>1</AddOns>
+     <AddOnsCost>25</AddOnsCost>
+     <AddOnsChips>10000</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>15</TotalRake>
+     <TotalCost>115</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>10</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID>c67d29c0-ff33-11de-14a1-a6f5e48dedd0</HitmanID>
+     <TimeOutDate>2017-05-06 13:24:37</TimeOutDate>
+     <RoundOut>14</RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>30000</BuyInChips>
+    </Player>
+   </Players>
+   <GameHistory>
+    <History>
+     <TimeStamp>2017-05-01 15:35:57</TimeStamp>
+     <Summary>Undo buy-in for Skippy (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-05 01:31:20</TimeStamp>
+     <Summary>Start of pre-tournament countdown</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-05 01:47:56</TimeStamp>
+     <Summary>Start of pre-tournament countdown</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-05 01:54:04</TimeStamp>
+     <Summary>Start of pre-tournament countdown</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-05 04:52:59</TimeStamp>
+     <Summary>Undo buy-in for Jeff H. (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-05 04:53:54</TimeStamp>
+     <Summary>Start of pre-tournament countdown</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Tournament started</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 1: Andrew</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 2: Brig</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 3: Erik T.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 4: Jeff F.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 5: Josh R.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 6: Mike M.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Red, Seat 7: Rick Mazza</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 1: Charlie D.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 2: Greg</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 3: Josh M.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 4: Lance</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 5: Lee</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 6: Paul C.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Blue, Seat 7: Steve</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 1: David D.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 2: Duane</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 3: Eric</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 4: Mac</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 5: Mike C.</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 6: Rick Mickaliger</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:06:52</TimeStamp>
+     <Summary>Green, Seat 7: Warren</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:26:51</TimeStamp>
+     <Summary>End of round 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:26:55</TimeStamp>
+     <Summary>Start of round 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:46:55</TimeStamp>
+     <Summary>End of round 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 07:46:59</TimeStamp>
+     <Summary>Start of round 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:06:06</TimeStamp>
+     <Summary>Eric busted out of the tournament (Green, Seat 3) by Mac (Green, Seat 4)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:06:10</TimeStamp>
+     <Summary>Eric rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:06:59</TimeStamp>
+     <Summary>End of round 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:07:03</TimeStamp>
+     <Summary>Start of break 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:26:46</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:26:46</TimeStamp>
+     <Summary>Start of round 4</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:46:48</TimeStamp>
+     <Summary>End of round 4</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 08:46:52</TimeStamp>
+     <Summary>Start of round 5</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 09:06:52</TimeStamp>
+     <Summary>End of round 5</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 09:06:56</TimeStamp>
+     <Summary>Start of round 6</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 09:26:56</TimeStamp>
+     <Summary>End of round 6</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 09:27:00</TimeStamp>
+     <Summary>Start of break 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 09:41:19</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 09:41:19</TimeStamp>
+     <Summary>Start of round 7</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:02:11</TimeStamp>
+     <Summary>Warren busted out of the tournament (Green, Seat 7) by Mac (Green, Seat 4)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:02:15</TimeStamp>
+     <Summary>Warren rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:06:01</TimeStamp>
+     <Summary>End of round 7</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:06:05</TimeStamp>
+     <Summary>Start of round 8</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:07:58</TimeStamp>
+     <Summary>David D. busted out of the tournament (Green, Seat 1) by Rick Mickaliger (Green, Seat 6), Warren (Green, Seat 7)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:08:02</TimeStamp>
+     <Summary>David D. rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:19:48</TimeStamp>
+     <Summary>Jeff F. busted out of the tournament (Red, Seat 4) by Josh R. (Red, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:19:48</TimeStamp>
+     <Summary>Brig busted out of the tournament (Red, Seat 2) by Josh R. (Red, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:19:58</TimeStamp>
+     <Summary>Brig rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:19:58</TimeStamp>
+     <Summary>Jeff F. rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:26:05</TimeStamp>
+     <Summary>End of round 8</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:26:09</TimeStamp>
+     <Summary>Start of round 9</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:35:20</TimeStamp>
+     <Summary>Eric busted out of the tournament (Green, Seat 3) by Rick Mickaliger (Green, Seat 6)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:35:27</TimeStamp>
+     <Summary>Eric rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:40:40</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:40:40</TimeStamp>
+     <Summary>Start of break 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:57:40</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 10:57:40</TimeStamp>
+     <Summary>Start of round 10</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 11:15:57</TimeStamp>
+     <Summary>Paul C. busted out of the tournament (Blue, Seat 6) by Lee (Blue, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 11:16:16</TimeStamp>
+     <Summary>Paul C. rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 11:19:44</TimeStamp>
+     <Summary>Steve busted out of the tournament (Blue, Seat 7) by Charlie D. (Blue, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 11:21:13</TimeStamp>
+     <Summary>End of round 10</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 11:21:17</TimeStamp>
+     <Summary>Start of round 11</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:04:29</TimeStamp>
+     <Summary>Steve rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:04:39</TimeStamp>
+     <Summary>Greg busted out of the tournament (Blue, Seat 2) by Steve (Blue, Seat 9)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:04:44</TimeStamp>
+     <Summary>Greg rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:04:56</TimeStamp>
+     <Summary>Andrew busted out of the tournament (Red, Seat 1) by Josh R. (Red, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:05:50</TimeStamp>
+     <Summary>Andrew rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:10:14</TimeStamp>
+     <Summary>Lance busted out of the tournament (Blue, Seat 4) by Lee (Blue, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:11:47</TimeStamp>
+     <Summary>Mike M. busted out of the tournament (Red, Seat 6) by Brig (Red, Seat 2)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:12:13</TimeStamp>
+     <Summary>Mike M. rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:16:48</TimeStamp>
+     <Summary>Mike C. busted out of the tournament (Green, Seat 5) by Rick Mickaliger (Green, Seat 6)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:16:51</TimeStamp>
+     <Summary>Mike C. rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:19:26</TimeStamp>
+     <Summary>End of round 11</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:19:30</TimeStamp>
+     <Summary>Start of round 12</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:26:15</TimeStamp>
+     <Summary>Lee busted out of the tournament (Blue, Seat 5) by Josh M. (Blue, Seat 3)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:26:21</TimeStamp>
+     <Summary>Lee rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:38:14</TimeStamp>
+     <Summary>Lee busted out of the tournament (Blue, Seat 5) by Josh M. (Blue, Seat 3)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:38:18</TimeStamp>
+     <Summary>Lee rebought into tournament (Fee: $90.00, Rake: $10.00, Chips: 30,000, Points: 0, Bounty Chip: $10.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:39:30</TimeStamp>
+     <Summary>End of round 12</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:39:34</TimeStamp>
+     <Summary>Start of break 4</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Andrew added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Brig added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Charlie D. added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Duane added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Erik T. added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Greg added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Jeff F. added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Lee added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Mike C. added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Paul C. added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Rick Mickaliger added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:53:34</TimeStamp>
+     <Summary>Warren added-on (Fee: $25.00, Rake: $5.00, Chips: 10,000, Points: 0, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:58:55</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 12:58:55</TimeStamp>
+     <Summary>Start of round 13</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:09:21</TimeStamp>
+     <Summary>Eric busted out of the tournament (Green, Seat 3) by Mac (Green, Seat 4)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:13:21</TimeStamp>
+     <Summary>Mike M. busted out of the tournament (Red, Seat 6) by Andrew (Red, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:18:59</TimeStamp>
+     <Summary>End of round 13</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:19:03</TimeStamp>
+     <Summary>Start of round 14</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:23:42</TimeStamp>
+     <Summary>Steve busted out of the tournament (Blue, Seat 6) by David D. (Blue, Seat 8)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:23:47</TimeStamp>
+     <Summary>Paul C. busted out of the tournament (Blue, Seat 5) by David D. (Blue, Seat 8)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:24:37</TimeStamp>
+     <Summary>Erik T. busted out of the tournament (Red, Seat 3) by Rick Mickaliger (Red, Seat 8)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:27:37</TimeStamp>
+     <Summary>Lee busted out of the tournament (Blue, Seat 4) by Greg (Blue, Seat 2)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:39:03</TimeStamp>
+     <Summary>End of round 14</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:39:07</TimeStamp>
+     <Summary>Start of round 15</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:53:58</TimeStamp>
+     <Summary>Andrew busted out of the tournament (Red, Seat 1) by Warren (Red, Seat 6)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:57:28</TimeStamp>
+     <Summary>Rick Mazza busted out of the tournament (Red, Seat 7) by Rick Mickaliger (Red, Seat 8)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:59:07</TimeStamp>
+     <Summary>End of round 15</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:59:11</TimeStamp>
+     <Summary>Start of break 5</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 13:59:53</TimeStamp>
+     <Summary>Jeff F. busted out of the tournament (Red, Seat 4) by Warren (Red, Seat 6)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:09:11</TimeStamp>
+     <Summary>End of break 5</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:09:15</TimeStamp>
+     <Summary>Start of round 16</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:14:56</TimeStamp>
+     <Summary>Charlie D. busted out of the tournament (Blue, Seat 1) by Duane (Blue, Seat 9)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:21:55</TimeStamp>
+     <Summary>Mike C. busted out of the tournament (Blue, Seat 7) by David D. (Blue, Seat 8)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:32:07</TimeStamp>
+     <Summary>End of round 16</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:32:11</TimeStamp>
+     <Summary>Start of round 17</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:35:23</TimeStamp>
+     <Summary>Mac busted out of the tournament (Red, Seat 8) by Warren (Red, Seat 9)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:37:27</TimeStamp>
+     <Summary>Greg busted out of the tournament (Red, Seat 7) by Warren (Red, Seat 9)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:48:24</TimeStamp>
+     <Summary>David D. busted out of the tournament (Red, Seat 4) by Josh R. (Red, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:52:11</TimeStamp>
+     <Summary>End of round 17</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 14:52:15</TimeStamp>
+     <Summary>Start of round 18</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:01:47</TimeStamp>
+     <Summary>Josh M. busted out of the tournament (Red, Seat 2) by Josh R. (Red, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:12:15</TimeStamp>
+     <Summary>End of round 18</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:12:19</TimeStamp>
+     <Summary>Start of break 6</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:17:19</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:17:19</TimeStamp>
+     <Summary>Start of round 19</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:37:21</TimeStamp>
+     <Summary>End of round 19</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:37:25</TimeStamp>
+     <Summary>Start of round 20</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:55:45</TimeStamp>
+     <Summary>Duane busted out of the tournament (Red, Seat 6) by Rick Mickaliger (Red, Seat 5)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:57:25</TimeStamp>
+     <Summary>End of round 20</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 15:57:29</TimeStamp>
+     <Summary>Start of round 21</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:05:52</TimeStamp>
+     <Summary>Warren busted out of the tournament (Red, Seat 9) by Brig (Red, Seat 3)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:17:29</TimeStamp>
+     <Summary>End of round 21</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:17:33</TimeStamp>
+     <Summary>Start of break 7</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:21:03</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:21:03</TimeStamp>
+     <Summary>Start of round 22</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:41:05</TimeStamp>
+     <Summary>End of round 22</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:41:09</TimeStamp>
+     <Summary>Start of round 23</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 16:50:19</TimeStamp>
+     <Summary>Rick Mickaliger busted out of the tournament (Red, Seat 5) by Brig (Red, Seat 3)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:01:09</TimeStamp>
+     <Summary>End of round 23</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:01:13</TimeStamp>
+     <Summary>Start of round 24</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:22:42</TimeStamp>
+     <Summary>End of round 24</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:22:46</TimeStamp>
+     <Summary>Start of break 8</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:23:06</TimeStamp>
+     <Summary>User initiated next round</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:23:06</TimeStamp>
+     <Summary>Start of round 25</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:43:10</TimeStamp>
+     <Summary>End of round 25</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:43:14</TimeStamp>
+     <Summary>Start of round 26</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:50:02</TimeStamp>
+     <Summary>Brig busted out of the tournament (Red, Seat 3) by Josh R. (Red, Seat 1)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:50:02</TimeStamp>
+     <Summary>Josh R. won the tournament</Summary>
+    </History>
+    <History>
+     <TimeStamp>2017-05-06 17:50:02</TimeStamp>
+     <Summary>Tournament ended</Summary>
+    </History>
+   </GameHistory>
+  </Game>
+ </Games>
+</pXML>

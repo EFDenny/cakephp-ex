@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2013-2014" Name="June 2013 League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="25" ShowBuyinByPlayer="1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="5" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2013-06-14 19:15:58" TournamentEndDate="2013-06-14 22:42:03" TournamentComments="">
+ <Players>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="7" TournamentPts="6" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="10" TimeOut="2013-06-14 22:06:02"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="2" TournamentPts="10" Buyin="25" Rebuy="0" Addon="0" Payout="55" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="13" TimeOut="2013-06-14 22:42:03"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="9" TournamentPts="4" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2013-06-14 21:34:04"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="11" TournamentPts="1" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="5" TimeOut="2013-06-14 20:23:56"/>
+  <Player Name="Rick Mazza" FirstName="Rick" LastName="Mazza" Rank="1" TournamentPts="18" Buyin="25" Rebuy="0" Addon="0" Payout="110" Knockouts="7" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="" TimeOut=""/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="5" TournamentPts="8" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-06-14 22:12:25"/>
+  <Player Name="Duane" FirstName="Duane" LastName="Barone" Rank="10" TournamentPts="2" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="6" TimeOut="2013-06-14 20:50:41"/>
+  <Player Name="Lori" FirstName="Lori" LastName="Mazza" Rank="3" TournamentPts="9" Buyin="25" Rebuy="0" Addon="0" Payout="35" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2013-06-14 22:39:34"/>
+  <Player Name="Erik T." FirstName="Erik" LastName="Treiber" Rank="6" TournamentPts="6" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="10" TimeOut="2013-06-14 22:08:33"/>
+  <Player Name="Skippy" FirstName="Scott" LastName="Dishong" Rank="8" TournamentPts="4" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2013-06-14 21:43:50"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="4" TournamentPts="8" Buyin="25" Rebuy="0" Addon="0" Payout="20" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2013-06-14 22:31:21"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Tournament started"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Burgundy, Seat 1: Eric"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Burgundy, Seat 2: David D."/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Burgundy, Seat 3: Warren"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Burgundy, Seat 4: Mike C."/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Burgundy, Seat 5: Skippy"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Burgundy, Seat 6: Mandy"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Red, Seat 1: Dawn"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Red, Seat 2: Rick Mazza"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Red, Seat 3: Erik T."/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Red, Seat 4: Duane"/>
+  <History Timestamp="2013-06-14 19:15:58" Summary="Red, Seat 5: Lori"/>
+  <History Timestamp="2013-06-14 19:30:58" Summary="End of round 1"/>
+  <History Timestamp="2013-06-14 19:31:02" Summary="Start of round 2"/>
+  <History Timestamp="2013-06-14 19:46:02" Summary="End of round 2"/>
+  <History Timestamp="2013-06-14 19:46:06" Summary="Start of round 3"/>
+  <History Timestamp="2013-06-14 20:01:06" Summary="End of round 3"/>
+  <History Timestamp="2013-06-14 20:01:10" Summary="Start of round 4"/>
+  <History Timestamp="2013-06-14 20:16:10" Summary="End of round 4"/>
+  <History Timestamp="2013-06-14 20:16:14" Summary="Start of round 5"/>
+  <History Timestamp="2013-06-14 20:23:56" Summary="Mike C. busted out of the tournament (Burgundy, Seat 4) by David D. (Burgundy, Seat 2)"/>
+  <History Timestamp="2013-06-14 20:35:30" Summary="End of round 5"/>
+  <History Timestamp="2013-06-14 20:35:34" Summary="Start of break 1"/>
+  <History Timestamp="2013-06-14 20:45:34" Summary="End of break 1"/>
+  <History Timestamp="2013-06-14 20:45:38" Summary="Start of round 6"/>
+  <History Timestamp="2013-06-14 20:50:41" Summary="Duane busted out of the tournament (Burgundy, Seat 7) by Eric (Burgundy, Seat 1)"/>
+  <History Timestamp="2013-06-14 21:03:37" Summary="End of round 6"/>
+  <History Timestamp="2013-06-14 21:03:41" Summary="Start of round 7"/>
+  <History Timestamp="2013-06-14 21:18:41" Summary="End of round 7"/>
+  <History Timestamp="2013-06-14 21:18:45" Summary="Start of round 8"/>
+  <History Timestamp="2013-06-14 21:33:45" Summary="End of round 8"/>
+  <History Timestamp="2013-06-14 21:33:49" Summary="Start of round 9"/>
+  <History Timestamp="2013-06-14 21:34:04" Summary="Eric busted out of the tournament (Burgundy, Seat 1) by Warren (Burgundy, Seat 9)"/>
+  <History Timestamp="2013-06-14 21:43:50" Summary="Skippy busted out of the tournament (Burgundy, Seat 10) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 21:48:49" Summary="End of round 9"/>
+  <History Timestamp="2013-06-14 21:48:53" Summary="Start of break 2"/>
+  <History Timestamp="2013-06-14 21:55:24" Summary="User initiated next round"/>
+  <History Timestamp="2013-06-14 21:55:24" Summary="Start of round 10"/>
+  <History Timestamp="2013-06-14 22:06:02" Summary="David D. busted out of the tournament (Burgundy, Seat 8) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 22:08:33" Summary="Erik T. busted out of the tournament (Burgundy, Seat 4) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 22:10:51" Summary="End of round 10"/>
+  <History Timestamp="2013-06-14 22:10:55" Summary="Start of round 11"/>
+  <History Timestamp="2013-06-14 22:12:25" Summary="Warren busted out of the tournament (Burgundy, Seat 9) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 22:25:55" Summary="End of round 11"/>
+  <History Timestamp="2013-06-14 22:25:59" Summary="Start of round 12"/>
+  <History Timestamp="2013-06-14 22:31:21" Summary="Mandy busted out of the tournament (Burgundy, Seat 5) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 22:39:34" Summary="Lori busted out of the tournament (Burgundy, Seat 2) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 22:40:59" Summary="End of round 12"/>
+  <History Timestamp="2013-06-14 22:41:03" Summary="Start of round 13"/>
+  <History Timestamp="2013-06-14 22:42:03" Summary="Dawn busted out of the tournament (Burgundy, Seat 3) by Rick Mazza (Burgundy, Seat 6)"/>
+  <History Timestamp="2013-06-14 22:42:03" Summary="Rick Mazza won the tournament"/>
+  <History Timestamp="2013-06-14 22:42:03" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

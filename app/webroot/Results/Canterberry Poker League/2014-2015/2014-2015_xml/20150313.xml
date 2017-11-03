@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2014-2015" Name="#69" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="5" AllowAddOns="0" BountiesAllowed="-1" TournamentStartDate="2015-03-13 18:00:03" TournamentEndDate="2015-03-13 23:05:05" TournamentComments="">
+ <Players>
+  <Player Name="Andrew" FirstName="Andrew" LastName="Shier" Rank="9" TournamentPts="15" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="8" TimeOut="2015-03-13 20:19:02"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="7" TournamentPts="20" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="11" TimeOut="2015-03-13 21:26:00"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="10" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="8" TimeOut="2015-03-13 20:09:36"/>
+  <Player Name="Erik T." FirstName="Erik" LastName="Treiber" Rank="6" TournamentPts="22.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="13" TimeOut="2015-03-13 21:52:44"/>
+  <Player Name="Josh" FirstName="Josh" LastName="Reel" Rank="2" TournamentPts="37.5" Buyin="20" Rebuy="0" Addon="0" Payout="50" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="17" TimeOut="2015-03-13 23:05:04"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="3" TournamentPts="30" Buyin="20" Rebuy="0" Addon="0" Payout="25" Knockouts="3" KnockoutRevenue="15" BountyCost="5" BountyKept="0" RoundOut="16" TimeOut="2015-03-13 22:41:25"/>
+  <Player Name="Paul C." FirstName="Paul" LastName="Coffman" Rank="11" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="7" TimeOut="2015-03-13 20:02:10"/>
+  <Player Name="Rick Mazza" FirstName="Rick" LastName="Mazza" Rank="4" TournamentPts="27.5" Buyin="20" Rebuy="0" Addon="0" Payout="20" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="14" TimeOut="2015-03-13 22:12:04"/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="5" TournamentPts="25" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="13" TimeOut="2015-03-13 21:56:15"/>
+  <Player Name="Clay" FirstName="Clay" LastName="Yawn" Rank="1" TournamentPts="50" Buyin="20" Rebuy="0" Addon="0" Payout="70" Knockouts="3" KnockoutRevenue="15" BountyCost="5" BountyKept="5" RoundOut="" TimeOut=""/>
+  <Player Name="Mac" FirstName="Steve" LastName="Mclean" Rank="8" TournamentPts="17.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="11" TimeOut="2015-03-13 21:25:52"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Andrew bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="David D. bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Eric bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Erik T. bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Josh bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Lori bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Mike C. bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Paul C. bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Rick Mazza bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-15 11:20:34" Summary="Rick Mickaliger bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-02-27 13:29:13" Summary="Dawn bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-06 15:33:37" Summary="Clay bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-06 15:33:37" Summary="Kelly bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-11 16:06:13" Summary="Mac bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-11 16:06:13" Summary="Warren bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-13 13:28:45" Summary="Undo buy-in for Dawn (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-13 13:28:57" Summary="Undo buy-in for Kelly (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-13 13:29:02" Summary="Undo buy-in for Lori (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-13 13:33:43" Summary="Start of pre-tournament countdown"/>
+  <History Timestamp="2015-03-13 17:59:28" Summary="Undo buy-in for Warren (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-03-13 17:59:59" Summary="End of pre-tournament countdown"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Tournament started"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Blue, Seat 1: Josh"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Blue, Seat 3: Eric"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Blue, Seat 5: Mac"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Blue, Seat 6: Rick Mazza"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Blue, Seat 8: Rick Mickaliger"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Blue, Seat 10: David D."/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Burgundy, Seat 1: Paul C."/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Burgundy, Seat 5: Mike C."/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Burgundy, Seat 6: Erik T."/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Burgundy, Seat 8: Clay"/>
+  <History Timestamp="2015-03-13 18:00:03" Summary="Burgundy, Seat 10: Andrew"/>
+  <History Timestamp="2015-03-13 18:00:04" Summary="Start of round 1"/>
+  <History Timestamp="2015-03-13 18:25:43" Summary="End of round 1"/>
+  <History Timestamp="2015-03-13 18:25:47" Summary="Start of round 2"/>
+  <History Timestamp="2015-03-13 18:40:47" Summary="End of round 2"/>
+  <History Timestamp="2015-03-13 18:40:52" Summary="Start of round 3"/>
+  <History Timestamp="2015-03-13 18:55:51" Summary="End of round 3"/>
+  <History Timestamp="2015-03-13 18:55:55" Summary="Start of round 4"/>
+  <History Timestamp="2015-03-13 19:10:55" Summary="End of round 4"/>
+  <History Timestamp="2015-03-13 19:10:59" Summary="Start of break 1"/>
+  <History Timestamp="2015-03-13 19:20:59" Summary="End of break 1"/>
+  <History Timestamp="2015-03-13 19:22:03" Summary="Start of round 5"/>
+  <History Timestamp="2015-03-13 19:38:41" Summary="End of round 5"/>
+  <History Timestamp="2015-03-13 19:38:45" Summary="Start of round 6"/>
+  <History Timestamp="2015-03-13 19:53:45" Summary="End of round 6"/>
+  <History Timestamp="2015-03-13 19:53:49" Summary="Start of round 7"/>
+  <History Timestamp="2015-03-13 20:02:10" Summary="Paul C. busted out of the tournament (Burgundy, Seat 1) by Erik T. (Burgundy, Seat 6)"/>
+  <History Timestamp="2015-03-13 20:08:49" Summary="End of round 7"/>
+  <History Timestamp="2015-03-13 20:08:53" Summary="Start of round 8"/>
+  <History Timestamp="2015-03-13 20:09:36" Summary="Eric busted out of the tournament (Blue, Seat 3) by Mac (Blue, Seat 5)"/>
+  <History Timestamp="2015-03-13 20:19:02" Summary="Andrew busted out of the tournament (Blue, Seat 5) by Josh (Blue, Seat 4)"/>
+  <History Timestamp="2015-03-13 20:32:51" Summary="End of round 8"/>
+  <History Timestamp="2015-03-13 20:32:55" Summary="Start of round 9"/>
+  <History Timestamp="2015-03-13 20:47:55" Summary="End of round 9"/>
+  <History Timestamp="2015-03-13 20:47:59" Summary="Start of break 2"/>
+  <History Timestamp="2015-03-13 20:57:59" Summary="End of break 2"/>
+  <History Timestamp="2015-03-13 20:58:04" Summary="Start of round 10"/>
+  <History Timestamp="2015-03-13 21:15:11" Summary="End of round 10"/>
+  <History Timestamp="2015-03-13 21:15:15" Summary="Start of round 11"/>
+  <History Timestamp="2015-03-13 21:25:52" Summary="Mac busted out of the tournament (Blue, Seat 8) by Mike C. (Blue, Seat 3)"/>
+  <History Timestamp="2015-03-13 21:26:00" Summary="David D. busted out of the tournament (Blue, Seat 6) by Mike C. (Blue, Seat 3)"/>
+  <History Timestamp="2015-03-13 21:30:15" Summary="End of round 11"/>
+  <History Timestamp="2015-03-13 21:30:19" Summary="Start of round 12"/>
+  <History Timestamp="2015-03-13 21:45:19" Summary="End of round 12"/>
+  <History Timestamp="2015-03-13 21:45:23" Summary="Start of round 13"/>
+  <History Timestamp="2015-03-13 21:52:44" Summary="Erik T. busted out of the tournament (Blue, Seat 1) by Rick Mazza (Blue, Seat 2)"/>
+  <History Timestamp="2015-03-13 21:56:15" Summary="Rick Mickaliger busted out of the tournament (Blue, Seat 9) by Mike C. (Blue, Seat 3)"/>
+  <History Timestamp="2015-03-13 22:00:23" Summary="End of round 13"/>
+  <History Timestamp="2015-03-13 22:00:27" Summary="Start of round 14"/>
+  <History Timestamp="2015-03-13 22:12:04" Summary="Rick Mazza busted out of the tournament (Blue, Seat 2) by Clay (Blue, Seat 7)"/>
+  <History Timestamp="2015-03-13 22:15:27" Summary="End of round 14"/>
+  <History Timestamp="2015-03-13 22:15:31" Summary="Start of break 3"/>
+  <History Timestamp="2015-03-13 22:25:43" Summary="User initiated next round"/>
+  <History Timestamp="2015-03-13 22:25:43" Summary="Start of round 15"/>
+  <History Timestamp="2015-03-13 22:41:10" Summary="End of round 15"/>
+  <History Timestamp="2015-03-13 22:41:14" Summary="Start of round 16"/>
+  <History Timestamp="2015-03-13 22:41:25" Summary="Mike C. busted out of the tournament (Blue, Seat 3) by Clay (Blue, Seat 7)"/>
+  <History Timestamp="2015-03-13 22:56:14" Summary="End of round 16"/>
+  <History Timestamp="2015-03-13 22:56:18" Summary="Start of round 17"/>
+  <History Timestamp="2015-03-13 23:05:04" Summary="Josh busted out of the tournament (Blue, Seat 4) by Clay (Blue, Seat 7)"/>
+  <History Timestamp="2015-03-13 23:05:05" Summary="Clay won the tournament"/>
+  <History Timestamp="2015-03-13 23:05:05" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

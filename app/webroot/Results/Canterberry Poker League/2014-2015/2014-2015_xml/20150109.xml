@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2014-2015" Name="#67" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="5" AllowAddOns="0" BountiesAllowed="-1" TournamentStartDate="2015-01-09 19:11:47" TournamentEndDate="2015-01-09 23:42:37" TournamentComments="">
+ <Players>
+  <Player Name="Clay" FirstName="Clay" LastName="Yawn" Rank="15" TournamentPts="2.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="9" TimeOut="2015-01-09 21:33:08"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="19" TournamentPts="2.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="8" TimeOut="2015-01-09 21:14:01"/>
+  <Player Name="Josh" FirstName="Josh" LastName="Reel" Rank="17" TournamentPts="2.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="8" TimeOut="2015-01-09 21:23:07"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="13" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="9" TimeOut="2015-01-09 21:38:04"/>
+  <Player Name="Mac" FirstName="Steve" LastName="Mclean" Rank="8" TournamentPts="17.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="12" TimeOut="2015-01-09 22:30:47"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="12" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="10" TimeOut="2015-01-09 21:56:55"/>
+  <Player Name="Paul C." FirstName="Paul" LastName="Coffman" Rank="2" TournamentPts="37.5" Buyin="20" Rebuy="0" Addon="0" Payout="70" Knockouts="2" KnockoutRevenue="10" BountyCost="5" BountyKept="0" RoundOut="16" TimeOut="2015-01-09 23:42:37"/>
+  <Player Name="Rick Mazza" FirstName="Rick" LastName="Mazza" Rank="7" TournamentPts="20" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="12" TimeOut="2015-01-09 22:40:21"/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="3" TournamentPts="30" Buyin="20" Rebuy="0" Addon="0" Payout="50" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="14" TimeOut="2015-01-09 23:09:46"/>
+  <Player Name="Skippy" FirstName="Scott" LastName="Dishong" Rank="18" TournamentPts="2.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="8" TimeOut="2015-01-09 21:19:22"/>
+  <Player Name="Andrew" FirstName="Andrew" LastName="Shier" Rank="14" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="9" TimeOut="2015-01-09 21:35:57"/>
+  <Player Name="Chris H." FirstName="Chris" LastName="Huey" Rank="6" TournamentPts="22.5" Buyin="20" Rebuy="0" Addon="0" Payout="15" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="14" TimeOut="2015-01-09 22:58:47"/>
+  <Player Name="Dave G." FirstName="Dave" LastName="Grewe" Rank="4" TournamentPts="27.5" Buyin="20" Rebuy="0" Addon="0" Payout="30" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="14" TimeOut="2015-01-09 23:05:04"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="9" TournamentPts="15" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="11" TimeOut="2015-01-09 22:13:30"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="20" TournamentPts="2.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="4" TimeOut="2015-01-09 20:05:03"/>
+  <Player Name="Erik T." FirstName="Erik" LastName="Treiber" Rank="5" TournamentPts="25" Buyin="20" Rebuy="0" Addon="0" Payout="20" Knockouts="1" KnockoutRevenue="5" BountyCost="5" BountyKept="0" RoundOut="14" TimeOut="2015-01-09 23:04:55"/>
+  <Player Name="Mike M." FirstName="Mike" LastName="McEvoy" Rank="10" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="10" TimeOut="2015-01-09 22:08:10"/>
+  <Player Name="Steve" FirstName="Steve" LastName="Drown" Rank="1" TournamentPts="50" Buyin="20" Rebuy="0" Addon="0" Payout="115" Knockouts="11" KnockoutRevenue="55" BountyCost="5" BountyKept="5" RoundOut="" TimeOut=""/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="11" TournamentPts="10" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="10" TimeOut="2015-01-09 21:57:38"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="16" TournamentPts="2.5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="5" BountyKept="0" RoundOut="8" TimeOut="2015-01-09 21:24:32"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2015-01-09 18:13:27" Summary="Undo buy-in for Lori (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-01-09 18:13:40" Summary="Mandy bought-in (Fee: $20.00, Rake: $5.00, Chips: 10,000, Points: 0.0, Bounty Chip: $5.00, Profile: Master)"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Tournament started"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 1: Mandy"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 2: Rick Mickaliger"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 3: Lee"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 4: Steve"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 5: Paul C."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 6: Dawn"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 7: Chris H."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 8: Clay"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 9: Warren"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Blue, Seat 10: Eric"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 1: Josh"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 2: Rick Mazza"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 3: Mac"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 4: Erik T."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 5: Mike M."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 6: David D."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 7: Mike C."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 8: Dave G."/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 9: Andrew"/>
+  <History Timestamp="2015-01-09 19:11:47" Summary="Burgundy, Seat 10: Skippy"/>
+  <History Timestamp="2015-01-09 19:26:46" Summary="End of round 1"/>
+  <History Timestamp="2015-01-09 19:26:51" Summary="Start of round 2"/>
+  <History Timestamp="2015-01-09 19:41:51" Summary="End of round 2"/>
+  <History Timestamp="2015-01-09 19:41:55" Summary="Start of round 3"/>
+  <History Timestamp="2015-01-09 19:56:55" Summary="End of round 3"/>
+  <History Timestamp="2015-01-09 19:56:59" Summary="Start of round 4"/>
+  <History Timestamp="2015-01-09 20:05:03" Summary="Dawn busted out of the tournament (Blue, Seat 6) by Steve (Blue, Seat 4)"/>
+  <History Timestamp="2015-01-09 20:11:59" Summary="End of round 4"/>
+  <History Timestamp="2015-01-09 20:12:03" Summary="Start of break 1"/>
+  <History Timestamp="2015-01-09 20:22:03" Summary="End of break 1"/>
+  <History Timestamp="2015-01-09 20:22:07" Summary="Start of round 5"/>
+  <History Timestamp="2015-01-09 20:40:20" Summary="End of round 5"/>
+  <History Timestamp="2015-01-09 20:40:24" Summary="Start of round 6"/>
+  <History Timestamp="2015-01-09 20:55:24" Summary="End of round 6"/>
+  <History Timestamp="2015-01-09 20:55:28" Summary="Start of round 7"/>
+  <History Timestamp="2015-01-09 21:10:28" Summary="End of round 7"/>
+  <History Timestamp="2015-01-09 21:10:32" Summary="Start of round 8"/>
+  <History Timestamp="2015-01-09 21:14:01" Summary="Eric busted out of the tournament (Blue, Seat 10) by Chris H. (Blue, Seat 7)"/>
+  <History Timestamp="2015-01-09 21:19:22" Summary="Skippy busted out of the tournament (Burgundy, Seat 10) by Mac (Burgundy, Seat 3)"/>
+  <History Timestamp="2015-01-09 21:23:07" Summary="Josh busted out of the tournament (Burgundy, Seat 1) by David D. (Burgundy, Seat 6)"/>
+  <History Timestamp="2015-01-09 21:24:32" Summary="Mandy busted out of the tournament (Blue, Seat 1) by Rick Mickaliger (Blue, Seat 2)"/>
+  <History Timestamp="2015-01-09 21:26:02" Summary="End of round 8"/>
+  <History Timestamp="2015-01-09 21:26:06" Summary="Start of round 9"/>
+  <History Timestamp="2015-01-09 21:33:08" Summary="Clay busted out of the tournament (Blue, Seat 8) by Steve (Blue, Seat 4)"/>
+  <History Timestamp="2015-01-09 21:35:57" Summary="Andrew busted out of the tournament (Burgundy, Seat 9) by Dave G. (Burgundy, Seat 8)"/>
+  <History Timestamp="2015-01-09 21:38:04" Summary="Lee busted out of the tournament (Blue, Seat 3) by Steve (Blue, Seat 4)"/>
+  <History Timestamp="2015-01-09 21:41:06" Summary="End of round 9"/>
+  <History Timestamp="2015-01-09 21:41:10" Summary="Start of break 2"/>
+  <History Timestamp="2015-01-09 21:51:10" Summary="End of break 2"/>
+  <History Timestamp="2015-01-09 21:51:14" Summary="Start of round 10"/>
+  <History Timestamp="2015-01-09 21:56:55" Summary="Mike C. busted out of the tournament (Burgundy, Seat 7) by Erik T. (Burgundy, Seat 4)"/>
+  <History Timestamp="2015-01-09 21:57:38" Summary="Warren busted out of the tournament (Blue, Seat 9) by Paul C. (Blue, Seat 5)"/>
+  <History Timestamp="2015-01-09 22:07:34" Summary="Rick Mickaliger busted out of the tournament (Blue, Seat 5) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 22:08:01" Summary="Undo of last bust-out for player Rick Mickaliger ({2})"/>
+  <History Timestamp="2015-01-09 22:08:10" Summary="Mike M. busted out of the tournament (Blue, Seat 4) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 22:13:18" Summary="End of round 10"/>
+  <History Timestamp="2015-01-09 22:13:22" Summary="Start of round 11"/>
+  <History Timestamp="2015-01-09 22:13:30" Summary="David D. busted out of the tournament (Blue, Seat 2) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 22:28:22" Summary="End of round 11"/>
+  <History Timestamp="2015-01-09 22:28:26" Summary="Start of round 12"/>
+  <History Timestamp="2015-01-09 22:30:47" Summary="Mac busted out of the tournament (Blue, Seat 10) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 22:40:21" Summary="Rick Mazza busted out of the tournament (Blue, Seat 8) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 22:43:26" Summary="End of round 12"/>
+  <History Timestamp="2015-01-09 22:43:30" Summary="Start of round 13"/>
+  <History Timestamp="2015-01-09 22:58:30" Summary="End of round 13"/>
+  <History Timestamp="2015-01-09 22:58:34" Summary="Start of round 14"/>
+  <History Timestamp="2015-01-09 22:58:47" Summary="Chris H. busted out of the tournament (Blue, Seat 7) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 23:04:55" Summary="Erik T. busted out of the tournament (Blue, Seat 6) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 23:05:04" Summary="Dave G. busted out of the tournament (Blue, Seat 9) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 23:09:46" Summary="Rick Mickaliger busted out of the tournament (Blue, Seat 5) by Paul C. (Blue, Seat 1)"/>
+  <History Timestamp="2015-01-09 23:13:34" Summary="End of round 14"/>
+  <History Timestamp="2015-01-09 23:13:38" Summary="Start of break 3"/>
+  <History Timestamp="2015-01-09 23:15:33" Summary="User initiated next round"/>
+  <History Timestamp="2015-01-09 23:15:33" Summary="Start of round 15"/>
+  <History Timestamp="2015-01-09 23:30:35" Summary="End of round 15"/>
+  <History Timestamp="2015-01-09 23:30:39" Summary="Start of round 16"/>
+  <History Timestamp="2015-01-09 23:42:37" Summary="Paul C. busted out of the tournament (Blue, Seat 1) by Steve (Blue, Seat 3)"/>
+  <History Timestamp="2015-01-09 23:42:37" Summary="Tournament ended"/>
+  <History Timestamp="2015-01-09 23:42:37" Summary="Steve won the tournament"/>
+ </TournamentHistory>
+</Tournament>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2013-2014" Name="September 2013 League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="25" ShowBuyinByPlayer="1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="5" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2013-09-13 19:08:08" TournamentEndDate="2013-09-13 22:34:01" TournamentComments="">
+ <Players>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="6" TournamentPts="10" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="10" TimeOut="2013-09-13 22:01:45"/>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="15" TournamentPts="1" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="3" TimeOut="2013-09-13 19:53:13"/>
+  <Player Name="Rick Mazza" FirstName="Rick" LastName="Mazza" Rank="12" TournamentPts="4" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="7" TimeOut="2013-09-13 20:56:23"/>
+  <Player Name="Lori" FirstName="Lori" LastName="Mazza" Rank="3" TournamentPts="15" Buyin="25" Rebuy="0" Addon="0" Payout="40" Knockouts="2" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2013-09-13 22:26:03"/>
+  <Player Name="Kenny" FirstName="Kenny" LastName="Jones" Rank="5" TournamentPts="11" Buyin="25" Rebuy="0" Addon="0" Payout="20" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-09-13 22:16:52"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="14" TournamentPts="2" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="4" TimeOut="2013-09-13 20:03:31"/>
+  <Player Name="Mac" FirstName="Steve" LastName="Mclean" Rank="7" TournamentPts="9" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="10" TimeOut="2013-09-13 21:57:05"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="10" TournamentPts="6" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2013-09-13 21:43:33"/>
+  <Player Name="Erik T." FirstName="Erik" LastName="Treiber" Rank="2" TournamentPts="18" Buyin="25" Rebuy="0" Addon="0" Payout="75" Knockouts="4" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="12" TimeOut="2013-09-13 22:34:01"/>
+  <Player Name="Brian A." FirstName="Brian" LastName="Albers" Rank="1" TournamentPts="19" Buyin="25" Rebuy="0" Addon="0" Payout="140" Knockouts="4" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="" TimeOut=""/>
+  <Player Name="Duane" FirstName="Duane" LastName="Barone" Rank="13" TournamentPts="3" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="4" TimeOut="2013-09-13 20:08:43"/>
+  <Player Name="Mike M." FirstName="Mike" LastName="McEvoy" Rank="11" TournamentPts="5" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="7" TimeOut="2013-09-13 20:59:45"/>
+  <Player Name="Steve" FirstName="Steve" LastName="Drown" Rank="9" TournamentPts="9" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="2" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="9" TimeOut="2013-09-13 21:46:13"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="4" TournamentPts="14" Buyin="25" Rebuy="0" Addon="0" Payout="25" Knockouts="2" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="11" TimeOut="2013-09-13 22:21:02"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="7" TournamentPts="9" Buyin="25" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" BountyKept="0" RoundOut="10" TimeOut="2013-09-13 21:57:05"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-09 17:34:52" Summary=""/>
+  <History Timestamp="2013-09-11 14:54:59" Summary=""/>
+  <History Timestamp="2013-09-11 20:40:15" Summary=""/>
+  <History Timestamp="2013-09-11 20:40:40" Summary=""/>
+  <History Timestamp="2013-09-13 18:29:51" Summary=""/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Tournament started"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 1: Eric"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 2: Mandy"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 3: Kenny"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 4: Mike McEvoy"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 5: Lori"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 6: Lee"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 7: Mike C."/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Burgundy, Seat 8: Steve"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 1: Mac"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 2: Dawn"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 3: Erik T."/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 4: Warren"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 5: Rick Mazza"/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 6: Brian A."/>
+  <History Timestamp="2013-09-13 19:08:08" Summary="Red, Seat 7: Duane"/>
+  <History Timestamp="2013-09-13 19:23:07" Summary="End of round 1"/>
+  <History Timestamp="2013-09-13 19:23:11" Summary="Start of round 2"/>
+  <History Timestamp="2013-09-13 19:38:11" Summary="End of round 2"/>
+  <History Timestamp="2013-09-13 19:38:15" Summary="Start of round 3"/>
+  <History Timestamp="2013-09-13 19:53:13" Summary="Eric busted out of the tournament (Burgundy, Seat 1) by Steve (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-09-13 19:53:15" Summary="End of round 3"/>
+  <History Timestamp="2013-09-13 19:53:19" Summary="Start of round 4"/>
+  <History Timestamp="2013-09-13 20:03:31" Summary="Lee busted out of the tournament (Burgundy, Seat 6) by Steve (Burgundy, Seat 8)"/>
+  <History Timestamp="2013-09-13 20:08:19" Summary="End of round 4"/>
+  <History Timestamp="2013-09-13 20:08:23" Summary="Start of break 1"/>
+  <History Timestamp="2013-09-13 20:08:43" Summary="Duane busted out of the tournament (Red, Seat 7) by Erik T. (Red, Seat 3)"/>
+  <History Timestamp="2013-09-13 20:18:23" Summary="End of break 1"/>
+  <History Timestamp="2013-09-13 20:18:27" Summary="Start of round 5"/>
+  <History Timestamp="2013-09-13 20:33:27" Summary="End of round 5"/>
+  <History Timestamp="2013-09-13 20:33:31" Summary="Start of round 6"/>
+  <History Timestamp="2013-09-13 20:48:31" Summary="End of round 6"/>
+  <History Timestamp="2013-09-13 20:48:35" Summary="Start of round 7"/>
+  <History Timestamp="2013-09-13 20:56:23" Summary="Rick Mazza busted out of the tournament (Red, Seat 5) by Erik T. (Red, Seat 3)"/>
+  <History Timestamp="2013-09-13 20:59:45" Summary="Mike McEvoy busted out of the tournament (Burgundy, Seat 4) by Lori (Burgundy, Seat 5)"/>
+  <History Timestamp="2013-09-13 21:07:34" Summary="End of round 7"/>
+  <History Timestamp="2013-09-13 21:07:38" Summary="Start of round 8"/>
+  <History Timestamp="2013-09-13 21:22:38" Summary="End of round 8"/>
+  <History Timestamp="2013-09-13 21:22:42" Summary="Start of break 2"/>
+  <History Timestamp="2013-09-13 21:36:48" Summary="End of break 2"/>
+  <History Timestamp="2013-09-13 21:36:52" Summary="Start of round 9"/>
+  <History Timestamp="2013-09-13 21:43:33" Summary="Mandy busted out of the tournament (Red, Seat 4) by Mike C. (Red, Seat 1)"/>
+  <History Timestamp="2013-09-13 21:46:13" Summary="Steve busted out of the tournament (Red, Seat 6) by Erik T. (Red, Seat 8)"/>
+  <History Timestamp="2013-09-13 21:51:52" Summary="End of round 9"/>
+  <History Timestamp="2013-09-13 21:51:56" Summary="Start of round 10"/>
+  <History Timestamp="2013-09-13 21:57:05" Summary="Mac busted out of the tournament (Red, Seat 10) by Brian A. (Red, Seat 5)"/>
+  <History Timestamp="2013-09-13 21:57:05" Summary="Warren busted out of the tournament (Red, Seat 7) by Brian A. (Red, Seat 5)"/>
+  <History Timestamp="2013-09-13 22:01:45" Summary="Dawn busted out of the tournament (Red, Seat 3) by Mike C. (Red, Seat 1)"/>
+  <History Timestamp="2013-09-13 22:07:09" Summary="End of round 10"/>
+  <History Timestamp="2013-09-13 22:07:13" Summary="Start of round 11"/>
+  <History Timestamp="2013-09-13 22:16:52" Summary="Kenny busted out of the tournament (Red, Seat 2) by Lori (Red, Seat 9)"/>
+  <History Timestamp="2013-09-13 22:21:02" Summary="Mike C. busted out of the tournament (Red, Seat 1) by Erik T. (Red, Seat 8)"/>
+  <History Timestamp="2013-09-13 22:22:13" Summary="End of round 11"/>
+  <History Timestamp="2013-09-13 22:22:17" Summary="Start of round 12"/>
+  <History Timestamp="2013-09-13 22:26:03" Summary="Lori busted out of the tournament (Red, Seat 9) by Brian A. (Red, Seat 5)"/>
+  <History Timestamp="2013-09-13 22:34:01" Summary="Erik T. busted out of the tournament (Red, Seat 8) by Brian A. (Red, Seat 5)"/>
+  <History Timestamp="2013-09-13 22:34:01" Summary="Brian A. won the tournament"/>
+  <History Timestamp="2013-09-13 22:34:01" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

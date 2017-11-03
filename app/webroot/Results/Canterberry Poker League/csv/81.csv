@@ -1,0 +1,17 @@
+Rank,Nickname,Points,Buyin Cost,Prize Winnings,First Name,Last Name,Email 1,Email 2,Street Address,City,State,Zipcode,Country,Phone 1,Phone 2,Notes,Paid,Bounty Chip,Total Buyin Rake,Buyin Chips,Rebuys,Rebuys Cost,Total Rebuys Rake,Rebuys Chips,Add-ons,Add-ons Cost,Total Add-ons Rake,Add-ons Chips,Total Cost,Total Rake,Chips Bought,Time Out,Round Out,Hitman,Hits,Bounties Won,Bounty Winnings,Total Winnings,Take,Chip Count
+11,Charlie D.,6,20,0,Charlie,Drotar,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:12:01 pm,8,Jeff H.,0,0,0,0,-25,10000
+4,Eric,16,20,45,Eric,Denny,efdenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:17:32 pm,14,Mac,3,3,15,45,20,10000
+8,Josh R.,9,20,0,Josh,Reel,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:15:46 pm,11,Paul C.,0,0,0,0,-25,10000
+3,Lee,19,20,45,Lee,Ugarte,leeugarte@gmail.com,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,11:47:02 pm,16,Mac,3,3,15,45,20,10000
+1,Mac,26,0,100,Steve,McLean,,,,,,,,,,,true,0,0,10000,0,0,0,0,0,0,0,0,0,0,10000,,,,4,4,20,100,100,10000
+2,Mike M.,22,20,45,Mike,McEvoy,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,12:03:22 am,17,Mac,0,0,0,45,20,10000
+14,Rick Mazza,3,20,0,Rick,Mazza,rick_mazza@yahoo.com,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:11:30 pm,4,Jeff H.,0,0,0,0,-25,10000
+12,Ang,5,20,0,Angela,Denhof,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:54:08 pm,7,Mac,0,0,0,0,-25,10000
+16,Jeff S.,1,20,0,Jeff,Schliem,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,7:49:13 pm,3,Lee,0,0,0,0,-25,10000
+10,Andrew,7,20,0,Andrew,Shier,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:27:44 pm,8,Mandy,0,0,0,0,-25,10000
+6,Paul C.,11,20,5,Paul,Coffman,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:37:30 pm,12,Lee,1,1,5,5,-20,10000
+13,Steve,4,20,0,Steve,Drown,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,8:35:16 pm,5,Eric,0,0,0,0,-25,10000
+5,Jeff H.,13,20,35,Jeff Holderman,,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:59:27 pm,13,Eric,2,2,10,35,10,10000
+9,Mandy,8,20,10,Mandy,Denny,madenny@gmail.com,,12079 Rockdale St,Parker,CO,80138,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,9:53:01 pm,9,Eric,2,2,10,10,-15,10000
+15,Lance,2,20,0,Lance,Cain,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,7:59:24 pm,4,Mandy,0,0,0,0,-25,10000
+7,Duane,10,20,0,Duane,Barone,,,,,,,,,,,true,5,5,10000,0,0,0,0,0,0,0,0,25,5,10000,10:37:22 pm,12,Lee,0,0,0,0,-25,10000

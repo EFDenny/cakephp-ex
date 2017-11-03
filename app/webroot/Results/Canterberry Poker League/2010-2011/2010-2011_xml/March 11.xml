@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tournament type="TD v2" League="Canterberry Poker League" Season="2010-2011" Name="March 2011 League Tourney" TournamentType="No Limit" TournamentGame="Texas Hold 'Em" Buyin="20" ShowBuyinByPlayer="-1" RebuyAmount="0" AllowRebuys="0" AddOnAmount="0" AllowAddOns="0" BountiesAllowed="0" TournamentStartDate="2011-03-11 19:14:59" TournamentEndDate="2011-03-11 22:49:58" TournamentComments="">
+ <Players>
+  <Player Name="Eric" FirstName="Eric" LastName="Denny" Rank="11" TournamentPts="5" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2011-03-11 21:45:01"/>
+  <Player Name="Mandy" FirstName="Mandy" LastName="Denny" Rank="9" TournamentPts="7" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-03-11 22:28:35"/>
+  <Player Name="Rick" FirstName="Rick" LastName="Mazza" Rank="6" TournamentPts="12" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-03-11 22:37:54"/>
+  <Player Name="Kjell" FirstName="Kjell" LastName="Wygant" Rank="7" TournamentPts="11" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-03-11 22:32:42"/>
+  <Player Name="Dawn" FirstName="Dawn" LastName="Buzbee" Rank="8" TournamentPts="8" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-03-11 22:30:45"/>
+  <Player Name="Tom B." FirstName="Tom" LastName="Buzbee" Rank="3" TournamentPts="15" Buyin="20" Rebuy="0" Addon="0" Payout="45" Knockouts="1" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2011-03-11 22:43:27"/>
+  <Player Name="Dan" FirstName="Dan" LastName="Myers" Rank="4" TournamentPts="12" Buyin="20" Rebuy="0" Addon="0" Payout="27.5" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-03-11 22:39:54"/>
+  <Player Name="Charlie D." FirstName="Charlie" LastName="Drotar" Rank="14" TournamentPts="2" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="5" TimeOut="2011-03-11 20:44:38"/>
+  <Player Name="Mike C." FirstName="Mike" LastName="Conner" Rank="13" TournamentPts="3" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="7" TimeOut="2011-03-11 21:22:03"/>
+  <Player Name="Lee" FirstName="Lee" LastName="Ugarte" Rank="1" TournamentPts="25" Buyin="20" Rebuy="0" Addon="0" Payout="125" Knockouts="5" KnockoutRevenue="0" BountyCost="0" RoundOut="" TimeOut=""/>
+  <Player Name="Rick Mickaliger" FirstName="Rick" LastName="Mickaliger" Rank="12" TournamentPts="4" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="8" TimeOut="2011-03-11 21:36:42"/>
+  <Player Name="David D." FirstName="David" LastName="Doole" Rank="15" TournamentPts="1" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="5" TimeOut="2011-03-11 20:37:17"/>
+  <Player Name="Ashley" FirstName="Ashley" LastName="Ugarte" Rank="10" TournamentPts="6" Buyin="20" Rebuy="0" Addon="0" Payout="0" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="9" TimeOut="2011-03-11 21:58:08"/>
+  <Player Name="Josh" FirstName="" LastName="" Rank="4" TournamentPts="12" Buyin="20" Rebuy="0" Addon="0" Payout="27.5" Knockouts="0" KnockoutRevenue="0" BountyCost="0" RoundOut="11" TimeOut="2011-03-11 22:39:54"/>
+  <Player Name="Warren" FirstName="Warren" LastName="Mervin" Rank="2" TournamentPts="26" Buyin="20" Rebuy="0" Addon="0" Payout="75" Knockouts="6" KnockoutRevenue="0" BountyCost="0" RoundOut="12" TimeOut="2011-03-11 22:49:58"/>
+ </Players>
+ <TournamentHistory>
+  <History Timestamp="2011-03-11 20:37:17" Summary="David D. busted out of the tournament (Red, Seat 1) by Warren (Red, Seat 2)"/>
+  <History Timestamp="2011-03-11 20:44:38" Summary="Charlie D. busted out of the tournament (Red, Seat 5) by Warren (Red, Seat 2)"/>
+  <History Timestamp="2011-03-11 21:36:42" Summary="Rick Mickaliger busted out of the tournament (Red, Seat 1) by Kjell (Red, Seat 3)"/>
+  <History Timestamp="2011-03-11 21:45:01" Summary="Eric busted out of the tournament (Burgundy, Seat 6) by Lee (Burgundy, Seat 8)"/>
+  <History Timestamp="2011-03-11 21:58:08" Summary="Ashley busted out of the tournament (Burgundy, Seat 3) by Rick (Burgundy, Seat 8)"/>
+  <History Timestamp="2011-03-11 22:28:35" Summary="Mandy busted out of the tournament (Burgundy, Seat 7) by Warren (Burgundy, Seat 1)"/>
+  <History Timestamp="2011-03-11 22:30:45" Summary="Dawn busted out of the tournament (Burgundy, Seat 4) by Warren (Burgundy, Seat 1)"/>
+  <History Timestamp="2011-03-11 22:32:42" Summary="Kjell busted out of the tournament (Burgundy, Seat 10) by Lee (Burgundy, Seat 9)"/>
+  <History Timestamp="2011-03-11 22:37:54" Summary="Rick busted out of the tournament (Burgundy, Seat 8) by Lee (Burgundy, Seat 9)"/>
+  <History Timestamp="2011-03-11 22:39:54" Summary="Dan busted out of the tournament (Burgundy, Seat 6) by Warren (Burgundy, Seat 1)"/>
+  <History Timestamp="2011-03-11 22:39:54" Summary="Josh busted out of the tournament (Burgundy, Seat 2) by Warren (Burgundy, Seat 1)"/>
+  <History Timestamp="2011-03-11 22:43:27" Summary="Tom B. busted out of the tournament (Burgundy, Seat 5) by Lee (Burgundy, Seat 9)"/>
+  <History Timestamp="2011-03-11 22:49:58" Summary="Warren busted out of the tournament (Burgundy, Seat 1) by Lee (Burgundy, Seat 9)"/>
+  <History Timestamp="2011-03-11 22:49:58" Summary="Lee won the tournament"/>
+  <History Timestamp="2011-03-11 22:49:58" Summary="Tournament ended"/>
+ </TournamentHistory>
+</Tournament>

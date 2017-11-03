@@ -1,0 +1,1127 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+    <title>Tournament Director Player Statistics</title>
+  </head>
+
+  <style type="text/css">
+    BODY
+    {
+      background-color: #7288a3;
+    }
+
+    .infotable
+    {
+      border: 2px solid #000000;
+      padding: 8px;
+      background-color: #ffffff;
+      color: #000000;
+      font-family: Tahoma;
+      font-size: 12pt;
+    }
+
+    .eventname
+    {
+      font-size: 16pt;
+      font-weight: bold;
+    }
+
+    .description
+    {
+      font-weight: bold;
+    }
+
+    .statsTable
+    {
+      border: 2px solid #000000;
+      padding: 8px;
+      background-color: #ffffff;
+      color: #000000;
+      font-family: Tahoma;
+      font-size: 10pt;
+    }
+
+    .statsColumnHeader
+    {
+      font-weight: bold;
+      padding-left: 5px;
+      padding-right: 5px;
+      white-space: nowrap;
+   }
+
+    .statsColumn
+    {
+      padding-left: 5px;
+      padding-right: 5px;
+      white-space: nowrap;
+   }
+
+    .odd
+    {
+    }
+
+    .even
+    {
+      background-color: #eeeeee;
+    }
+
+  </style>
+
+  <script>
+
+var TDSort = (function()
+{
+  // the column index on which we are sorting
+  var sortIndex = -1;
+  // was the last sort a reverse sort?
+  var reverseSort = false;
+  // not going to try too hard for browser compatibility - just check for IE or non-IE
+  var mTextKey = document.all ? "innerText" : "textContent";
+  var mTableID = "";
+  var mHeaderRowID = "";
+  var mData = [[{Text: "1", SortValue: 0, Align: "left", Index: 0, IsIndex: true}, {Text: "David D.", SortValue: "David D.", Align: "left"}, {Text: "128", SortValue: 128, Align: "left"}, {Text: "10", SortValue: 10, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "6", SortValue: 6, Align: "left"}, {Text: "16", SortValue: 16, Align: "left"}, {Text: "$350", SortValue: 350, Align: "left"}, {Text: "$200", SortValue: 200, Align: "left"}, {Text: "$150", SortValue: 150, Align: "left"}], [{Text: "2", SortValue: 0, Align: "left", Index: 1}, {Text: "Charlie D.", SortValue: "Charlie D.", Align: "left"}, {Text: "109", SortValue: 109, Align: "left"}, {Text: "9", SortValue: 9, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "3", SortValue: 3, Align: "left"}, {Text: "11", SortValue: 11, Align: "left"}, {Text: "$229", SortValue: 229, Align: "left"}, {Text: "$180", SortValue: 180, Align: "left"}, {Text: "$49", SortValue: 49, Align: "left"}], [{Text: "3", SortValue: 0, Align: "left", Index: 2}, {Text: "Tom B.", SortValue: "Tom B.", Align: "left"}, {Text: "104", SortValue: 104, Align: "left"}, {Text: "10", SortValue: 10, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "4", SortValue: 4, Align: "left"}, {Text: "12", SortValue: 12, Align: "left"}, {Text: "$277", SortValue: 277, Align: "left"}, {Text: "$200", SortValue: 200, Align: "left"}, {Text: "$77", SortValue: 77, Align: "left"}], [{Text: "4", SortValue: 0, Align: "left", Index: 3}, {Text: "Rick Mickaliger", SortValue: "Rick Mickaliger", Align: "left"}, {Text: "100", SortValue: 100, Align: "left"}, {Text: "6", SortValue: 6, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "5", SortValue: 5, Align: "left"}, {Text: "15", SortValue: 15, Align: "left"}, {Text: "$319", SortValue: 319, Align: "left"}, {Text: "$120", SortValue: 120, Align: "left"}, {Text: "$199", SortValue: 199, Align: "left"}], [{Text: "5", SortValue: 0, Align: "left", Index: 4}, {Text: "Eric", SortValue: "Eric", Align: "left"}, {Text: "91", SortValue: 91, Align: "left"}, {Text: "10", SortValue: 10, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "$110", SortValue: 110, Align: "left"}, {Text: "$200", SortValue: 200, Align: "left"}, {Text: "$-90", SortValue: -90, Align: "left"}], [{Text: "6", SortValue: 0, Align: "left", Index: 5}, {Text: "Warren", SortValue: "Warren", Align: "left"}, {Text: "79", SortValue: 79, Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "3", SortValue: 3, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "$195", SortValue: 195, Align: "left"}, {Text: "$160", SortValue: 160, Align: "left"}, {Text: "$35", SortValue: 35, Align: "left"}], [{Text: "7", SortValue: 0, Align: "left", Index: 6}, {Text: "Josh R.", SortValue: "Josh R.", Align: "left"}, {Text: "79", SortValue: 79, Align: "left"}, {Text: "6", SortValue: 6, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "4", SortValue: 4, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "$280", SortValue: 280, Align: "left"}, {Text: "$120", SortValue: 120, Align: "left"}, {Text: "$160", SortValue: 160, Align: "left"}], [{Text: "8", SortValue: 0, Align: "left", Index: 7}, {Text: "Lee", SortValue: "Lee", Align: "left"}, {Text: "78", SortValue: 78, Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "9", SortValue: 9, Align: "left"}, {Text: "$151", SortValue: 151, Align: "left"}, {Text: "$160", SortValue: 160, Align: "left"}, {Text: "$-9", SortValue: -9, Align: "left"}], [{Text: "9", SortValue: 0, Align: "left", Index: 8}, {Text: "Kelly", SortValue: "Kelly", Align: "left"}, {Text: "71", SortValue: 71, Align: "left"}, {Text: "6", SortValue: 6, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "4", SortValue: 4, Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "$176", SortValue: 176, Align: "left"}, {Text: "$120", SortValue: 120, Align: "left"}, {Text: "$56", SortValue: 56, Align: "left"}], [{Text: "10", SortValue: 0, Align: "left", Index: 9}, {Text: "Mandy", SortValue: "Mandy", Align: "left"}, {Text: "67", SortValue: 67, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "$60", SortValue: 60, Align: "left"}, {Text: "$140", SortValue: 140, Align: "left"}, {Text: "$-80", SortValue: -80, Align: "left"}], [{Text: "11", SortValue: 0, Align: "left", Index: 10}, {Text: "Rick Mazza", SortValue: "Rick Mazza", Align: "left"}, {Text: "66", SortValue: 66, Align: "left"}, {Text: "9", SortValue: 9, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "$143", SortValue: 143, Align: "left"}, {Text: "$180", SortValue: 180, Align: "left"}, {Text: "$-37", SortValue: -37, Align: "left"}], [{Text: "12", SortValue: 0, Align: "left", Index: 11}, {Text: "Erik T.", SortValue: "Erik T.", Align: "left"}, {Text: "65", SortValue: 65, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "5", SortValue: 5, Align: "left"}, {Text: "$47", SortValue: 47, Align: "left"}, {Text: "$140", SortValue: 140, Align: "left"}, {Text: "$-93", SortValue: -93, Align: "left"}], [{Text: "13", SortValue: 0, Align: "left", Index: 12}, {Text: "Dawn", SortValue: "Dawn", Align: "left"}, {Text: "65", SortValue: 65, Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "4", SortValue: 4, Align: "left"}, {Text: "$120", SortValue: 120, Align: "left"}, {Text: "$160", SortValue: 160, Align: "left"}, {Text: "$-40", SortValue: -40, Align: "left"}], [{Text: "14", SortValue: 0, Align: "left", Index: 13}, {Text: "Lori", SortValue: "Lori", Align: "left"}, {Text: "57", SortValue: 57, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "5", SortValue: 5, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$140", SortValue: 140, Align: "left"}, {Text: "$-140", SortValue: -140, Align: "left"}], [{Text: "15", SortValue: 0, Align: "left", Index: 14}, {Text: "Mike C.", SortValue: "Mike C.", Align: "left"}, {Text: "56", SortValue: 56, Align: "left"}, {Text: "7", SortValue: 7, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "5", SortValue: 5, Align: "left"}, {Text: "$43", SortValue: 43, Align: "left"}, {Text: "$140", SortValue: 140, Align: "left"}, {Text: "$-97", SortValue: -97, Align: "left"}], [{Text: "16", SortValue: 0, Align: "left", Index: 15}, {Text: "Mac", SortValue: "Mac", Align: "left"}, {Text: "43", SortValue: 43, Align: "left"}, {Text: "5", SortValue: 5, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "$66", SortValue: 66, Align: "left"}, {Text: "$100", SortValue: 100, Align: "left"}, {Text: "$-34", SortValue: -34, Align: "left"}], [{Text: "17", SortValue: 0, Align: "left", Index: 16}, {Text: "Ashley", SortValue: "Ashley", Align: "left"}, {Text: "43", SortValue: 43, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "$95", SortValue: 95, Align: "left"}, {Text: "$40", SortValue: 40, Align: "left"}, {Text: "$55", SortValue: 55, Align: "left"}], [{Text: "18", SortValue: 0, Align: "left", Index: 17}, {Text: "Duane", SortValue: "Duane", Align: "left"}, {Text: "31", SortValue: 31, Align: "left"}, {Text: "6", SortValue: 6, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$120", SortValue: 120, Align: "left"}, {Text: "$-120", SortValue: -120, Align: "left"}], [{Text: "19", SortValue: 0, Align: "left", Index: 18}, {Text: "Brian A.", SortValue: "Brian A.", Align: "left"}, {Text: "24", SortValue: 24, Align: "left"}, {Text: "3", SortValue: 3, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$60", SortValue: 60, Align: "left"}, {Text: "$-40", SortValue: -40, Align: "left"}], [{Text: "20", SortValue: 0, Align: "left", Index: 19}, {Text: "Kjell", SortValue: "Kjell", Align: "left"}, {Text: "17", SortValue: 17, Align: "left"}, {Text: "3", SortValue: 3, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$60", SortValue: 60, Align: "left"}, {Text: "$-60", SortValue: -60, Align: "left"}], [{Text: "21", SortValue: 0, Align: "left", Index: 20}, {Text: "Paul D.", SortValue: "Paul D.", Align: "left"}, {Text: "16", SortValue: 16, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "$75", SortValue: 75, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$55", SortValue: 55, Align: "left"}], [{Text: "22", SortValue: 0, Align: "left", Index: 21}, {Text: "Mike M.", SortValue: "Mike M.", Align: "left"}, {Text: "11", SortValue: 11, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$-20", SortValue: -20, Align: "left"}], [{Text: "23", SortValue: 0, Align: "left", Index: 22}, {Text: "Jerry", SortValue: "Jerry", Align: "left"}, {Text: "8", SortValue: 8, Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$40", SortValue: 40, Align: "left"}, {Text: "$-40", SortValue: -40, Align: "left"}], [{Text: "24", SortValue: 0, Align: "left", Index: 23}, {Text: "Rob", SortValue: "Rob", Align: "left"}, {Text: "5", SortValue: 5, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$-20", SortValue: -20, Align: "left"}], [{Text: "25", SortValue: 0, Align: "left", Index: 24}, {Text: "Brian S.", SortValue: "Brian S.", Align: "left"}, {Text: "3", SortValue: 3, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$-20", SortValue: -20, Align: "left"}], [{Text: "26", SortValue: 0, Align: "left", Index: 25}, {Text: "Steve", SortValue: "Steve", Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$-20", SortValue: -20, Align: "left"}], [{Text: "27", SortValue: 0, Align: "left", Index: 26}, {Text: "Mike S.", SortValue: "Mike S.", Align: "left"}, {Text: "2", SortValue: 2, Align: "left"}, {Text: "1", SortValue: 1, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "0", SortValue: 0, Align: "left"}, {Text: "$0", SortValue: 0, Align: "left"}, {Text: "$20", SortValue: 20, Align: "left"}, {Text: "$-20", SortValue: -20, Align: "left"}]];
+  var mIndexCol = -1;
+
+
+
+  // initialize the page
+  function init(inTableID, inHeaderRowID)
+  {
+    mTableID = inTableID;
+    mHeaderRowID = inHeaderRowID;
+
+    // set the "Index" column
+    if(mData.length > 0)
+    {
+      for(var i=0, iLen = mData[0].length; i < iLen; i++)
+      {
+        if(mData[0][i]["IsIndex"])
+          mIndexCol = i;
+      }
+    }
+
+    // install an onClick handler for each column header
+    var theRow = document.getElementById(mHeaderRowID);
+    var getSortFn = function(inIndex) { return function() { sortByColumn(inIndex); }; }
+
+    if(theRow)
+    {
+      for(var i=0, iLen = theRow.cells.length; i < iLen; i++)
+      {
+        if(i != mIndexCol)
+        {
+          theRow.cells[i].onclick = getSortFn(i);
+          theRow.cells[i].style.cursor = "pointer";
+        }
+      }
+    }
+
+    // put a reference to each row in the data, if we haven't already
+    var theRows = document.getElementById(mTableID).rows;
+
+    for(var i=0, iLen = mData.length; i < iLen; i++)
+      mData[i].Row = theRows[i + 1];
+  }
+
+
+
+  // sort fn
+  function sortRow(a, b)
+  {
+    var aVal = a[sortIndex].SortValue;
+    var bVal = b[sortIndex].SortValue;
+
+    if((aVal === null) || (bVal === null))
+    {
+      // for equal values, fall back on the row index
+      if(aVal === bVal)
+        return a[0].Index - b[0].Index;
+
+      return aVal === null ? -1 : 1;
+    }
+
+    if(aVal < bVal)
+      return -1;
+    else if(aVal > bVal)
+      return 1;
+
+    // for equal values, fall back on the row index
+    return a[0].Index - b[0].Index;
+  }
+
+
+
+  function sortByColumn(inIndex)
+  {
+    if(mData.length == 0)
+      return;
+
+    if(inIndex == sortIndex)
+      reverseSort = !reverseSort; // sorting the same column, again, so reverse the current sort
+    else
+      reverseSort = false; // if sorting on a new column, always reset to forward sort
+
+    sortIndex = inIndex;
+
+    var theTable = document.getElementById(mTableID);
+    var theParent = theTable.rows[0].parentNode;
+
+    // remove all rows, in current sort order (appears to be the fastest way)
+    for(var i=0, iLen = mData.length; i < iLen; i++)
+      theParent.removeChild(mData[i].Row);
+
+    // sort the rows
+    mData.sort(sortRow);
+
+    if(reverseSort)
+      mData.reverse();
+
+    // put the rows back in the new sorted order
+    // there may or may not be an empty row followed by a sum and average rows, so for an easy solution insert the
+    // rows before the header row, then pop the header row off and put it back in front of the first row
+    var theHeader = theParent.rows[0];
+
+    for(var i=0, iLen = mData.length; i < iLen; i++)
+    {
+      // set the row's class to maintain even/odd row shading
+      mData[i].Row.className = (i % 2) ? "odd" : "even";
+      theParent.insertBefore(mData[i].Row, theHeader);
+    }
+
+    theParent.removeChild(theHeader);
+    theParent.insertBefore(theHeader, mData[0].Row);
+
+    // update the index column
+    if(mIndexCol >= 0)
+    {
+      for(var i=0, iLen = mData.length; i < iLen; i++)
+        mData[i].Row.cells[mIndexCol][mTextKey] = "" + (i+1);
+    }
+  }
+
+
+
+  return {
+    init: init
+  };
+
+}());
+
+  </script>
+
+  <body onLoad="if(TDSort) { TDSort.init('pTable', 'pColumns') }">
+
+    <center>
+      <table border="0" class="infoTable">
+        <tr> 
+          <td class="eventname" align="center">2011-2012 Player Statistics</td>
+        </tr>
+        <tr>
+          <td class="description" align="center"><statsinfo></td>
+        </tr>
+      </table>
+
+      <p>
+
+      <table id="pTable" border="5" cellspacing="5" class="statsTable">
+        <tr id="pColumns">
+<td valign="middle" align="middle" class="statsColumnHeader">
+#
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Name
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Overall Score
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Buy-ins
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Wins
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Times Placed
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Hits
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Total Winnings
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Total Cost
+</td>
+<td valign="middle" align="middle" class="statsColumnHeader">
+Total Take
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+David D.
+</td>
+<td class="statsColumn" align="middle">
+128
+</td>
+<td class="statsColumn" align="middle">
+10
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+6
+</td>
+<td class="statsColumn" align="middle">
+16
+</td>
+<td class="statsColumn" align="middle">
+$350
+</td>
+<td class="statsColumn" align="middle">
+$200
+</td>
+<td class="statsColumn" align="middle">
+$150
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+Charlie D.
+</td>
+<td class="statsColumn" align="middle">
+109
+</td>
+<td class="statsColumn" align="middle">
+9
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+3
+</td>
+<td class="statsColumn" align="middle">
+11
+</td>
+<td class="statsColumn" align="middle">
+$229
+</td>
+<td class="statsColumn" align="middle">
+$180
+</td>
+<td class="statsColumn" align="middle">
+$49
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+3
+</td>
+<td class="statsColumn" align="middle">
+Tom B.
+</td>
+<td class="statsColumn" align="middle">
+104
+</td>
+<td class="statsColumn" align="middle">
+10
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+4
+</td>
+<td class="statsColumn" align="middle">
+12
+</td>
+<td class="statsColumn" align="middle">
+$277
+</td>
+<td class="statsColumn" align="middle">
+$200
+</td>
+<td class="statsColumn" align="middle">
+$77
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+4
+</td>
+<td class="statsColumn" align="middle">
+Rick Mickaliger
+</td>
+<td class="statsColumn" align="middle">
+100
+</td>
+<td class="statsColumn" align="middle">
+6
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+15
+</td>
+<td class="statsColumn" align="middle">
+$319
+</td>
+<td class="statsColumn" align="middle">
+$120
+</td>
+<td class="statsColumn" align="middle">
+$199
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+Eric
+</td>
+<td class="statsColumn" align="middle">
+91
+</td>
+<td class="statsColumn" align="middle">
+10
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+$110
+</td>
+<td class="statsColumn" align="middle">
+$200
+</td>
+<td class="statsColumn" align="middle">
+$-90
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+6
+</td>
+<td class="statsColumn" align="middle">
+Warren
+</td>
+<td class="statsColumn" align="middle">
+79
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+3
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+$195
+</td>
+<td class="statsColumn" align="middle">
+$160
+</td>
+<td class="statsColumn" align="middle">
+$35
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+Josh R.
+</td>
+<td class="statsColumn" align="middle">
+79
+</td>
+<td class="statsColumn" align="middle">
+6
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+4
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+$280
+</td>
+<td class="statsColumn" align="middle">
+$120
+</td>
+<td class="statsColumn" align="middle">
+$160
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+Lee
+</td>
+<td class="statsColumn" align="middle">
+78
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+9
+</td>
+<td class="statsColumn" align="middle">
+$151
+</td>
+<td class="statsColumn" align="middle">
+$160
+</td>
+<td class="statsColumn" align="middle">
+$-9
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+9
+</td>
+<td class="statsColumn" align="middle">
+Kelly
+</td>
+<td class="statsColumn" align="middle">
+71
+</td>
+<td class="statsColumn" align="middle">
+6
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+4
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+$176
+</td>
+<td class="statsColumn" align="middle">
+$120
+</td>
+<td class="statsColumn" align="middle">
+$56
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+10
+</td>
+<td class="statsColumn" align="middle">
+Mandy
+</td>
+<td class="statsColumn" align="middle">
+67
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+$60
+</td>
+<td class="statsColumn" align="middle">
+$140
+</td>
+<td class="statsColumn" align="middle">
+$-80
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+11
+</td>
+<td class="statsColumn" align="middle">
+Rick Mazza
+</td>
+<td class="statsColumn" align="middle">
+66
+</td>
+<td class="statsColumn" align="middle">
+9
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+$143
+</td>
+<td class="statsColumn" align="middle">
+$180
+</td>
+<td class="statsColumn" align="middle">
+$-37
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+12
+</td>
+<td class="statsColumn" align="middle">
+Erik T.
+</td>
+<td class="statsColumn" align="middle">
+65
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+$47
+</td>
+<td class="statsColumn" align="middle">
+$140
+</td>
+<td class="statsColumn" align="middle">
+$-93
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+13
+</td>
+<td class="statsColumn" align="middle">
+Dawn
+</td>
+<td class="statsColumn" align="middle">
+65
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+4
+</td>
+<td class="statsColumn" align="middle">
+$120
+</td>
+<td class="statsColumn" align="middle">
+$160
+</td>
+<td class="statsColumn" align="middle">
+$-40
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+14
+</td>
+<td class="statsColumn" align="middle">
+Lori
+</td>
+<td class="statsColumn" align="middle">
+57
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$140
+</td>
+<td class="statsColumn" align="middle">
+$-140
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+15
+</td>
+<td class="statsColumn" align="middle">
+Mike C.
+</td>
+<td class="statsColumn" align="middle">
+56
+</td>
+<td class="statsColumn" align="middle">
+7
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+$43
+</td>
+<td class="statsColumn" align="middle">
+$140
+</td>
+<td class="statsColumn" align="middle">
+$-97
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+16
+</td>
+<td class="statsColumn" align="middle">
+Mac
+</td>
+<td class="statsColumn" align="middle">
+43
+</td>
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+$66
+</td>
+<td class="statsColumn" align="middle">
+$100
+</td>
+<td class="statsColumn" align="middle">
+$-34
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+17
+</td>
+<td class="statsColumn" align="middle">
+Ashley
+</td>
+<td class="statsColumn" align="middle">
+43
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+$95
+</td>
+<td class="statsColumn" align="middle">
+$40
+</td>
+<td class="statsColumn" align="middle">
+$55
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+18
+</td>
+<td class="statsColumn" align="middle">
+Duane
+</td>
+<td class="statsColumn" align="middle">
+31
+</td>
+<td class="statsColumn" align="middle">
+6
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$120
+</td>
+<td class="statsColumn" align="middle">
+$-120
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+19
+</td>
+<td class="statsColumn" align="middle">
+Brian A.
+</td>
+<td class="statsColumn" align="middle">
+24
+</td>
+<td class="statsColumn" align="middle">
+3
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$60
+</td>
+<td class="statsColumn" align="middle">
+$-40
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+20
+</td>
+<td class="statsColumn" align="middle">
+Kjell
+</td>
+<td class="statsColumn" align="middle">
+17
+</td>
+<td class="statsColumn" align="middle">
+3
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$60
+</td>
+<td class="statsColumn" align="middle">
+$-60
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+21
+</td>
+<td class="statsColumn" align="middle">
+Paul D.
+</td>
+<td class="statsColumn" align="middle">
+16
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+$75
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$55
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+22
+</td>
+<td class="statsColumn" align="middle">
+Mike M.
+</td>
+<td class="statsColumn" align="middle">
+11
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$-20
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+23
+</td>
+<td class="statsColumn" align="middle">
+Jerry
+</td>
+<td class="statsColumn" align="middle">
+8
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$40
+</td>
+<td class="statsColumn" align="middle">
+$-40
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+24
+</td>
+<td class="statsColumn" align="middle">
+Rob
+</td>
+<td class="statsColumn" align="middle">
+5
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$-20
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+25
+</td>
+<td class="statsColumn" align="middle">
+Brian S.
+</td>
+<td class="statsColumn" align="middle">
+3
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$-20
+</td>
+</tr>
+<tr class="odd">
+<td class="statsColumn" align="middle">
+26
+</td>
+<td class="statsColumn" align="middle">
+Steve
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$-20
+</td>
+</tr>
+<tr class="even">
+<td class="statsColumn" align="middle">
+27
+</td>
+<td class="statsColumn" align="middle">
+Mike S.
+</td>
+<td class="statsColumn" align="middle">
+2
+</td>
+<td class="statsColumn" align="middle">
+1
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+0
+</td>
+<td class="statsColumn" align="middle">
+$0
+</td>
+<td class="statsColumn" align="middle">
+$20
+</td>
+<td class="statsColumn" align="middle">
+$-20
+</td>
+</tr>
+      </table>
+    </center>
+
+  </body>
+</html>
