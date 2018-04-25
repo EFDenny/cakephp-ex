@@ -1,0 +1,779 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+    <title>#97</title>
+  </head>
+
+  <style type="text/css">
+    BODY
+    {
+      background-color: #7288a3;
+    }
+
+    .infotable
+    {
+      border: 2px solid #000000;
+      padding: 8px;
+      background-color: #ffffff;
+      color: #000000;
+      font-family: Tahoma;
+      font-size: 12pt;
+    }
+
+    .eventname
+    {
+      font-size: 16pt;
+      font-weight: bold;
+    }
+
+    .description
+    {
+      font-weight: bold;
+    }
+
+    .league
+    {
+    }
+
+    .season
+    {
+    }
+
+    .financials
+    {
+    }
+
+    .info
+    {
+    }
+
+    .playerRankingsTable
+    {
+      border: 2px solid #000000;
+      padding: 8px;
+      background-color: #ffffff;
+      color: #000000;
+      font-family: Tahoma;
+      font-size: 10pt;
+    }
+
+    .playerRankingsColumnHeader
+    {
+      font-weight: bold;
+      padding-left: 5px;
+      padding-right: 5px;
+      white-space: nowrap;
+   }
+
+    .playerRankingsColumn
+    {
+      padding-left: 5px;
+      padding-right: 5px;
+      white-space: nowrap;
+   }
+
+    .odd
+    {
+    }
+
+    .even
+    {
+      background-color: #eeeeee;
+    }
+
+  </style>
+
+  <script>
+
+var TDSort = (function()
+{
+  // the column index on which we are sorting
+  var sortIndex = -1;
+  // was the last sort a reverse sort?
+  var reverseSort = false;
+  // not going to try too hard for browser compatibility - just check for IE or non-IE
+  var mTextKey = document.all ? "innerText" : "textContent";
+  var mTableID = "";
+  var mHeaderRowID = "";
+  var mData = [{Index: 0, Columns: [{Text: "1", HTML: "1", SortValue: 0, Align: 2}, {Text: "Duane", HTML: "Duane", SortValue: "duane", Align: 0}, {Text: "31", HTML: "31", SortValue: 31, Align: 2}, {Text: "4", HTML: "4", SortValue: 4, Align: 2}, {Text: "$170", HTML: "$170", SortValue: 170, Align: 2}, {Text: "", HTML: "", SortValue: "", Align: 0}, {Text: "4h 57m 33s", HTML: "4h 57m 33s", SortValue: 17853, Align: 2}]}, {Index: 1, Columns: [{Text: "2", HTML: "2", SortValue: 1, Align: 2}, {Text: "Andrew", HTML: "Andrew", SortValue: "andrew", Align: 0}, {Text: "27", HTML: "27", SortValue: 27, Align: 2}, {Text: "4", HTML: "4", SortValue: 4, Align: 2}, {Text: "$120", HTML: "$120", SortValue: 120, Align: 2}, {Text: "Duane", HTML: "Duane", SortValue: "duane", Align: 0}, {Text: "4h 57m 33s", HTML: "4h 57m 33s", SortValue: 17853, Align: 2}]}, {Index: 2, Columns: [{Text: "3", HTML: "3", SortValue: 2, Align: 2}, {Text: "Josh R.", HTML: "Josh R.", SortValue: "josh r.", Align: 0}, {Text: "24", HTML: "24", SortValue: 24, Align: 2}, {Text: "3", HTML: "3", SortValue: 3, Align: 2}, {Text: "$75", HTML: "$75", SortValue: 75, Align: 2}, {Text: "Andrew", HTML: "Andrew", SortValue: "andrew", Align: 0}, {Text: "4h 51m 38s", HTML: "4h 51m 38s", SortValue: 17498, Align: 2}]}, {Index: 3, Columns: [{Text: "4", HTML: "4", SortValue: 3, Align: 2}, {Text: "Doole", HTML: "Doole", SortValue: "doole", Align: 0}, {Text: "21", HTML: "21", SortValue: 21, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "$50", HTML: "$50", SortValue: 50, Align: 2}, {Text: "Duane", HTML: "Duane", SortValue: "duane", Align: 0}, {Text: "4h 20m 52s", HTML: "4h 20m 52s", SortValue: 15652, Align: 2}]}, {Index: 4, Columns: [{Text: "5", HTML: "5", SortValue: 4, Align: 2}, {Text: "Eric", HTML: "Eric", SortValue: "eric", Align: 0}, {Text: "18", HTML: "18", SortValue: 18, Align: 2}, {Text: "2", HTML: "2", SortValue: 2, Align: 2}, {Text: "$50", HTML: "$50", SortValue: 50, Align: 2}, {Text: "Duane", HTML: "Duane", SortValue: "duane", Align: 0}, {Text: "4h 16m 27s", HTML: "4h 16m 27s", SortValue: 15387, Align: 2}]}, {Index: 5, Columns: [{Text: "6", HTML: "6", SortValue: 5, Align: 2}, {Text: "Jeff H.", HTML: "Jeff H.", SortValue: "jeff h.", Align: 0}, {Text: "16", HTML: "16", SortValue: 16, Align: 2}, {Text: "1", HTML: "1", SortValue: 1, Align: 2}, {Text: "$5", HTML: "$5", SortValue: 5, Align: 2}, {Text: "Josh R.", HTML: "Josh R.", SortValue: "josh r.", Align: 0}, {Text: "4h 8m 11s", HTML: "4h 8m 11s", SortValue: 14891, Align: 2}]}, {Index: 6, Columns: [{Text: "7", HTML: "7", SortValue: 6, Align: 2}, {Text: "Lee", HTML: "Lee", SortValue: "lee", Align: 0}, {Text: "15", HTML: "15", SortValue: 15, Align: 2}, {Text: "3", HTML: "3", SortValue: 3, Align: 2}, {Text: "$15", HTML: "$15", SortValue: 15, Align: 2}, {Text: "Josh R.", HTML: "Josh R.", SortValue: "josh r.", Align: 0}, {Text: "4h 0m 9s", HTML: "4h 0m 9s", SortValue: 14409, Align: 2}]}, {Index: 7, Columns: [{Text: "8", HTML: "8", SortValue: 7, Align: 2}, {Text: "Mike W.", HTML: "Mike W.", SortValue: "mike w.", Align: 0}, {Text: "14", HTML: "14", SortValue: 14, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Duane", HTML: "Duane", SortValue: "duane", Align: 0}, {Text: "3h 46m 38s", HTML: "3h 46m 38s", SortValue: 13598, Align: 2}]}, {Index: 8, Columns: [{Text: "9", HTML: "9", SortValue: 8, Align: 2}, {Text: "Charlie D.", HTML: "Charlie D.", SortValue: "charlie d.", Align: 0}, {Text: "13", HTML: "13", SortValue: 13, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Andrew", HTML: "Andrew", SortValue: "andrew", Align: 0}, {Text: "3h 33m 51s", HTML: "3h 33m 51s", SortValue: 12831, Align: 2}]}, {Index: 9, Columns: [{Text: "10", HTML: "10", SortValue: 9, Align: 2}, {Text: "Mike C.", HTML: "Mike C.", SortValue: "mike c.", Align: 0}, {Text: "12", HTML: "12", SortValue: 12, Align: 2}, {Text: "2", HTML: "2", SortValue: 2, Align: 2}, {Text: "$10", HTML: "$10", SortValue: 10, Align: 2}, {Text: "Eric", HTML: "Eric", SortValue: "eric", Align: 0}, {Text: "3h 29m 8s", HTML: "3h 29m 8s", SortValue: 12548, Align: 2}]}, {Index: 10, Columns: [{Text: "11", HTML: "11", SortValue: 10, Align: 2}, {Text: "Mike M.", HTML: "Mike M.", SortValue: "mike m.", Align: 0}, {Text: "11", HTML: "11", SortValue: 11, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Lee", HTML: "Lee", SortValue: "lee", Align: 0}, {Text: "2h 59m 44s", HTML: "2h 59m 44s", SortValue: 10784, Align: 2}]}, {Index: 11, Columns: [{Text: "12", HTML: "12", SortValue: 11, Align: 2}, {Text: "Jeff F.", HTML: "Jeff F.", SortValue: "jeff f.", Align: 0}, {Text: "10", HTML: "10", SortValue: 10, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Eric", HTML: "Eric", SortValue: "eric", Align: 0}, {Text: "2h 51m 9s", HTML: "2h 51m 9s", SortValue: 10269, Align: 2}]}, {Index: 12, Columns: [{Text: "13", HTML: "13", SortValue: 12, Align: 2}, {Text: "Jeff R.", HTML: "Jeff R.", SortValue: "jeff r.", Align: 0}, {Text: "9", HTML: "9", SortValue: 9, Align: 2}, {Text: "1", HTML: "1", SortValue: 1, Align: 2}, {Text: "$5", HTML: "$5", SortValue: 5, Align: 2}, {Text: "Andrew", HTML: "Andrew", SortValue: "andrew", Align: 0}, {Text: "2h 46m 1s", HTML: "2h 46m 1s", SortValue: 9961, Align: 2}]}, {Index: 13, Columns: [{Text: "14", HTML: "14", SortValue: 13, Align: 2}, {Text: "Skippy", HTML: "Skippy", SortValue: "skippy", Align: 0}, {Text: "8", HTML: "8", SortValue: 8, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Lee", HTML: "Lee", SortValue: "lee", Align: 0}, {Text: "2h 23m 20s", HTML: "2h 23m 20s", SortValue: 8600, Align: 2}]}, {Index: 14, Columns: [{Text: "15", HTML: "15", SortValue: 14, Align: 2}, {Text: "Paul C.", HTML: "Paul C.", SortValue: "paul c.", Align: 0}, {Text: "7", HTML: "7", SortValue: 7, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Mike C.", HTML: "Mike C.", SortValue: "mike c.", Align: 0}, {Text: "2h 21m 31s", HTML: "2h 21m 31s", SortValue: 8491, Align: 2}]}, {Index: 15, Columns: [{Text: "16", HTML: "16", SortValue: 15, Align: 2}, {Text: "Brig", HTML: "Brig", SortValue: "brig", Align: 0}, {Text: "6", HTML: "6", SortValue: 6, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Mike C.", HTML: "Mike C.", SortValue: "mike c.", Align: 0}, {Text: "2h 16m 2s", HTML: "2h 16m 2s", SortValue: 8162, Align: 2}]}, {Index: 16, Columns: [{Text: "17", HTML: "17", SortValue: 16, Align: 2}, {Text: "Lance", HTML: "Lance", SortValue: "lance", Align: 0}, {Text: "5", HTML: "5", SortValue: 5, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Josh R.", HTML: "Josh R.", SortValue: "josh r.", Align: 0}, {Text: "2h 1m 7s", HTML: "2h 1m 7s", SortValue: 7267, Align: 2}]}, {Index: 17, Columns: [{Text: "18", HTML: "18", SortValue: 17, Align: 2}, {Text: "Rick Mazza", HTML: "Rick Mazza", SortValue: "rick mazza", Align: 0}, {Text: "4", HTML: "4", SortValue: 4, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Lee", HTML: "Lee", SortValue: "lee", Align: 0}, {Text: "1h 48m 57s", HTML: "1h 48m 57s", SortValue: 6537, Align: 2}]}, {Index: 18, Columns: [{Text: "19", HTML: "19", SortValue: 18, Align: 2}, {Text: "Mac", HTML: "Mac", SortValue: "mac", Align: 0}, {Text: "3", HTML: "3", SortValue: 3, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Jeff H.", HTML: "Jeff H.", SortValue: "jeff h.", Align: 0}, {Text: "1h 45m 26s", HTML: "1h 45m 26s", SortValue: 6326, Align: 2}]}, {Index: 19, Columns: [{Text: "20", HTML: "20", SortValue: 19, Align: 2}, {Text: "Greg", HTML: "Greg", SortValue: "greg", Align: 0}, {Text: "2", HTML: "2", SortValue: 2, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Jeff R.", HTML: "Jeff R.", SortValue: "jeff r.", Align: 0}, {Text: "1h 35m 0s", HTML: "1h 35m 0s", SortValue: 5700, Align: 2}]}, {Index: 20, Columns: [{Text: "21", HTML: "21", SortValue: 20, Align: 2}, {Text: "Rick Mickaliger", HTML: "Rick Mickaliger", SortValue: "rick mickaliger", Align: 0}, {Text: "1", HTML: "1", SortValue: 1, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "", HTML: "", SortValue: 0, Align: 2}, {Text: "Andrew", HTML: "Andrew", SortValue: "andrew", Align: 0}, {Text: "1h 34m 15s", HTML: "1h 34m 15s", SortValue: 5655, Align: 2}]}];
+  var mIndexCol = -1;
+
+
+
+  // initialize the page
+  function init(inTableID, inHeaderRowID)
+  {
+    mTableID = inTableID;
+    mHeaderRowID = inHeaderRowID;
+
+    // set the "Index" column
+    if(mData.length > 0)
+    {
+      for(var i=0, iLen = mData[0].length; i < iLen; i++)
+      {
+        if(mData[0][i]["IsIndex"])
+          mIndexCol = i;
+      }
+    }
+
+    // install an onClick handler for each column header
+    var theRow = document.getElementById(mHeaderRowID);
+    var getSortFn = function(inIndex) { return function() { sortByColumn(inIndex); }; }
+
+    if(theRow)
+    {
+      for(var i=0, iLen = theRow.cells.length; i < iLen; i++)
+      {
+        if(i != mIndexCol)
+        {
+          theRow.cells[i].onclick = getSortFn(i);
+          theRow.cells[i].style.cursor = "pointer";
+        }
+      }
+    }
+
+    // put a reference to each row in the data, if we haven't already
+    var theRows = document.getElementById(mTableID).rows;
+
+    for(var i=0, iLen = mData.length; i < iLen; i++)
+      mData[i].Row = theRows[i + 1];
+  }
+
+
+
+  // sort fn
+  function sortRow(a, b)
+  {
+    var aVal = a[sortIndex].SortValue;
+    var bVal = b[sortIndex].SortValue;
+
+    if((aVal === null) || (bVal === null))
+    {
+      // for equal values, fall back on the row index
+      if(aVal === bVal)
+        return a[0].Index - b[0].Index;
+
+      return aVal === null ? -1 : 1;
+    }
+
+    if(aVal < bVal)
+      return -1;
+    else if(aVal > bVal)
+      return 1;
+
+    // for equal values, fall back on the row index
+    return a[0].Index - b[0].Index;
+  }
+
+
+
+  function sortByColumn(inIndex)
+  {
+    if(mData.length == 0)
+      return;
+
+    if(inIndex == sortIndex)
+      reverseSort = !reverseSort; // sorting the same column, again, so reverse the current sort
+    else
+      reverseSort = false; // if sorting on a new column, always reset to forward sort
+
+    sortIndex = inIndex;
+
+    var theTable = document.getElementById(mTableID);
+    var theParent = theTable.rows[0].parentNode;
+
+    // remove all rows, in current sort order (appears to be the fastest way)
+    for(var i=0, iLen = mData.length; i < iLen; i++)
+      theParent.removeChild(mData[i].Row);
+
+    // sort the rows
+    mData.sort(sortRow);
+
+    if(reverseSort)
+      mData.reverse();
+
+    // put the rows back in the new sorted order
+    // there may or may not be an empty row followed by a sum and average rows, so for an easy solution insert the
+    // rows before the header row, then pop the header row off and put it back in front of the first row
+    var theHeader = theParent.rows[0];
+
+    for(var i=0, iLen = mData.length; i < iLen; i++)
+    {
+      // set the row's class to maintain even/odd row shading
+      mData[i].Row.className = (i % 2) ? "odd" : "even";
+      theParent.insertBefore(mData[i].Row, theHeader);
+    }
+
+    theParent.removeChild(theHeader);
+    theParent.insertBefore(theHeader, mData[0].Row);
+
+    // update the index column
+    if(mIndexCol >= 0)
+    {
+      for(var i=0, iLen = mData.length; i < iLen; i++)
+        mData[i].Row.cells[mIndexCol][mTextKey] = "" + (i+1);
+    }
+  }
+
+
+
+  return {
+    init: init
+  };
+
+}());
+
+  </script>
+
+  <body onLoad="if(TDSort) { TDSort.init('pTable', 'pColumns') }">
+
+    <center>
+      <table border="5" class="infoTable">
+        <tr> 
+          <td class="eventname" align="center">#97</td>
+        </tr>
+        <tr>
+          <td class="description" align="center">1/12/2018 - January 2018 League Tourney</td>
+        </tr>
+        <tr>
+          <td class="league" align="center">League: Canterberry Poker League</td>
+        </tr>
+        <tr>
+          <td class="season" align="center">Season: 2017-2018</td>
+        </tr>
+        <tr>
+          <td><hr size=1 width=80% style="color: #000000" /></td>
+        </tr>
+        <tr>
+          <td class="financials" align="center">$25 Buy-in</td>
+        </tr>
+        <tr>
+          <td><hr size=1 width=80% style="color: #000000" /></td>
+        </tr>
+        <tr>
+          <td class="info" align="center">21 Players</td>
+        </tr>
+        <tr>
+          <td class="info" align="center">$400 Prize Pool - 5 Payouts</td>
+        </tr>
+        <tr>
+          <td class="info" align="center">Started: 7:09:14 pm 01/12/2018</td>
+        </tr>
+        <tr>
+          <td class="info" align="center">Ended: 12:06:47 am 01/13/2018</td>
+        </tr>
+      </table>
+
+      <p>
+
+      <table id="pTable" border="5" cellspacing="5" class="playerRankingsTable">
+        <tr id="pColumns"><td valign="middle" align="middle" class="playerRankingsColumn playerRankingsColumnHeader">
+#
+</td>
+<td valign="middle" align="left" class="playerRankingsColumn playerRankingsColumnHeader">
+Name
+</td>
+<td valign="middle" align="middle" class="playerRankingsColumn playerRankingsColumnHeader">
+Points
+</td>
+<td valign="middle" align="middle" class="playerRankingsColumn playerRankingsColumnHeader">
+Hits
+</td>
+<td valign="middle" align="middle" class="playerRankingsColumn playerRankingsColumnHeader">
+Total Winnings
+</td>
+<td valign="middle" align="left" class="playerRankingsColumn playerRankingsColumnHeader">
+Hitman
+</td>
+<td valign="middle" align="middle" class="playerRankingsColumn playerRankingsColumnHeader">
+Playing Time
+</td></tr>
+
+        <tr class=even>
+<td align="2" class="playerRankingsColumn">
+1
+</td>
+<td align="0" class="playerRankingsColumn">
+Duane
+</td>
+<td align="2" class="playerRankingsColumn">
+31
+</td>
+<td align="2" class="playerRankingsColumn">
+4
+</td>
+<td align="2" class="playerRankingsColumn">
+$170
+</td>
+<td align="0" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 57m 33s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+2
+</td>
+<td align="0" class="playerRankingsColumn">
+Andrew
+</td>
+<td align="2" class="playerRankingsColumn">
+27
+</td>
+<td align="2" class="playerRankingsColumn">
+4
+</td>
+<td align="2" class="playerRankingsColumn">
+$120
+</td>
+<td align="0" class="playerRankingsColumn">
+Duane
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 57m 33s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+3
+</td>
+<td align="0" class="playerRankingsColumn">
+Josh R.
+</td>
+<td align="2" class="playerRankingsColumn">
+24
+</td>
+<td align="2" class="playerRankingsColumn">
+3
+</td>
+<td align="2" class="playerRankingsColumn">
+$75
+</td>
+<td align="0" class="playerRankingsColumn">
+Andrew
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 51m 38s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+4
+</td>
+<td align="0" class="playerRankingsColumn">
+Doole
+</td>
+<td align="2" class="playerRankingsColumn">
+21
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+$50
+</td>
+<td align="0" class="playerRankingsColumn">
+Duane
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 20m 52s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+5
+</td>
+<td align="0" class="playerRankingsColumn">
+Eric
+</td>
+<td align="2" class="playerRankingsColumn">
+18
+</td>
+<td align="2" class="playerRankingsColumn">
+2
+</td>
+<td align="2" class="playerRankingsColumn">
+$50
+</td>
+<td align="0" class="playerRankingsColumn">
+Duane
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 16m 27s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+6
+</td>
+<td align="0" class="playerRankingsColumn">
+Jeff H.
+</td>
+<td align="2" class="playerRankingsColumn">
+16
+</td>
+<td align="2" class="playerRankingsColumn">
+1
+</td>
+<td align="2" class="playerRankingsColumn">
+$5
+</td>
+<td align="0" class="playerRankingsColumn">
+Josh R.
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 8m 11s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+7
+</td>
+<td align="0" class="playerRankingsColumn">
+Lee
+</td>
+<td align="2" class="playerRankingsColumn">
+15
+</td>
+<td align="2" class="playerRankingsColumn">
+3
+</td>
+<td align="2" class="playerRankingsColumn">
+$15
+</td>
+<td align="0" class="playerRankingsColumn">
+Josh R.
+</td>
+<td align="2" class="playerRankingsColumn">
+4h 0m 9s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+8
+</td>
+<td align="0" class="playerRankingsColumn">
+Mike W.
+</td>
+<td align="2" class="playerRankingsColumn">
+14
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Duane
+</td>
+<td align="2" class="playerRankingsColumn">
+3h 46m 38s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+9
+</td>
+<td align="0" class="playerRankingsColumn">
+Charlie D.
+</td>
+<td align="2" class="playerRankingsColumn">
+13
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Andrew
+</td>
+<td align="2" class="playerRankingsColumn">
+3h 33m 51s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+10
+</td>
+<td align="0" class="playerRankingsColumn">
+Mike C.
+</td>
+<td align="2" class="playerRankingsColumn">
+12
+</td>
+<td align="2" class="playerRankingsColumn">
+2
+</td>
+<td align="2" class="playerRankingsColumn">
+$10
+</td>
+<td align="0" class="playerRankingsColumn">
+Eric
+</td>
+<td align="2" class="playerRankingsColumn">
+3h 29m 8s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+11
+</td>
+<td align="0" class="playerRankingsColumn">
+Mike M.
+</td>
+<td align="2" class="playerRankingsColumn">
+11
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Lee
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 59m 44s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+12
+</td>
+<td align="0" class="playerRankingsColumn">
+Jeff F.
+</td>
+<td align="2" class="playerRankingsColumn">
+10
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Eric
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 51m 9s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+13
+</td>
+<td align="0" class="playerRankingsColumn">
+Jeff R.
+</td>
+<td align="2" class="playerRankingsColumn">
+9
+</td>
+<td align="2" class="playerRankingsColumn">
+1
+</td>
+<td align="2" class="playerRankingsColumn">
+$5
+</td>
+<td align="0" class="playerRankingsColumn">
+Andrew
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 46m 1s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+14
+</td>
+<td align="0" class="playerRankingsColumn">
+Skippy
+</td>
+<td align="2" class="playerRankingsColumn">
+8
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Lee
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 23m 20s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+15
+</td>
+<td align="0" class="playerRankingsColumn">
+Paul C.
+</td>
+<td align="2" class="playerRankingsColumn">
+7
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Mike C.
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 21m 31s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+16
+</td>
+<td align="0" class="playerRankingsColumn">
+Brig
+</td>
+<td align="2" class="playerRankingsColumn">
+6
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Mike C.
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 16m 2s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+17
+</td>
+<td align="0" class="playerRankingsColumn">
+Lance
+</td>
+<td align="2" class="playerRankingsColumn">
+5
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Josh R.
+</td>
+<td align="2" class="playerRankingsColumn">
+2h 1m 7s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+18
+</td>
+<td align="0" class="playerRankingsColumn">
+Rick Mazza
+</td>
+<td align="2" class="playerRankingsColumn">
+4
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Lee
+</td>
+<td align="2" class="playerRankingsColumn">
+1h 48m 57s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+19
+</td>
+<td align="0" class="playerRankingsColumn">
+Mac
+</td>
+<td align="2" class="playerRankingsColumn">
+3
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Jeff H.
+</td>
+<td align="2" class="playerRankingsColumn">
+1h 45m 26s
+</td>
+</tr>
+<tr class=odd>
+<td align="2" class="playerRankingsColumn">
+20
+</td>
+<td align="0" class="playerRankingsColumn">
+Greg
+</td>
+<td align="2" class="playerRankingsColumn">
+2
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Jeff R.
+</td>
+<td align="2" class="playerRankingsColumn">
+1h 35m 0s
+</td>
+</tr>
+<tr class=even>
+<td align="2" class="playerRankingsColumn">
+21
+</td>
+<td align="0" class="playerRankingsColumn">
+Rick Mickaliger
+</td>
+<td align="2" class="playerRankingsColumn">
+1
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="2" class="playerRankingsColumn">
+
+</td>
+<td align="0" class="playerRankingsColumn">
+Andrew
+</td>
+<td align="2" class="playerRankingsColumn">
+1h 34m 15s
+</td>
+</tr>
+      </table>
+    </center>
+
+  </body>
+</html>
